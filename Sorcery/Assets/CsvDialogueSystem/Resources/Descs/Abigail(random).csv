@@ -1,0 +1,18 @@
+﻿__Page_Desc;;;;;
+__Line_NpcName;_Eng;Abigail;
+;;;;;
+__Page_Welcome;;;;;
+__Line_NpcAnswer;_Eng;You realize there's a ton of people dancing south of the campus right?;
+__Line_Common;_Eng;...Am I supposed to join them?;
+;;;;;
+__Page_Common;;;;;
+__Line_NpcAnswer;_Eng;Well, I think you should get involved with what's going around campus.; 
+__Line_Effect;_SubStamina;3;;;;
+__Line_Bye;_Eng;Thanks for the tip... maybe I'll check it out.;
+;;;;;
+__Page_Bye;;;;;
+__Line_NpcAnswer;_Eng;Maybe? Yeah, you're really not trying to get involved.;
+__Line_Exit;_Eng;Nice talk...;
+;;;;;
+__Page_Exit;;;;;
+__Line_Effect;_Exit;;;;

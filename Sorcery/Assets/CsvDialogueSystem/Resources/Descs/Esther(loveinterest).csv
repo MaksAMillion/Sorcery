@@ -1,0 +1,18 @@
+﻿__Page_Desc;;;;;
+__Line_NpcName;_Eng;Esther;
+;;;;;
+__Page_Welcome;;;;;
+__Line_NpcAnswer;_Eng;Seems like you're new to this school. You should check out some of the cool things on campus.;
+__Line_Common;_Eng;Yeah that's what I'm trying to do.;
+;;;;;
+__Page_Common;;;;;
+__Line_NpcAnswer;_Eng;You shoud see the Art building. There's a cool statue in front of the building made by a past student.; 
+__Line_Effect;_AddStamina;1;;;;
+__Line_Bye;_Eng;I'll head there soon.;
+;;;;;
+__Page_Bye;;;;;
+__Line_NpcAnswer;_Eng;Perfect. It's near the Music and English building. Check it out on your map! See you around!;
+__Line_Exit;_Eng;You too!;
+;;;;;
+__Page_Exit;;;;;
+__Line_Effect;_Exit;;;;

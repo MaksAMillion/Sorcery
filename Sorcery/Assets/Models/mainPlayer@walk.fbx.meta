@@ -1,0 +1,2149 @@
+fileFormatVersion: 2
+guid: 57ec271da308434458ee899e6d5469b1
+timeCreated: 1507747887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Character
+    100002: Head_anotherstupidnull
+    100004: Head_anothertotationisolate
+    100006: Head_constraintCompensate
+    100008: Head_emulatejoint1
+    100010: Head_FK
+    100012: Head_fk
+    100014: Head_FKcluster
+    100016: Head_fkikswitchnull
+    100018: Head_fknull
+    100020: Head_IKcluster
+    100022: Head_ikHandle1
+    100024: Head_influence1
+    100026: Head_influence1_compensate
+    100028: Head_influence2
+    100030: Head_influence2_compensate
+    100032: Head_influence3
+    100034: Head_influence3_compensate
+    100036: Head_influence4
+    100038: Head_influence4_compensate
+    100040: Head_influence5
+    100042: Head_influence5_compensate
+    100044: Head_isolatecalculate
+    100046: Head_joint1
+    100048: Head_joint2
+    100050: Head_joint3
+    100052: Head_joint4
+    100054: Head_JOINTS
+    100056: Head_middleneckrotate
+    100058: Head_Neck
+    100060: Head_pivotCompensate
+    100062: Head_RIG
+    100064: Head_rigjoint1
+    100066: Head_rigjoint3
+    100068: Head_rigjoint4
+    100070: Head_rotated
+    100072: Head_rotationisolated
+    100074: Head_scalingCompensate
+    100076: Head_setupthing
+    100078: Head_stretchy
+    100080: HeadFrontTracker
+    100082: HeadFrontTracker_null
+    100084: HeadTopTracker
+    100086: HeadTopTracker_null
+    100088: Jaw
+    100090: jaw_joint
+    100092: jaw_null
+    100094: JOINTS
+    100096: LeftAnkleTracker
+    100098: LeftAnkleTracker_null
+    100100: LeftArm_Arm_IK_Handle
+    100102: LeftArm_Arm_Pole_Vector
+    100104: LeftArm_Arm_Pole_Vector_SWITCH
+    100106: LeftArm_clusters
+    100108: LeftArm_constraintCompensate
+    100110: LeftArm_distancemeasure
+    100112: LeftArm_elbowcluster
+    100114: LeftArm_elbowcounterscaler
+    100116: LeftArm_fk
+    100118: LeftArm_FKhandnull
+    100120: LeftArm_fkikswitchnull
+    100122: LeftArm_Hand
+    100124: LeftArm_Hand_SWITCH
+    100126: LeftArm_handcluster
+    100128: LeftArm_handcontrolnull
+    100130: LeftArm_HandTranslate
+    100132: LeftArm_ikcluster
+    100134: LeftArm_immitateshoulder
+    100136: LeftArm_influence1
+    100138: LeftArm_influence10
+    100140: LeftArm_influence10_compensate
+    100142: LeftArm_influence11_intermediate_constrain
+    100144: LeftArm_influence11_intermediate_constrain_compensate
+    100146: LeftArm_influence11_intermediate_constrain_halfNode
+    100148: LeftArm_influence1_compensate
+    100150: LeftArm_influence2
+    100152: LeftArm_influence2_compensate
+    100154: LeftArm_influence3_intermediate
+    100156: LeftArm_influence3_intermediate_compensate
+    100158: LeftArm_influence3_intermediate_halfNode
+    100160: LeftArm_influence4
+    100162: LeftArm_influence4_compensate
+    100164: LeftArm_influence5
+    100166: LeftArm_influence5_compensate
+    100168: LeftArm_influence6
+    100170: LeftArm_influence6_compensate
+    100172: LeftArm_influence7_intermediate_constrain
+    100174: LeftArm_influence7_intermediate_constrain_compensate
+    100176: LeftArm_influence7_intermediate_constrain_halfNode
+    100178: LeftArm_influence8
+    100180: LeftArm_influence8_compensate
+    100182: LeftArm_influence9
+    100184: LeftArm_influence9_compensate
+    100186: LeftArm_irrelivantnull
+    100188: LeftArm_joint1
+    100190: LeftArm_joint2
+    100192: LeftArm_joint3
+    100194: LeftArm_joint4
+    100196: LeftArm_joint5
+    100198: LeftArm_joint6
+    100200: LeftArm_joint7
+    100202: LeftArm_joint8
+    100204: LeftArm_JOINTS
+    100206: LeftArm_lowarmcounterscaler
+    100208: LeftArm_Lower_Arm
+    100210: LeftArm_Lower_Arm_SWITCH
+    100212: LeftArm_lowerarmcontrolnull
+    100214: LeftArm_orinet
+    100216: LeftArm_pivotCompensate
+    100218: LeftArm_polevector
+    100220: LeftArm_RIG
+    100222: LeftArm_rig_clavical
+    100224: LeftArm_rig_elbow
+    100226: LeftArm_rig_shoulder
+    100228: LeftArm_rig_wrist
+    100230: LeftArm_scalingCompensate
+    100232: LeftArm_Shoulder
+    100234: LeftArm_shouldercluster
+    100236: LeftArm_shouldernull
+    100238: LeftArm_unisolated
+    100240: LeftArm_Upper_Arm
+    100242: LeftArm_Upper_Arm_SWITCH
+    100244: LeftArm_upperarmcontrolnull
+    100246: LeftElbowTracker
+    100248: LeftElbowTracker_null
+    100250: LeftFinger1_aimer
+    100252: LeftFinger1_constraintCompensate
+    100254: LeftFinger1_finger_control
+    100256: LeftFinger1_finger_IK
+    100258: LeftFinger1_finger_influence1
+    100260: LeftFinger1_finger_influence10
+    100262: LeftFinger1_finger_influence10_compensate
+    100264: LeftFinger1_finger_influence11
+    100266: LeftFinger1_finger_influence11_compensate
+    100268: LeftFinger1_finger_influence1_compensate
+    100270: LeftFinger1_finger_influence2
+    100272: LeftFinger1_finger_influence2_compensate
+    100274: LeftFinger1_finger_influence3_intermediate
+    100276: LeftFinger1_finger_influence3_intermediate_compensate
+    100278: LeftFinger1_finger_influence3_intermediate_halfNode
+    100280: LeftFinger1_finger_influence4
+    100282: LeftFinger1_finger_influence4_compensate
+    100284: LeftFinger1_finger_influence5
+    100286: LeftFinger1_finger_influence5_compensate
+    100288: LeftFinger1_finger_influence6_intermediate
+    100290: LeftFinger1_finger_influence6_intermediate_compensate
+    100292: LeftFinger1_finger_influence6_intermediate_halfNode
+    100294: LeftFinger1_finger_influence7
+    100296: LeftFinger1_finger_influence7_compensate
+    100298: LeftFinger1_finger_influence8
+    100300: LeftFinger1_finger_influence8_compensate
+    100302: LeftFinger1_finger_influence9_intermediate
+    100304: LeftFinger1_finger_influence9_intermediate_compensate
+    100306: LeftFinger1_finger_influence9_intermediate_halfNode
+    100308: LeftFinger1_finger_rig
+    100310: LeftFinger1_fingercontrolnull
+    100312: LeftFinger1_ikHandle1
+    100314: LeftFinger1_ikHandle2
+    100316: LeftFinger1_IKnull
+    100318: LeftFinger1_joint1
+    100320: LeftFinger1_joint2
+    100322: LeftFinger1_joint3
+    100324: LeftFinger1_joint4
+    100326: LeftFinger1_joint5
+    100328: LeftFinger1_JOINTS
+    100330: LeftFinger1_lastjointaimer
+    100332: LeftFinger1_pivotCompensate
+    100334: LeftFinger1_RIG
+    100336: LeftFinger1_rig_fingerjoint1
+    100338: LeftFinger1_rig_fingerjoint2
+    100340: LeftFinger1_rig_fingerjoint3
+    100342: LeftFinger1_rig_knuckle
+    100344: LeftFinger1_rig_metacarpel
+    100346: LeftFinger2_aimer
+    100348: LeftFinger2_constraintCompensate
+    100350: LeftFinger2_finger_control
+    100352: LeftFinger2_finger_IK
+    100354: LeftFinger2_finger_influence1
+    100356: LeftFinger2_finger_influence10
+    100358: LeftFinger2_finger_influence10_compensate
+    100360: LeftFinger2_finger_influence11
+    100362: LeftFinger2_finger_influence11_compensate
+    100364: LeftFinger2_finger_influence1_compensate
+    100366: LeftFinger2_finger_influence2
+    100368: LeftFinger2_finger_influence2_compensate
+    100370: LeftFinger2_finger_influence3_intermediate
+    100372: LeftFinger2_finger_influence3_intermediate_compensate
+    100374: LeftFinger2_finger_influence3_intermediate_halfNode
+    100376: LeftFinger2_finger_influence4
+    100378: LeftFinger2_finger_influence4_compensate
+    100380: LeftFinger2_finger_influence5
+    100382: LeftFinger2_finger_influence5_compensate
+    100384: LeftFinger2_finger_influence6_intermediate
+    100386: LeftFinger2_finger_influence6_intermediate_compensate
+    100388: LeftFinger2_finger_influence6_intermediate_halfNode
+    100390: LeftFinger2_finger_influence7
+    100392: LeftFinger2_finger_influence7_compensate
+    100394: LeftFinger2_finger_influence8
+    100396: LeftFinger2_finger_influence8_compensate
+    100398: LeftFinger2_finger_influence9_intermediate
+    100400: LeftFinger2_finger_influence9_intermediate_compensate
+    100402: LeftFinger2_finger_influence9_intermediate_halfNode
+    100404: LeftFinger2_finger_rig
+    100406: LeftFinger2_fingercontrolnull
+    100408: LeftFinger2_ikHandle1
+    100410: LeftFinger2_ikHandle2
+    100412: LeftFinger2_IKnull
+    100414: LeftFinger2_joint1
+    100416: LeftFinger2_joint2
+    100418: LeftFinger2_joint3
+    100420: LeftFinger2_joint4
+    100422: LeftFinger2_joint5
+    100424: LeftFinger2_JOINTS
+    100426: LeftFinger2_lastjointaimer
+    100428: LeftFinger2_pivotCompensate
+    100430: LeftFinger2_RIG
+    100432: LeftFinger2_rig_fingerjoint1
+    100434: LeftFinger2_rig_fingerjoint2
+    100436: LeftFinger2_rig_fingerjoint3
+    100438: LeftFinger2_rig_knuckle
+    100440: LeftFinger2_rig_metacarpel
+    100442: LeftFinger3_aimer
+    100444: LeftFinger3_constraintCompensate
+    100446: LeftFinger3_finger_control
+    100448: LeftFinger3_finger_IK
+    100450: LeftFinger3_finger_influence1
+    100452: LeftFinger3_finger_influence10
+    100454: LeftFinger3_finger_influence10_compensate
+    100456: LeftFinger3_finger_influence11
+    100458: LeftFinger3_finger_influence11_compensate
+    100460: LeftFinger3_finger_influence1_compensate
+    100462: LeftFinger3_finger_influence2
+    100464: LeftFinger3_finger_influence2_compensate
+    100466: LeftFinger3_finger_influence3_intermediate
+    100468: LeftFinger3_finger_influence3_intermediate_compensate
+    100470: LeftFinger3_finger_influence3_intermediate_halfNode
+    100472: LeftFinger3_finger_influence4
+    100474: LeftFinger3_finger_influence4_compensate
+    100476: LeftFinger3_finger_influence5
+    100478: LeftFinger3_finger_influence5_compensate
+    100480: LeftFinger3_finger_influence6_intermediate
+    100482: LeftFinger3_finger_influence6_intermediate_compensate
+    100484: LeftFinger3_finger_influence6_intermediate_halfNode
+    100486: LeftFinger3_finger_influence7
+    100488: LeftFinger3_finger_influence7_compensate
+    100490: LeftFinger3_finger_influence8
+    100492: LeftFinger3_finger_influence8_compensate
+    100494: LeftFinger3_finger_influence9_intermediate
+    100496: LeftFinger3_finger_influence9_intermediate_compensate
+    100498: LeftFinger3_finger_influence9_intermediate_halfNode
+    100500: LeftFinger3_finger_rig
+    100502: LeftFinger3_fingercontrolnull
+    100504: LeftFinger3_ikHandle1
+    100506: LeftFinger3_ikHandle2
+    100508: LeftFinger3_IKnull
+    100510: LeftFinger3_joint1
+    100512: LeftFinger3_joint2
+    100514: LeftFinger3_joint3
+    100516: LeftFinger3_joint4
+    100518: LeftFinger3_joint5
+    100520: LeftFinger3_JOINTS
+    100522: LeftFinger3_lastjointaimer
+    100524: LeftFinger3_pivotCompensate
+    100526: LeftFinger3_RIG
+    100528: LeftFinger3_rig_fingerjoint1
+    100530: LeftFinger3_rig_fingerjoint2
+    100532: LeftFinger3_rig_fingerjoint3
+    100534: LeftFinger3_rig_knuckle
+    100536: LeftFinger3_rig_metacarpel
+    100538: LeftKneeTracker
+    100540: LeftKneeTracker_null
+    100542: LeftLeg_ballIKhandle
+    100544: LeftLeg_cluster1Handle
+    100546: LeftLeg_cluster2Handle
+    100548: LeftLeg_cluster3Handle
+    100550: LeftLeg_cluster4Handle
+    100552: LeftLeg_clusters
+    100554: LeftLeg_constraintCompensate
+    100556: LeftLeg_distance
+    100558: LeftLeg_fk
+    100560: LeftLeg_fkikswitchnull
+    100562: LeftLeg_Foot
+    100564: LeftLeg_Foot_SWITCH
+    100566: LeftLeg_FootMover
+    100568: LeftLeg_footnull
+    100570: LeftLeg_footscalecompensate
+    100572: LeftLeg_IKhandleattacherFK
+    100574: LeftLeg_influence10
+    100576: LeftLeg_influence10_compensate
+    100578: LeftLeg_influence11
+    100580: LeftLeg_influence11_compensate
+    100582: LeftLeg_influence12_intermediate
+    100584: LeftLeg_influence12_intermediate_compensate
+    100586: LeftLeg_influence12_intermediate_halfNode
+    100588: LeftLeg_influence13
+    100590: LeftLeg_influence13_compensate
+    100592: LeftLeg_influence1_intermediate
+    100594: LeftLeg_influence1_intermediate_compensate
+    100596: LeftLeg_influence1_intermediate_halfNode
+    100598: LeftLeg_influence2
+    100600: LeftLeg_influence2_compensate
+    100602: LeftLeg_influence3
+    100604: LeftLeg_influence3_compensate
+    100606: LeftLeg_influence4
+    100608: LeftLeg_influence4_compensate
+    100610: LeftLeg_influence5_intermediate_constrain
+    100612: LeftLeg_influence5_intermediate_constrain_compensate
+    100614: LeftLeg_influence5_intermediate_constrain_halfNode
+    100616: LeftLeg_influence6
+    100618: LeftLeg_influence6_compensate
+    100620: LeftLeg_influence7
+    100622: LeftLeg_influence7_compensate
+    100624: LeftLeg_influence8
+    100626: LeftLeg_influence8_compensate
+    100628: LeftLeg_influence9_intermediate
+    100630: LeftLeg_influence9_intermediate_compensate
+    100632: LeftLeg_influence9_intermediate_halfNode
+    100634: LeftLeg_isolater
+    100636: LeftLeg_joint1
+    100638: LeftLeg_joint2
+    100640: LeftLeg_joint3
+    100642: LeftLeg_joint4
+    100644: LeftLeg_joint4scalecomp
+    100646: LeftLeg_joint5
+    100648: LeftLeg_joint6
+    100650: LeftLeg_joint7
+    100652: LeftLeg_joint8
+    100654: LeftLeg_joint9
+    100656: LeftLeg_JOINTS
+    100658: LeftLeg_kneescalecompensate
+    100660: LeftLeg_Leg_Pole_Vector
+    100662: LeftLeg_Leg_Pole_Vector_SWITCH
+    100664: LeftLeg_legIKhandle
+    100666: LeftLeg_legIKhandles
+    100668: LeftLeg_Lower_Leg
+    100670: LeftLeg_Lower_Leg_SWITCH
+    100672: LeftLeg_lowerarmscalecompensate
+    100674: LeftLeg_lowerlegnull
+    100676: LeftLeg_orientleg
+    100678: LeftLeg_orientlegnull
+    100680: LeftLeg_pivotCompensate
+    100682: LeftLeg_polecectornull
+    100684: LeftLeg_polevector
+    100686: LeftLeg_polevectoraimer
+    100688: LeftLeg_polevectorextraaim
+    100690: LeftLeg_polevectorfirstposition
+    100692: LeftLeg_polevectorfoot
+    100694: LeftLeg_polevectorgroup
+    100696: LeftLeg_polevectorturn
+    100698: LeftLeg_polevectorvector
+    100700: LeftLeg_RIG
+    100702: LeftLeg_rig_heelswitchplacer
+    100704: LeftLeg_rig_joint1
+    100706: LeftLeg_rig_joint2
+    100708: LeftLeg_rig_joint3
+    100710: LeftLeg_rig_joint4
+    100712: LeftLeg_rig_joint5
+    100714: LeftLeg_scalingCompensate
+    100716: LeftLeg_Toe
+    100718: LeftLeg_Toe_SWITCH
+    100720: LeftLeg_toeattach
+    100722: LeftLeg_toeIKhandle
+    100724: LeftLeg_toenull
+    100726: LeftLeg_toepolevector
+    100728: LeftLeg_Upper_Leg
+    100730: LeftLeg_Upper_Leg_SWITCH
+    100732: LeftLeg_upperlegnull
+    100734: LeftThumb_constraintCompensate
+    100736: LeftThumb_finger_control
+    100738: LeftThumb_finger_IK
+    100740: LeftThumb_finger_influence1
+    100742: LeftThumb_finger_influence1_compensate
+    100744: LeftThumb_finger_influence2
+    100746: LeftThumb_finger_influence2_compensate
+    100748: LeftThumb_finger_influence3_intermediate
+    100750: LeftThumb_finger_influence3_intermediate_compensate
+    100752: LeftThumb_finger_influence3_intermediate_halfNode
+    100754: LeftThumb_finger_influence4
+    100756: LeftThumb_finger_influence4_compensate
+    100758: LeftThumb_finger_influence5
+    100760: LeftThumb_finger_influence5_compensate
+    100762: LeftThumb_finger_influence6_intermediate
+    100764: LeftThumb_finger_influence6_intermediate_compensate
+    100766: LeftThumb_finger_influence6_intermediate_halfNode
+    100768: LeftThumb_finger_influence7
+    100770: LeftThumb_finger_influence7_compensate
+    100772: LeftThumb_finger_influence8
+    100774: LeftThumb_finger_influence8_compensate
+    100776: LeftThumb_finger_rig
+    100778: LeftThumb_fingercontrolnull
+    100780: LeftThumb_ikHandle1
+    100782: LeftThumb_ikHandle2
+    100784: LeftThumb_IKnull
+    100786: LeftThumb_joint1
+    100788: LeftThumb_joint2
+    100790: LeftThumb_joint3
+    100792: LeftThumb_joint4
+    100794: LeftThumb_JOINTS
+    100796: LeftThumb_joints
+    100798: LeftThumb_pivotCompensate
+    100800: LeftThumb_RIG
+    100802: LeftThumb_rig_fingerjoint1
+    100804: LeftThumb_rig_fingerjoint2
+    100806: LeftThumb_rig_fingerjoint3
+    100808: LeftThumb_rig_knuckle
+    100810: //RootNode
+    100812: RIG
+    100814: RightAnkleTracker
+    100816: RightAnkleTracker_null
+    100818: RightArm_Arm_IK_Handle
+    100820: RightArm_Arm_Pole_Vector
+    100822: RightArm_Arm_Pole_Vector_SWITCH
+    100824: RightArm_clusters
+    100826: RightArm_constraintCompensate
+    100828: RightArm_distancemeasure
+    100830: RightArm_elbowcluster
+    100832: RightArm_elbowcounterscale
+    100834: RightArm_extra
+    100836: RightArm_fk
+    100838: RightArm_FKhandorient
+    100840: RightArm_fkikswitchnull
+    100842: RightArm_Hand
+    100844: RightArm_Hand_SWITCH
+    100846: RightArm_handcluster
+    100848: RightArm_handcontrolnull
+    100850: RightArm_HandTranslate
+    100852: RightArm_ikcluster
+    100854: RightArm_immitateshoulder
+    100856: RightArm_influence1
+    100858: RightArm_influence10
+    100860: RightArm_influence10_compensate
+    100862: RightArm_influence11_intermediate_constrain
+    100864: RightArm_influence11_intermediate_constrain_compensate
+    100866: RightArm_influence11_intermediate_constrain_halfNode
+    100868: RightArm_influence1_compensate
+    100870: RightArm_influence2
+    100872: RightArm_influence2_compensate
+    100874: RightArm_influence3_intermediate
+    100876: RightArm_influence3_intermediate_compensate
+    100878: RightArm_influence3_intermediate_halfNode
+    100880: RightArm_influence4
+    100882: RightArm_influence4_compensate
+    100884: RightArm_influence5
+    100886: RightArm_influence5_compensate
+    100888: RightArm_influence6
+    100890: RightArm_influence6_compensate
+    100892: RightArm_influence7_intermediate_constrain
+    100894: RightArm_influence7_intermediate_constrain_compensate
+    100896: RightArm_influence7_intermediate_constrain_halfNode
+    100898: RightArm_influence8
+    100900: RightArm_influence8_compensate
+    100902: RightArm_influence9
+    100904: RightArm_influence9_compensate
+    100906: RightArm_joint1
+    100908: RightArm_joint2
+    100910: RightArm_joint3
+    100912: RightArm_joint4
+    100914: RightArm_joint5
+    100916: RightArm_joint6
+    100918: RightArm_joint7
+    100920: RightArm_joint8
+    100922: RightArm_JOINTS
+    100924: RightArm_lastnullstanding
+    100926: RightArm_Lower_Arm
+    100928: RightArm_Lower_Arm_SWITCH
+    100930: RightArm_lowerarmcontrolnull
+    100932: RightArm_lowerarmcounterscale
+    100934: RightArm_orinet
+    100936: RightArm_pivotCompensate
+    100938: RightArm_polevector
+    100940: RightArm_RIG
+    100942: RightArm_rig_clavical
+    100944: RightArm_rig_elbow
+    100946: RightArm_rig_shoulder
+    100948: RightArm_rig_wrist
+    100950: RightArm_scalingCompensate
+    100952: RightArm_Shoulder
+    100954: RightArm_shouldercluster
+    100956: RightArm_shouldernull
+    100958: RightArm_unisolated
+    100960: RightArm_Upper_Arm
+    100962: RightArm_Upper_Arm_SWITCH
+    100964: RightArm_upperarmcontrolnull
+    100966: RightElbowTracker
+    100968: RightElbowTracker_null
+    100970: RightFinger1_aimer
+    100972: RightFinger1_constraintCompensate
+    100974: RightFinger1_finger_control
+    100976: RightFinger1_finger_IK
+    100978: RightFinger1_finger_influence1
+    100980: RightFinger1_finger_influence10
+    100982: RightFinger1_finger_influence10_compensate
+    100984: RightFinger1_finger_influence11
+    100986: RightFinger1_finger_influence11_compensate
+    100988: RightFinger1_finger_influence1_compensate
+    100990: RightFinger1_finger_influence2
+    100992: RightFinger1_finger_influence2_compensate
+    100994: RightFinger1_finger_influence3_intermediate
+    100996: RightFinger1_finger_influence3_intermediate_compensate
+    100998: RightFinger1_finger_influence3_intermediate_halfNode
+    101000: RightFinger1_finger_influence4
+    101002: RightFinger1_finger_influence4_compensate
+    101004: RightFinger1_finger_influence5
+    101006: RightFinger1_finger_influence5_compensate
+    101008: RightFinger1_finger_influence6_intermediate
+    101010: RightFinger1_finger_influence6_intermediate_compensate
+    101012: RightFinger1_finger_influence6_intermediate_halfNode
+    101014: RightFinger1_finger_influence7
+    101016: RightFinger1_finger_influence7_compensate
+    101018: RightFinger1_finger_influence8
+    101020: RightFinger1_finger_influence8_compensate
+    101022: RightFinger1_finger_influence9_intermediate
+    101024: RightFinger1_finger_influence9_intermediate_compensate
+    101026: RightFinger1_finger_influence9_intermediate_halfNode
+    101028: RightFinger1_finger_rig
+    101030: RightFinger1_fingercontrolnull
+    101032: RightFinger1_ikHandle1
+    101034: RightFinger1_ikHandle2
+    101036: RightFinger1_IKnull
+    101038: RightFinger1_joint1
+    101040: RightFinger1_joint2
+    101042: RightFinger1_joint3
+    101044: RightFinger1_joint4
+    101046: RightFinger1_joint5
+    101048: RightFinger1_JOINTS
+    101050: RightFinger1_lastfingerjointaimer
+    101052: RightFinger1_pivotCompensate
+    101054: RightFinger1_RIG
+    101056: RightFinger1_rig_fingerjoint1
+    101058: RightFinger1_rig_fingerjoint2
+    101060: RightFinger1_rig_fingerjoint3
+    101062: RightFinger1_rig_knuckle
+    101064: RightFinger1_rig_metacarpel
+    101066: RightFinger2_aimer
+    101068: RightFinger2_constraintCompensate
+    101070: RightFinger2_finger_control
+    101072: RightFinger2_finger_IK
+    101074: RightFinger2_finger_influence1
+    101076: RightFinger2_finger_influence10
+    101078: RightFinger2_finger_influence10_compensate
+    101080: RightFinger2_finger_influence11
+    101082: RightFinger2_finger_influence11_compensate
+    101084: RightFinger2_finger_influence1_compensate
+    101086: RightFinger2_finger_influence2
+    101088: RightFinger2_finger_influence2_compensate
+    101090: RightFinger2_finger_influence3_intermediate
+    101092: RightFinger2_finger_influence3_intermediate_compensate
+    101094: RightFinger2_finger_influence3_intermediate_halfNode
+    101096: RightFinger2_finger_influence4
+    101098: RightFinger2_finger_influence4_compensate
+    101100: RightFinger2_finger_influence5
+    101102: RightFinger2_finger_influence5_compensate
+    101104: RightFinger2_finger_influence6_intermediate
+    101106: RightFinger2_finger_influence6_intermediate_compensate
+    101108: RightFinger2_finger_influence6_intermediate_halfNode
+    101110: RightFinger2_finger_influence7
+    101112: RightFinger2_finger_influence7_compensate
+    101114: RightFinger2_finger_influence8
+    101116: RightFinger2_finger_influence8_compensate
+    101118: RightFinger2_finger_influence9_intermediate
+    101120: RightFinger2_finger_influence9_intermediate_compensate
+    101122: RightFinger2_finger_influence9_intermediate_halfNode
+    101124: RightFinger2_finger_rig
+    101126: RightFinger2_fingercontrolnull
+    101128: RightFinger2_ikHandle1
+    101130: RightFinger2_ikHandle2
+    101132: RightFinger2_IKnull
+    101134: RightFinger2_joint1
+    101136: RightFinger2_joint2
+    101138: RightFinger2_joint3
+    101140: RightFinger2_joint4
+    101142: RightFinger2_joint5
+    101144: RightFinger2_JOINTS
+    101146: RightFinger2_lastfingerjointaimer
+    101148: RightFinger2_pivotCompensate
+    101150: RightFinger2_RIG
+    101152: RightFinger2_rig_fingerjoint1
+    101154: RightFinger2_rig_fingerjoint2
+    101156: RightFinger2_rig_fingerjoint3
+    101158: RightFinger2_rig_knuckle
+    101160: RightFinger2_rig_metacarpel
+    101162: RightFinger3_aimer
+    101164: RightFinger3_constraintCompensate
+    101166: RightFinger3_finger_control
+    101168: RightFinger3_finger_IK
+    101170: RightFinger3_finger_influence1
+    101172: RightFinger3_finger_influence10
+    101174: RightFinger3_finger_influence10_compensate
+    101176: RightFinger3_finger_influence11
+    101178: RightFinger3_finger_influence11_compensate
+    101180: RightFinger3_finger_influence1_compensate
+    101182: RightFinger3_finger_influence2
+    101184: RightFinger3_finger_influence2_compensate
+    101186: RightFinger3_finger_influence3_intermediate
+    101188: RightFinger3_finger_influence3_intermediate_compensate
+    101190: RightFinger3_finger_influence3_intermediate_halfNode
+    101192: RightFinger3_finger_influence4
+    101194: RightFinger3_finger_influence4_compensate
+    101196: RightFinger3_finger_influence5
+    101198: RightFinger3_finger_influence5_compensate
+    101200: RightFinger3_finger_influence6_intermediate
+    101202: RightFinger3_finger_influence6_intermediate_compensate
+    101204: RightFinger3_finger_influence6_intermediate_halfNode
+    101206: RightFinger3_finger_influence7
+    101208: RightFinger3_finger_influence7_compensate
+    101210: RightFinger3_finger_influence8
+    101212: RightFinger3_finger_influence8_compensate
+    101214: RightFinger3_finger_influence9_intermediate
+    101216: RightFinger3_finger_influence9_intermediate_compensate
+    101218: RightFinger3_finger_influence9_intermediate_halfNode
+    101220: RightFinger3_finger_rig
+    101222: RightFinger3_fingercontrolnull
+    101224: RightFinger3_ikHandle1
+    101226: RightFinger3_ikHandle2
+    101228: RightFinger3_IKnull
+    101230: RightFinger3_joint1
+    101232: RightFinger3_joint2
+    101234: RightFinger3_joint3
+    101236: RightFinger3_joint4
+    101238: RightFinger3_joint5
+    101240: RightFinger3_JOINTS
+    101242: RightFinger3_lastfingerjointaimer
+    101244: RightFinger3_pivotCompensate
+    101246: RightFinger3_RIG
+    101248: RightFinger3_rig_fingerjoint1
+    101250: RightFinger3_rig_fingerjoint2
+    101252: RightFinger3_rig_fingerjoint3
+    101254: RightFinger3_rig_knuckle
+    101256: RightFinger3_rig_metacarpel
+    101258: RightKneeTracker
+    101260: RightKneeTracker_null
+    101262: RightLeg_ballIKhandle
+    101264: RightLeg_cluster1Handle
+    101266: RightLeg_cluster2Handle
+    101268: RightLeg_cluster3Handle
+    101270: RightLeg_cluster4Handle
+    101272: RightLeg_clusters
+    101274: RightLeg_constraintCompensate
+    101276: RightLeg_distance
+    101278: RightLeg_fk
+    101280: RightLeg_fkikswitchnull
+    101282: RightLeg_Foot
+    101284: RightLeg_Foot_SWITCH
+    101286: RightLeg_footnull
+    101288: RightLeg_footscalecompensate
+    101290: RightLeg_FootTranslate
+    101292: RightLeg_IKhandleattacherFK
+    101294: RightLeg_influence10
+    101296: RightLeg_influence10_compensate
+    101298: RightLeg_influence11
+    101300: RightLeg_influence11_compensate
+    101302: RightLeg_influence12_intermediate
+    101304: RightLeg_influence12_intermediate_compensate
+    101306: RightLeg_influence12_intermediate_halfNode
+    101308: RightLeg_influence13
+    101310: RightLeg_influence13_compensate
+    101312: RightLeg_influence1_intermediate
+    101314: RightLeg_influence1_intermediate_compensate
+    101316: RightLeg_influence1_intermediate_halfNode
+    101318: RightLeg_influence2
+    101320: RightLeg_influence2_compensate
+    101322: RightLeg_influence3
+    101324: RightLeg_influence3_compensate
+    101326: RightLeg_influence4
+    101328: RightLeg_influence4_compensate
+    101330: RightLeg_influence5_intermediate_constrain
+    101332: RightLeg_influence5_intermediate_constrain_compensate
+    101334: RightLeg_influence5_intermediate_constrain_halfNode
+    101336: RightLeg_influence6
+    101338: RightLeg_influence6_compensate
+    101340: RightLeg_influence7
+    101342: RightLeg_influence7_compensate
+    101344: RightLeg_influence8
+    101346: RightLeg_influence8_compensate
+    101348: RightLeg_influence9_intermediate
+    101350: RightLeg_influence9_intermediate_compensate
+    101352: RightLeg_influence9_intermediate_halfNode
+    101354: RightLeg_isolater
+    101356: RightLeg_joint1
+    101358: RightLeg_joint2
+    101360: RightLeg_joint3
+    101362: RightLeg_joint4
+    101364: RightLeg_joint4scalecomp
+    101366: RightLeg_joint5
+    101368: RightLeg_joint6
+    101370: RightLeg_joint7
+    101372: RightLeg_joint8
+    101374: RightLeg_joint9
+    101376: RightLeg_JOINTS
+    101378: RightLeg_kneescalecompensate
+    101380: RightLeg_Leg_Pole_Vector
+    101382: RightLeg_Leg_Pole_Vector_SWITCH
+    101384: RightLeg_legIKhandle
+    101386: RightLeg_legIKhandles
+    101388: RightLeg_Lower_Leg
+    101390: RightLeg_Lower_Leg_SWITCH
+    101392: RightLeg_lowerarmscalecompensate
+    101394: RightLeg_lowerlegnull
+    101396: RightLeg_orientleg
+    101398: RightLeg_orientlegnull
+    101400: RightLeg_pivotCompensate
+    101402: RightLeg_polecectornull
+    101404: RightLeg_polevector
+    101406: RightLeg_polevectoraimer
+    101408: RightLeg_polevectorextraaim
+    101410: RightLeg_polevectorfirstposition
+    101412: RightLeg_polevectorfoot
+    101414: RightLeg_polevectorgroup
+    101416: RightLeg_polevectorturn
+    101418: RightLeg_polevectorvector
+    101420: RightLeg_RIG
+    101422: RightLeg_rig_heelswitchplacer
+    101424: RightLeg_rig_joint1
+    101426: RightLeg_rig_joint2
+    101428: RightLeg_rig_joint3
+    101430: RightLeg_rig_joint4
+    101432: RightLeg_rig_joint5
+    101434: RightLeg_scalingCompensate
+    101436: RightLeg_Toe
+    101438: RightLeg_Toe_SWITCH
+    101440: RightLeg_toeattach
+    101442: RightLeg_toeIKhandle
+    101444: RightLeg_toenull
+    101446: RightLeg_toepolevector
+    101448: RightLeg_Upper_Leg
+    101450: RightLeg_Upper_Leg_SWITCH
+    101452: RightLeg_upperlegnull
+    101454: RightThumb_constraintCompensate
+    101456: RightThumb_finger_control
+    101458: RightThumb_finger_IK
+    101460: RightThumb_finger_influence1
+    101462: RightThumb_finger_influence1_compensate
+    101464: RightThumb_finger_influence2
+    101466: RightThumb_finger_influence2_compensate
+    101468: RightThumb_finger_influence3_intermediate
+    101470: RightThumb_finger_influence3_intermediate_compensate
+    101472: RightThumb_finger_influence3_intermediate_halfNode
+    101474: RightThumb_finger_influence4
+    101476: RightThumb_finger_influence4_compensate
+    101478: RightThumb_finger_influence5
+    101480: RightThumb_finger_influence5_compensate
+    101482: RightThumb_finger_influence6_intermediate
+    101484: RightThumb_finger_influence6_intermediate_compensate
+    101486: RightThumb_finger_influence6_intermediate_halfNode
+    101488: RightThumb_finger_influence7
+    101490: RightThumb_finger_influence7_compensate
+    101492: RightThumb_finger_influence8
+    101494: RightThumb_finger_influence8_compensate
+    101496: RightThumb_finger_rig
+    101498: RightThumb_fingercontrolnull
+    101500: RightThumb_ikHandle1
+    101502: RightThumb_ikHandle2
+    101504: RightThumb_IKnull
+    101506: RightThumb_joint1
+    101508: RightThumb_joint2
+    101510: RightThumb_joint3
+    101512: RightThumb_joint4
+    101514: RightThumb_JOINTS
+    101516: RightThumb_joints
+    101518: RightThumb_pivotCompensate
+    101520: RightThumb_RIG
+    101522: RightThumb_rig_fingerjoint1
+    101524: RightThumb_rig_fingerjoint2
+    101526: RightThumb_rig_fingerjoint3
+    101528: RightThumb_rig_knuckle
+    101530: Spine_influence1
+    101532: Spine_influence1_compensate
+    101534: Spine_influence2
+    101536: Spine_influence2_compensate
+    101538: Spine_influence3
+    101540: Spine_influence3_compensate
+    101542: Spine_influence4
+    101544: Spine_influence4_compensate
+    101546: Spine_influence5
+    101548: Spine_influence5_compensate
+    101550: Spine_influence6
+    101552: Spine_influence6_compensate
+    101554: Spine_influence7
+    101556: Spine_influence7_compensate
+    101558: Spine_joint1
+    101560: Spine_joint2
+    101562: Spine_joint3
+    101564: Spine_joint4
+    101566: Spine_joint5
+    101568: Spine_joint6
+    101570: Spine_joint7
+    101572: Spine_joint8
+    101574: Spine_JOINTS
+    101576: Spine_RIG
+    101578: Spine_rig
+    101580: Spine_rig_joint1
+    101582: Spine_rig_joint2
+    101584: Spine_rig_joint3
+    101586: Spine_rig_joint4
+    101588: Spine_rig_joint5
+    101590: Spine_rig_joint6
+    101592: Spine_rig_joint7
+    101594: Spine_rig_joint8
+    101596: transform1
+    101598: Upper_Body
+    101600: zeroWeightJoint
+    400000: Character
+    400002: Head_anotherstupidnull
+    400004: Head_anothertotationisolate
+    400006: Head_constraintCompensate
+    400008: Head_emulatejoint1
+    400010: Head_FK
+    400012: Head_fk
+    400014: Head_FKcluster
+    400016: Head_fkikswitchnull
+    400018: Head_fknull
+    400020: Head_IKcluster
+    400022: Head_ikHandle1
+    400024: Head_influence1
+    400026: Head_influence1_compensate
+    400028: Head_influence2
+    400030: Head_influence2_compensate
+    400032: Head_influence3
+    400034: Head_influence3_compensate
+    400036: Head_influence4
+    400038: Head_influence4_compensate
+    400040: Head_influence5
+    400042: Head_influence5_compensate
+    400044: Head_isolatecalculate
+    400046: Head_joint1
+    400048: Head_joint2
+    400050: Head_joint3
+    400052: Head_joint4
+    400054: Head_JOINTS
+    400056: Head_middleneckrotate
+    400058: Head_Neck
+    400060: Head_pivotCompensate
+    400062: Head_RIG
+    400064: Head_rigjoint1
+    400066: Head_rigjoint3
+    400068: Head_rigjoint4
+    400070: Head_rotated
+    400072: Head_rotationisolated
+    400074: Head_scalingCompensate
+    400076: Head_setupthing
+    400078: Head_stretchy
+    400080: HeadFrontTracker
+    400082: HeadFrontTracker_null
+    400084: HeadTopTracker
+    400086: HeadTopTracker_null
+    400088: Jaw
+    400090: jaw_joint
+    400092: jaw_null
+    400094: JOINTS
+    400096: LeftAnkleTracker
+    400098: LeftAnkleTracker_null
+    400100: LeftArm_Arm_IK_Handle
+    400102: LeftArm_Arm_Pole_Vector
+    400104: LeftArm_Arm_Pole_Vector_SWITCH
+    400106: LeftArm_clusters
+    400108: LeftArm_constraintCompensate
+    400110: LeftArm_distancemeasure
+    400112: LeftArm_elbowcluster
+    400114: LeftArm_elbowcounterscaler
+    400116: LeftArm_fk
+    400118: LeftArm_FKhandnull
+    400120: LeftArm_fkikswitchnull
+    400122: LeftArm_Hand
+    400124: LeftArm_Hand_SWITCH
+    400126: LeftArm_handcluster
+    400128: LeftArm_handcontrolnull
+    400130: LeftArm_HandTranslate
+    400132: LeftArm_ikcluster
+    400134: LeftArm_immitateshoulder
+    400136: LeftArm_influence1
+    400138: LeftArm_influence10
+    400140: LeftArm_influence10_compensate
+    400142: LeftArm_influence11_intermediate_constrain
+    400144: LeftArm_influence11_intermediate_constrain_compensate
+    400146: LeftArm_influence11_intermediate_constrain_halfNode
+    400148: LeftArm_influence1_compensate
+    400150: LeftArm_influence2
+    400152: LeftArm_influence2_compensate
+    400154: LeftArm_influence3_intermediate
+    400156: LeftArm_influence3_intermediate_compensate
+    400158: LeftArm_influence3_intermediate_halfNode
+    400160: LeftArm_influence4
+    400162: LeftArm_influence4_compensate
+    400164: LeftArm_influence5
+    400166: LeftArm_influence5_compensate
+    400168: LeftArm_influence6
+    400170: LeftArm_influence6_compensate
+    400172: LeftArm_influence7_intermediate_constrain
+    400174: LeftArm_influence7_intermediate_constrain_compensate
+    400176: LeftArm_influence7_intermediate_constrain_halfNode
+    400178: LeftArm_influence8
+    400180: LeftArm_influence8_compensate
+    400182: LeftArm_influence9
+    400184: LeftArm_influence9_compensate
+    400186: LeftArm_irrelivantnull
+    400188: LeftArm_joint1
+    400190: LeftArm_joint2
+    400192: LeftArm_joint3
+    400194: LeftArm_joint4
+    400196: LeftArm_joint5
+    400198: LeftArm_joint6
+    400200: LeftArm_joint7
+    400202: LeftArm_joint8
+    400204: LeftArm_JOINTS
+    400206: LeftArm_lowarmcounterscaler
+    400208: LeftArm_Lower_Arm
+    400210: LeftArm_Lower_Arm_SWITCH
+    400212: LeftArm_lowerarmcontrolnull
+    400214: LeftArm_orinet
+    400216: LeftArm_pivotCompensate
+    400218: LeftArm_polevector
+    400220: LeftArm_RIG
+    400222: LeftArm_rig_clavical
+    400224: LeftArm_rig_elbow
+    400226: LeftArm_rig_shoulder
+    400228: LeftArm_rig_wrist
+    400230: LeftArm_scalingCompensate
+    400232: LeftArm_Shoulder
+    400234: LeftArm_shouldercluster
+    400236: LeftArm_shouldernull
+    400238: LeftArm_unisolated
+    400240: LeftArm_Upper_Arm
+    400242: LeftArm_Upper_Arm_SWITCH
+    400244: LeftArm_upperarmcontrolnull
+    400246: LeftElbowTracker
+    400248: LeftElbowTracker_null
+    400250: LeftFinger1_aimer
+    400252: LeftFinger1_constraintCompensate
+    400254: LeftFinger1_finger_control
+    400256: LeftFinger1_finger_IK
+    400258: LeftFinger1_finger_influence1
+    400260: LeftFinger1_finger_influence10
+    400262: LeftFinger1_finger_influence10_compensate
+    400264: LeftFinger1_finger_influence11
+    400266: LeftFinger1_finger_influence11_compensate
+    400268: LeftFinger1_finger_influence1_compensate
+    400270: LeftFinger1_finger_influence2
+    400272: LeftFinger1_finger_influence2_compensate
+    400274: LeftFinger1_finger_influence3_intermediate
+    400276: LeftFinger1_finger_influence3_intermediate_compensate
+    400278: LeftFinger1_finger_influence3_intermediate_halfNode
+    400280: LeftFinger1_finger_influence4
+    400282: LeftFinger1_finger_influence4_compensate
+    400284: LeftFinger1_finger_influence5
+    400286: LeftFinger1_finger_influence5_compensate
+    400288: LeftFinger1_finger_influence6_intermediate
+    400290: LeftFinger1_finger_influence6_intermediate_compensate
+    400292: LeftFinger1_finger_influence6_intermediate_halfNode
+    400294: LeftFinger1_finger_influence7
+    400296: LeftFinger1_finger_influence7_compensate
+    400298: LeftFinger1_finger_influence8
+    400300: LeftFinger1_finger_influence8_compensate
+    400302: LeftFinger1_finger_influence9_intermediate
+    400304: LeftFinger1_finger_influence9_intermediate_compensate
+    400306: LeftFinger1_finger_influence9_intermediate_halfNode
+    400308: LeftFinger1_finger_rig
+    400310: LeftFinger1_fingercontrolnull
+    400312: LeftFinger1_ikHandle1
+    400314: LeftFinger1_ikHandle2
+    400316: LeftFinger1_IKnull
+    400318: LeftFinger1_joint1
+    400320: LeftFinger1_joint2
+    400322: LeftFinger1_joint3
+    400324: LeftFinger1_joint4
+    400326: LeftFinger1_joint5
+    400328: LeftFinger1_JOINTS
+    400330: LeftFinger1_lastjointaimer
+    400332: LeftFinger1_pivotCompensate
+    400334: LeftFinger1_RIG
+    400336: LeftFinger1_rig_fingerjoint1
+    400338: LeftFinger1_rig_fingerjoint2
+    400340: LeftFinger1_rig_fingerjoint3
+    400342: LeftFinger1_rig_knuckle
+    400344: LeftFinger1_rig_metacarpel
+    400346: LeftFinger2_aimer
+    400348: LeftFinger2_constraintCompensate
+    400350: LeftFinger2_finger_control
+    400352: LeftFinger2_finger_IK
+    400354: LeftFinger2_finger_influence1
+    400356: LeftFinger2_finger_influence10
+    400358: LeftFinger2_finger_influence10_compensate
+    400360: LeftFinger2_finger_influence11
+    400362: LeftFinger2_finger_influence11_compensate
+    400364: LeftFinger2_finger_influence1_compensate
+    400366: LeftFinger2_finger_influence2
+    400368: LeftFinger2_finger_influence2_compensate
+    400370: LeftFinger2_finger_influence3_intermediate
+    400372: LeftFinger2_finger_influence3_intermediate_compensate
+    400374: LeftFinger2_finger_influence3_intermediate_halfNode
+    400376: LeftFinger2_finger_influence4
+    400378: LeftFinger2_finger_influence4_compensate
+    400380: LeftFinger2_finger_influence5
+    400382: LeftFinger2_finger_influence5_compensate
+    400384: LeftFinger2_finger_influence6_intermediate
+    400386: LeftFinger2_finger_influence6_intermediate_compensate
+    400388: LeftFinger2_finger_influence6_intermediate_halfNode
+    400390: LeftFinger2_finger_influence7
+    400392: LeftFinger2_finger_influence7_compensate
+    400394: LeftFinger2_finger_influence8
+    400396: LeftFinger2_finger_influence8_compensate
+    400398: LeftFinger2_finger_influence9_intermediate
+    400400: LeftFinger2_finger_influence9_intermediate_compensate
+    400402: LeftFinger2_finger_influence9_intermediate_halfNode
+    400404: LeftFinger2_finger_rig
+    400406: LeftFinger2_fingercontrolnull
+    400408: LeftFinger2_ikHandle1
+    400410: LeftFinger2_ikHandle2
+    400412: LeftFinger2_IKnull
+    400414: LeftFinger2_joint1
+    400416: LeftFinger2_joint2
+    400418: LeftFinger2_joint3
+    400420: LeftFinger2_joint4
+    400422: LeftFinger2_joint5
+    400424: LeftFinger2_JOINTS
+    400426: LeftFinger2_lastjointaimer
+    400428: LeftFinger2_pivotCompensate
+    400430: LeftFinger2_RIG
+    400432: LeftFinger2_rig_fingerjoint1
+    400434: LeftFinger2_rig_fingerjoint2
+    400436: LeftFinger2_rig_fingerjoint3
+    400438: LeftFinger2_rig_knuckle
+    400440: LeftFinger2_rig_metacarpel
+    400442: LeftFinger3_aimer
+    400444: LeftFinger3_constraintCompensate
+    400446: LeftFinger3_finger_control
+    400448: LeftFinger3_finger_IK
+    400450: LeftFinger3_finger_influence1
+    400452: LeftFinger3_finger_influence10
+    400454: LeftFinger3_finger_influence10_compensate
+    400456: LeftFinger3_finger_influence11
+    400458: LeftFinger3_finger_influence11_compensate
+    400460: LeftFinger3_finger_influence1_compensate
+    400462: LeftFinger3_finger_influence2
+    400464: LeftFinger3_finger_influence2_compensate
+    400466: LeftFinger3_finger_influence3_intermediate
+    400468: LeftFinger3_finger_influence3_intermediate_compensate
+    400470: LeftFinger3_finger_influence3_intermediate_halfNode
+    400472: LeftFinger3_finger_influence4
+    400474: LeftFinger3_finger_influence4_compensate
+    400476: LeftFinger3_finger_influence5
+    400478: LeftFinger3_finger_influence5_compensate
+    400480: LeftFinger3_finger_influence6_intermediate
+    400482: LeftFinger3_finger_influence6_intermediate_compensate
+    400484: LeftFinger3_finger_influence6_intermediate_halfNode
+    400486: LeftFinger3_finger_influence7
+    400488: LeftFinger3_finger_influence7_compensate
+    400490: LeftFinger3_finger_influence8
+    400492: LeftFinger3_finger_influence8_compensate
+    400494: LeftFinger3_finger_influence9_intermediate
+    400496: LeftFinger3_finger_influence9_intermediate_compensate
+    400498: LeftFinger3_finger_influence9_intermediate_halfNode
+    400500: LeftFinger3_finger_rig
+    400502: LeftFinger3_fingercontrolnull
+    400504: LeftFinger3_ikHandle1
+    400506: LeftFinger3_ikHandle2
+    400508: LeftFinger3_IKnull
+    400510: LeftFinger3_joint1
+    400512: LeftFinger3_joint2
+    400514: LeftFinger3_joint3
+    400516: LeftFinger3_joint4
+    400518: LeftFinger3_joint5
+    400520: LeftFinger3_JOINTS
+    400522: LeftFinger3_lastjointaimer
+    400524: LeftFinger3_pivotCompensate
+    400526: LeftFinger3_RIG
+    400528: LeftFinger3_rig_fingerjoint1
+    400530: LeftFinger3_rig_fingerjoint2
+    400532: LeftFinger3_rig_fingerjoint3
+    400534: LeftFinger3_rig_knuckle
+    400536: LeftFinger3_rig_metacarpel
+    400538: LeftKneeTracker
+    400540: LeftKneeTracker_null
+    400542: LeftLeg_ballIKhandle
+    400544: LeftLeg_cluster1Handle
+    400546: LeftLeg_cluster2Handle
+    400548: LeftLeg_cluster3Handle
+    400550: LeftLeg_cluster4Handle
+    400552: LeftLeg_clusters
+    400554: LeftLeg_constraintCompensate
+    400556: LeftLeg_distance
+    400558: LeftLeg_fk
+    400560: LeftLeg_fkikswitchnull
+    400562: LeftLeg_Foot
+    400564: LeftLeg_Foot_SWITCH
+    400566: LeftLeg_FootMover
+    400568: LeftLeg_footnull
+    400570: LeftLeg_footscalecompensate
+    400572: LeftLeg_IKhandleattacherFK
+    400574: LeftLeg_influence10
+    400576: LeftLeg_influence10_compensate
+    400578: LeftLeg_influence11
+    400580: LeftLeg_influence11_compensate
+    400582: LeftLeg_influence12_intermediate
+    400584: LeftLeg_influence12_intermediate_compensate
+    400586: LeftLeg_influence12_intermediate_halfNode
+    400588: LeftLeg_influence13
+    400590: LeftLeg_influence13_compensate
+    400592: LeftLeg_influence1_intermediate
+    400594: LeftLeg_influence1_intermediate_compensate
+    400596: LeftLeg_influence1_intermediate_halfNode
+    400598: LeftLeg_influence2
+    400600: LeftLeg_influence2_compensate
+    400602: LeftLeg_influence3
+    400604: LeftLeg_influence3_compensate
+    400606: LeftLeg_influence4
+    400608: LeftLeg_influence4_compensate
+    400610: LeftLeg_influence5_intermediate_constrain
+    400612: LeftLeg_influence5_intermediate_constrain_compensate
+    400614: LeftLeg_influence5_intermediate_constrain_halfNode
+    400616: LeftLeg_influence6
+    400618: LeftLeg_influence6_compensate
+    400620: LeftLeg_influence7
+    400622: LeftLeg_influence7_compensate
+    400624: LeftLeg_influence8
+    400626: LeftLeg_influence8_compensate
+    400628: LeftLeg_influence9_intermediate
+    400630: LeftLeg_influence9_intermediate_compensate
+    400632: LeftLeg_influence9_intermediate_halfNode
+    400634: LeftLeg_isolater
+    400636: LeftLeg_joint1
+    400638: LeftLeg_joint2
+    400640: LeftLeg_joint3
+    400642: LeftLeg_joint4
+    400644: LeftLeg_joint4scalecomp
+    400646: LeftLeg_joint5
+    400648: LeftLeg_joint6
+    400650: LeftLeg_joint7
+    400652: LeftLeg_joint8
+    400654: LeftLeg_joint9
+    400656: LeftLeg_JOINTS
+    400658: LeftLeg_kneescalecompensate
+    400660: LeftLeg_Leg_Pole_Vector
+    400662: LeftLeg_Leg_Pole_Vector_SWITCH
+    400664: LeftLeg_legIKhandle
+    400666: LeftLeg_legIKhandles
+    400668: LeftLeg_Lower_Leg
+    400670: LeftLeg_Lower_Leg_SWITCH
+    400672: LeftLeg_lowerarmscalecompensate
+    400674: LeftLeg_lowerlegnull
+    400676: LeftLeg_orientleg
+    400678: LeftLeg_orientlegnull
+    400680: LeftLeg_pivotCompensate
+    400682: LeftLeg_polecectornull
+    400684: LeftLeg_polevector
+    400686: LeftLeg_polevectoraimer
+    400688: LeftLeg_polevectorextraaim
+    400690: LeftLeg_polevectorfirstposition
+    400692: LeftLeg_polevectorfoot
+    400694: LeftLeg_polevectorgroup
+    400696: LeftLeg_polevectorturn
+    400698: LeftLeg_polevectorvector
+    400700: LeftLeg_RIG
+    400702: LeftLeg_rig_heelswitchplacer
+    400704: LeftLeg_rig_joint1
+    400706: LeftLeg_rig_joint2
+    400708: LeftLeg_rig_joint3
+    400710: LeftLeg_rig_joint4
+    400712: LeftLeg_rig_joint5
+    400714: LeftLeg_scalingCompensate
+    400716: LeftLeg_Toe
+    400718: LeftLeg_Toe_SWITCH
+    400720: LeftLeg_toeattach
+    400722: LeftLeg_toeIKhandle
+    400724: LeftLeg_toenull
+    400726: LeftLeg_toepolevector
+    400728: LeftLeg_Upper_Leg
+    400730: LeftLeg_Upper_Leg_SWITCH
+    400732: LeftLeg_upperlegnull
+    400734: LeftThumb_constraintCompensate
+    400736: LeftThumb_finger_control
+    400738: LeftThumb_finger_IK
+    400740: LeftThumb_finger_influence1
+    400742: LeftThumb_finger_influence1_compensate
+    400744: LeftThumb_finger_influence2
+    400746: LeftThumb_finger_influence2_compensate
+    400748: LeftThumb_finger_influence3_intermediate
+    400750: LeftThumb_finger_influence3_intermediate_compensate
+    400752: LeftThumb_finger_influence3_intermediate_halfNode
+    400754: LeftThumb_finger_influence4
+    400756: LeftThumb_finger_influence4_compensate
+    400758: LeftThumb_finger_influence5
+    400760: LeftThumb_finger_influence5_compensate
+    400762: LeftThumb_finger_influence6_intermediate
+    400764: LeftThumb_finger_influence6_intermediate_compensate
+    400766: LeftThumb_finger_influence6_intermediate_halfNode
+    400768: LeftThumb_finger_influence7
+    400770: LeftThumb_finger_influence7_compensate
+    400772: LeftThumb_finger_influence8
+    400774: LeftThumb_finger_influence8_compensate
+    400776: LeftThumb_finger_rig
+    400778: LeftThumb_fingercontrolnull
+    400780: LeftThumb_ikHandle1
+    400782: LeftThumb_ikHandle2
+    400784: LeftThumb_IKnull
+    400786: LeftThumb_joint1
+    400788: LeftThumb_joint2
+    400790: LeftThumb_joint3
+    400792: LeftThumb_joint4
+    400794: LeftThumb_JOINTS
+    400796: LeftThumb_joints
+    400798: LeftThumb_pivotCompensate
+    400800: LeftThumb_RIG
+    400802: LeftThumb_rig_fingerjoint1
+    400804: LeftThumb_rig_fingerjoint2
+    400806: LeftThumb_rig_fingerjoint3
+    400808: LeftThumb_rig_knuckle
+    400810: //RootNode
+    400812: RIG
+    400814: RightAnkleTracker
+    400816: RightAnkleTracker_null
+    400818: RightArm_Arm_IK_Handle
+    400820: RightArm_Arm_Pole_Vector
+    400822: RightArm_Arm_Pole_Vector_SWITCH
+    400824: RightArm_clusters
+    400826: RightArm_constraintCompensate
+    400828: RightArm_distancemeasure
+    400830: RightArm_elbowcluster
+    400832: RightArm_elbowcounterscale
+    400834: RightArm_extra
+    400836: RightArm_fk
+    400838: RightArm_FKhandorient
+    400840: RightArm_fkikswitchnull
+    400842: RightArm_Hand
+    400844: RightArm_Hand_SWITCH
+    400846: RightArm_handcluster
+    400848: RightArm_handcontrolnull
+    400850: RightArm_HandTranslate
+    400852: RightArm_ikcluster
+    400854: RightArm_immitateshoulder
+    400856: RightArm_influence1
+    400858: RightArm_influence10
+    400860: RightArm_influence10_compensate
+    400862: RightArm_influence11_intermediate_constrain
+    400864: RightArm_influence11_intermediate_constrain_compensate
+    400866: RightArm_influence11_intermediate_constrain_halfNode
+    400868: RightArm_influence1_compensate
+    400870: RightArm_influence2
+    400872: RightArm_influence2_compensate
+    400874: RightArm_influence3_intermediate
+    400876: RightArm_influence3_intermediate_compensate
+    400878: RightArm_influence3_intermediate_halfNode
+    400880: RightArm_influence4
+    400882: RightArm_influence4_compensate
+    400884: RightArm_influence5
+    400886: RightArm_influence5_compensate
+    400888: RightArm_influence6
+    400890: RightArm_influence6_compensate
+    400892: RightArm_influence7_intermediate_constrain
+    400894: RightArm_influence7_intermediate_constrain_compensate
+    400896: RightArm_influence7_intermediate_constrain_halfNode
+    400898: RightArm_influence8
+    400900: RightArm_influence8_compensate
+    400902: RightArm_influence9
+    400904: RightArm_influence9_compensate
+    400906: RightArm_joint1
+    400908: RightArm_joint2
+    400910: RightArm_joint3
+    400912: RightArm_joint4
+    400914: RightArm_joint5
+    400916: RightArm_joint6
+    400918: RightArm_joint7
+    400920: RightArm_joint8
+    400922: RightArm_JOINTS
+    400924: RightArm_lastnullstanding
+    400926: RightArm_Lower_Arm
+    400928: RightArm_Lower_Arm_SWITCH
+    400930: RightArm_lowerarmcontrolnull
+    400932: RightArm_lowerarmcounterscale
+    400934: RightArm_orinet
+    400936: RightArm_pivotCompensate
+    400938: RightArm_polevector
+    400940: RightArm_RIG
+    400942: RightArm_rig_clavical
+    400944: RightArm_rig_elbow
+    400946: RightArm_rig_shoulder
+    400948: RightArm_rig_wrist
+    400950: RightArm_scalingCompensate
+    400952: RightArm_Shoulder
+    400954: RightArm_shouldercluster
+    400956: RightArm_shouldernull
+    400958: RightArm_unisolated
+    400960: RightArm_Upper_Arm
+    400962: RightArm_Upper_Arm_SWITCH
+    400964: RightArm_upperarmcontrolnull
+    400966: RightElbowTracker
+    400968: RightElbowTracker_null
+    400970: RightFinger1_aimer
+    400972: RightFinger1_constraintCompensate
+    400974: RightFinger1_finger_control
+    400976: RightFinger1_finger_IK
+    400978: RightFinger1_finger_influence1
+    400980: RightFinger1_finger_influence10
+    400982: RightFinger1_finger_influence10_compensate
+    400984: RightFinger1_finger_influence11
+    400986: RightFinger1_finger_influence11_compensate
+    400988: RightFinger1_finger_influence1_compensate
+    400990: RightFinger1_finger_influence2
+    400992: RightFinger1_finger_influence2_compensate
+    400994: RightFinger1_finger_influence3_intermediate
+    400996: RightFinger1_finger_influence3_intermediate_compensate
+    400998: RightFinger1_finger_influence3_intermediate_halfNode
+    401000: RightFinger1_finger_influence4
+    401002: RightFinger1_finger_influence4_compensate
+    401004: RightFinger1_finger_influence5
+    401006: RightFinger1_finger_influence5_compensate
+    401008: RightFinger1_finger_influence6_intermediate
+    401010: RightFinger1_finger_influence6_intermediate_compensate
+    401012: RightFinger1_finger_influence6_intermediate_halfNode
+    401014: RightFinger1_finger_influence7
+    401016: RightFinger1_finger_influence7_compensate
+    401018: RightFinger1_finger_influence8
+    401020: RightFinger1_finger_influence8_compensate
+    401022: RightFinger1_finger_influence9_intermediate
+    401024: RightFinger1_finger_influence9_intermediate_compensate
+    401026: RightFinger1_finger_influence9_intermediate_halfNode
+    401028: RightFinger1_finger_rig
+    401030: RightFinger1_fingercontrolnull
+    401032: RightFinger1_ikHandle1
+    401034: RightFinger1_ikHandle2
+    401036: RightFinger1_IKnull
+    401038: RightFinger1_joint1
+    401040: RightFinger1_joint2
+    401042: RightFinger1_joint3
+    401044: RightFinger1_joint4
+    401046: RightFinger1_joint5
+    401048: RightFinger1_JOINTS
+    401050: RightFinger1_lastfingerjointaimer
+    401052: RightFinger1_pivotCompensate
+    401054: RightFinger1_RIG
+    401056: RightFinger1_rig_fingerjoint1
+    401058: RightFinger1_rig_fingerjoint2
+    401060: RightFinger1_rig_fingerjoint3
+    401062: RightFinger1_rig_knuckle
+    401064: RightFinger1_rig_metacarpel
+    401066: RightFinger2_aimer
+    401068: RightFinger2_constraintCompensate
+    401070: RightFinger2_finger_control
+    401072: RightFinger2_finger_IK
+    401074: RightFinger2_finger_influence1
+    401076: RightFinger2_finger_influence10
+    401078: RightFinger2_finger_influence10_compensate
+    401080: RightFinger2_finger_influence11
+    401082: RightFinger2_finger_influence11_compensate
+    401084: RightFinger2_finger_influence1_compensate
+    401086: RightFinger2_finger_influence2
+    401088: RightFinger2_finger_influence2_compensate
+    401090: RightFinger2_finger_influence3_intermediate
+    401092: RightFinger2_finger_influence3_intermediate_compensate
+    401094: RightFinger2_finger_influence3_intermediate_halfNode
+    401096: RightFinger2_finger_influence4
+    401098: RightFinger2_finger_influence4_compensate
+    401100: RightFinger2_finger_influence5
+    401102: RightFinger2_finger_influence5_compensate
+    401104: RightFinger2_finger_influence6_intermediate
+    401106: RightFinger2_finger_influence6_intermediate_compensate
+    401108: RightFinger2_finger_influence6_intermediate_halfNode
+    401110: RightFinger2_finger_influence7
+    401112: RightFinger2_finger_influence7_compensate
+    401114: RightFinger2_finger_influence8
+    401116: RightFinger2_finger_influence8_compensate
+    401118: RightFinger2_finger_influence9_intermediate
+    401120: RightFinger2_finger_influence9_intermediate_compensate
+    401122: RightFinger2_finger_influence9_intermediate_halfNode
+    401124: RightFinger2_finger_rig
+    401126: RightFinger2_fingercontrolnull
+    401128: RightFinger2_ikHandle1
+    401130: RightFinger2_ikHandle2
+    401132: RightFinger2_IKnull
+    401134: RightFinger2_joint1
+    401136: RightFinger2_joint2
+    401138: RightFinger2_joint3
+    401140: RightFinger2_joint4
+    401142: RightFinger2_joint5
+    401144: RightFinger2_JOINTS
+    401146: RightFinger2_lastfingerjointaimer
+    401148: RightFinger2_pivotCompensate
+    401150: RightFinger2_RIG
+    401152: RightFinger2_rig_fingerjoint1
+    401154: RightFinger2_rig_fingerjoint2
+    401156: RightFinger2_rig_fingerjoint3
+    401158: RightFinger2_rig_knuckle
+    401160: RightFinger2_rig_metacarpel
+    401162: RightFinger3_aimer
+    401164: RightFinger3_constraintCompensate
+    401166: RightFinger3_finger_control
+    401168: RightFinger3_finger_IK
+    401170: RightFinger3_finger_influence1
+    401172: RightFinger3_finger_influence10
+    401174: RightFinger3_finger_influence10_compensate
+    401176: RightFinger3_finger_influence11
+    401178: RightFinger3_finger_influence11_compensate
+    401180: RightFinger3_finger_influence1_compensate
+    401182: RightFinger3_finger_influence2
+    401184: RightFinger3_finger_influence2_compensate
+    401186: RightFinger3_finger_influence3_intermediate
+    401188: RightFinger3_finger_influence3_intermediate_compensate
+    401190: RightFinger3_finger_influence3_intermediate_halfNode
+    401192: RightFinger3_finger_influence4
+    401194: RightFinger3_finger_influence4_compensate
+    401196: RightFinger3_finger_influence5
+    401198: RightFinger3_finger_influence5_compensate
+    401200: RightFinger3_finger_influence6_intermediate
+    401202: RightFinger3_finger_influence6_intermediate_compensate
+    401204: RightFinger3_finger_influence6_intermediate_halfNode
+    401206: RightFinger3_finger_influence7
+    401208: RightFinger3_finger_influence7_compensate
+    401210: RightFinger3_finger_influence8
+    401212: RightFinger3_finger_influence8_compensate
+    401214: RightFinger3_finger_influence9_intermediate
+    401216: RightFinger3_finger_influence9_intermediate_compensate
+    401218: RightFinger3_finger_influence9_intermediate_halfNode
+    401220: RightFinger3_finger_rig
+    401222: RightFinger3_fingercontrolnull
+    401224: RightFinger3_ikHandle1
+    401226: RightFinger3_ikHandle2
+    401228: RightFinger3_IKnull
+    401230: RightFinger3_joint1
+    401232: RightFinger3_joint2
+    401234: RightFinger3_joint3
+    401236: RightFinger3_joint4
+    401238: RightFinger3_joint5
+    401240: RightFinger3_JOINTS
+    401242: RightFinger3_lastfingerjointaimer
+    401244: RightFinger3_pivotCompensate
+    401246: RightFinger3_RIG
+    401248: RightFinger3_rig_fingerjoint1
+    401250: RightFinger3_rig_fingerjoint2
+    401252: RightFinger3_rig_fingerjoint3
+    401254: RightFinger3_rig_knuckle
+    401256: RightFinger3_rig_metacarpel
+    401258: RightKneeTracker
+    401260: RightKneeTracker_null
+    401262: RightLeg_ballIKhandle
+    401264: RightLeg_cluster1Handle
+    401266: RightLeg_cluster2Handle
+    401268: RightLeg_cluster3Handle
+    401270: RightLeg_cluster4Handle
+    401272: RightLeg_clusters
+    401274: RightLeg_constraintCompensate
+    401276: RightLeg_distance
+    401278: RightLeg_fk
+    401280: RightLeg_fkikswitchnull
+    401282: RightLeg_Foot
+    401284: RightLeg_Foot_SWITCH
+    401286: RightLeg_footnull
+    401288: RightLeg_footscalecompensate
+    401290: RightLeg_FootTranslate
+    401292: RightLeg_IKhandleattacherFK
+    401294: RightLeg_influence10
+    401296: RightLeg_influence10_compensate
+    401298: RightLeg_influence11
+    401300: RightLeg_influence11_compensate
+    401302: RightLeg_influence12_intermediate
+    401304: RightLeg_influence12_intermediate_compensate
+    401306: RightLeg_influence12_intermediate_halfNode
+    401308: RightLeg_influence13
+    401310: RightLeg_influence13_compensate
+    401312: RightLeg_influence1_intermediate
+    401314: RightLeg_influence1_intermediate_compensate
+    401316: RightLeg_influence1_intermediate_halfNode
+    401318: RightLeg_influence2
+    401320: RightLeg_influence2_compensate
+    401322: RightLeg_influence3
+    401324: RightLeg_influence3_compensate
+    401326: RightLeg_influence4
+    401328: RightLeg_influence4_compensate
+    401330: RightLeg_influence5_intermediate_constrain
+    401332: RightLeg_influence5_intermediate_constrain_compensate
+    401334: RightLeg_influence5_intermediate_constrain_halfNode
+    401336: RightLeg_influence6
+    401338: RightLeg_influence6_compensate
+    401340: RightLeg_influence7
+    401342: RightLeg_influence7_compensate
+    401344: RightLeg_influence8
+    401346: RightLeg_influence8_compensate
+    401348: RightLeg_influence9_intermediate
+    401350: RightLeg_influence9_intermediate_compensate
+    401352: RightLeg_influence9_intermediate_halfNode
+    401354: RightLeg_isolater
+    401356: RightLeg_joint1
+    401358: RightLeg_joint2
+    401360: RightLeg_joint3
+    401362: RightLeg_joint4
+    401364: RightLeg_joint4scalecomp
+    401366: RightLeg_joint5
+    401368: RightLeg_joint6
+    401370: RightLeg_joint7
+    401372: RightLeg_joint8
+    401374: RightLeg_joint9
+    401376: RightLeg_JOINTS
+    401378: RightLeg_kneescalecompensate
+    401380: RightLeg_Leg_Pole_Vector
+    401382: RightLeg_Leg_Pole_Vector_SWITCH
+    401384: RightLeg_legIKhandle
+    401386: RightLeg_legIKhandles
+    401388: RightLeg_Lower_Leg
+    401390: RightLeg_Lower_Leg_SWITCH
+    401392: RightLeg_lowerarmscalecompensate
+    401394: RightLeg_lowerlegnull
+    401396: RightLeg_orientleg
+    401398: RightLeg_orientlegnull
+    401400: RightLeg_pivotCompensate
+    401402: RightLeg_polecectornull
+    401404: RightLeg_polevector
+    401406: RightLeg_polevectoraimer
+    401408: RightLeg_polevectorextraaim
+    401410: RightLeg_polevectorfirstposition
+    401412: RightLeg_polevectorfoot
+    401414: RightLeg_polevectorgroup
+    401416: RightLeg_polevectorturn
+    401418: RightLeg_polevectorvector
+    401420: RightLeg_RIG
+    401422: RightLeg_rig_heelswitchplacer
+    401424: RightLeg_rig_joint1
+    401426: RightLeg_rig_joint2
+    401428: RightLeg_rig_joint3
+    401430: RightLeg_rig_joint4
+    401432: RightLeg_rig_joint5
+    401434: RightLeg_scalingCompensate
+    401436: RightLeg_Toe
+    401438: RightLeg_Toe_SWITCH
+    401440: RightLeg_toeattach
+    401442: RightLeg_toeIKhandle
+    401444: RightLeg_toenull
+    401446: RightLeg_toepolevector
+    401448: RightLeg_Upper_Leg
+    401450: RightLeg_Upper_Leg_SWITCH
+    401452: RightLeg_upperlegnull
+    401454: RightThumb_constraintCompensate
+    401456: RightThumb_finger_control
+    401458: RightThumb_finger_IK
+    401460: RightThumb_finger_influence1
+    401462: RightThumb_finger_influence1_compensate
+    401464: RightThumb_finger_influence2
+    401466: RightThumb_finger_influence2_compensate
+    401468: RightThumb_finger_influence3_intermediate
+    401470: RightThumb_finger_influence3_intermediate_compensate
+    401472: RightThumb_finger_influence3_intermediate_halfNode
+    401474: RightThumb_finger_influence4
+    401476: RightThumb_finger_influence4_compensate
+    401478: RightThumb_finger_influence5
+    401480: RightThumb_finger_influence5_compensate
+    401482: RightThumb_finger_influence6_intermediate
+    401484: RightThumb_finger_influence6_intermediate_compensate
+    401486: RightThumb_finger_influence6_intermediate_halfNode
+    401488: RightThumb_finger_influence7
+    401490: RightThumb_finger_influence7_compensate
+    401492: RightThumb_finger_influence8
+    401494: RightThumb_finger_influence8_compensate
+    401496: RightThumb_finger_rig
+    401498: RightThumb_fingercontrolnull
+    401500: RightThumb_ikHandle1
+    401502: RightThumb_ikHandle2
+    401504: RightThumb_IKnull
+    401506: RightThumb_joint1
+    401508: RightThumb_joint2
+    401510: RightThumb_joint3
+    401512: RightThumb_joint4
+    401514: RightThumb_JOINTS
+    401516: RightThumb_joints
+    401518: RightThumb_pivotCompensate
+    401520: RightThumb_RIG
+    401522: RightThumb_rig_fingerjoint1
+    401524: RightThumb_rig_fingerjoint2
+    401526: RightThumb_rig_fingerjoint3
+    401528: RightThumb_rig_knuckle
+    401530: Spine_influence1
+    401532: Spine_influence1_compensate
+    401534: Spine_influence2
+    401536: Spine_influence2_compensate
+    401538: Spine_influence3
+    401540: Spine_influence3_compensate
+    401542: Spine_influence4
+    401544: Spine_influence4_compensate
+    401546: Spine_influence5
+    401548: Spine_influence5_compensate
+    401550: Spine_influence6
+    401552: Spine_influence6_compensate
+    401554: Spine_influence7
+    401556: Spine_influence7_compensate
+    401558: Spine_joint1
+    401560: Spine_joint2
+    401562: Spine_joint3
+    401564: Spine_joint4
+    401566: Spine_joint5
+    401568: Spine_joint6
+    401570: Spine_joint7
+    401572: Spine_joint8
+    401574: Spine_JOINTS
+    401576: Spine_RIG
+    401578: Spine_rig
+    401580: Spine_rig_joint1
+    401582: Spine_rig_joint2
+    401584: Spine_rig_joint3
+    401586: Spine_rig_joint4
+    401588: Spine_rig_joint5
+    401590: Spine_rig_joint6
+    401592: Spine_rig_joint7
+    401594: Spine_rig_joint8
+    401596: transform1
+    401598: Upper_Body
+    401600: zeroWeightJoint
+    7400000: walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.15319158
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5957444
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Ethan(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanBody
+      parentName: Ethan(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanGlasses
+      parentName: Ethan(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanSkeleton
+      parentName: Ethan(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanHips
+      parentName: EthanSkeleton
+      position: {x: 0.00000042162256, y: 0.7787106, z: -0.033025585}
+      rotation: {x: -0.49999934, y: 0.49999934, z: -0.50000066, w: 0.50000066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanSpine
+      parentName: EthanHips
+      position: {x: -0.044983033, y: 0.00011812973, z: -0.000000026061407}
+      rotation: {x: -0.0000020492112, y: 0.0000006409474, z: 0.043222737, w: 0.99906546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftUpLeg
+      parentName: EthanSpine
+      position: {x: 0.044804916, y: -0.00400244, z: -0.07436281}
+      rotation: {x: 0.009854246, y: 0.9996559, z: -0.0031334888, w: 0.024108019}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftLeg
+      parentName: EthanLeftUpLeg
+      position: {x: -0.3529785, y: -0.047479518, z: 0.03461981}
+      rotation: {x: 0, y: 0, z: 0.16876774, w: 0.98565584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftFoot
+      parentName: EthanLeftLeg
+      position: {x: -0.2827789, y: 0.1718791, z: 0.031038838}
+      rotation: {x: -0.08430487, y: 0.035964992, z: -0.13311164, w: 0.9868539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftToe1
+      parentName: EthanLeftFoot
+      position: {x: -0.085517354, y: -0.11005712, z: -0.0000006698085}
+      rotation: {x: 7.3885096e-18, y: -8.589314e-17, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftToe2
+      parentName: EthanLeftToe1
+      position: {x: 0.08174267, y: -0.000000009601407, z: -0.00000029316797}
+      rotation: {x: 1, y: -5.6351963e-23, z: 1.110223e-16, w: -0.00000068451953}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightUpLeg
+      parentName: EthanSpine
+      position: {x: 0.044804532, y: -0.004002823, z: 0.07436302}
+      rotation: {x: 0.0098541705, y: 0.9996559, z: 0.0031362663, w: -0.024108129}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightLeg
+      parentName: EthanRightUpLeg
+      position: {x: -0.3529783, y: -0.04747951, z: -0.034621846}
+      rotation: {x: 0, y: 0, z: 0.16876684, w: 0.985656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightFoot
+      parentName: EthanRightLeg
+      position: {x: -0.282779, y: 0.17187855, z: -0.031040668}
+      rotation: {x: 0.08430424, y: -0.03596484, z: -0.13311061, w: 0.9868541}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightToe1
+      parentName: EthanRightFoot
+      position: {x: -0.08551728, y: -0.11005718, z: 0.000000062032285}
+      rotation: {x: -1.3899192e-17, y: 3.352535e-17, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightToe2
+      parentName: EthanRightToe1
+      position: {x: 0.08174264, y: 0.000000049485, z: 0.00000019218783}
+      rotation: {x: -1.6724651e-16, y: 4.9321447e-33, z: -2.949027e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanSpine1
+      parentName: EthanSpine
+      position: {x: -0.14667831, y: 0.025727088, z: -0.0000003282363}
+      rotation: {x: -1.0587912e-22, y: -7.34684e-40, z: 6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanSpine2
+      parentName: EthanSpine1
+      position: {x: -0.12695539, y: 0.022281736, z: -0.0000002830808}
+      rotation: {x: -1.0587912e-22, y: -7.34684e-40, z: 6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanNeck
+      parentName: EthanSpine2
+      position: {x: -0.12697862, y: 0.02224573, z: -0.00000028315998}
+      rotation: {x: -7.318979e-17, y: 1.4170987e-17, z: -0.13052638, w: 0.9914448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanHead
+      parentName: EthanNeck
+      position: {x: -0.090649985, y: -0.041122116, z: 0.000000058975164}
+      rotation: {x: 1.3487235e-18, y: -1.7102821e-17, z: 0.087552026, w: 0.99616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanHead1
+      parentName: EthanHead
+      position: {x: -0.17475267, y: 0.00000045072835, z: 0.00000009431633}
+      rotation: {x: 1.0587912e-22, y: 4.646893e-23, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftCorner
+      parentName: EthanHead1
+      position: {x: 0.14939941, y: -0.06769698, z: -0.024466591}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftUpperLip
+      parentName: EthanHead1
+      position: {x: 0.14274777, y: -0.075114705, z: -0.014378637}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightCorner
+      parentName: EthanHead1
+      position: {x: 0.14939931, y: -0.06769704, z: 0.02431402}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightUpperLip
+      parentName: EthanHead1
+      position: {x: 0.14274772, y: -0.07511473, z: 0.014226249}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanUpperLip
+      parentName: EthanHead1
+      position: {x: 0.14274773, y: -0.087347545, z: -0.00007465846}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanJaw
+      parentName: EthanHead
+      position: {x: -0.03240739, y: -0.029785074, z: -0.00000007152633}
+      rotation: {x: -0.49673736, y: 0.5032417, z: 0.5032421, w: -0.49673653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftLowerLip
+      parentName: EthanJaw
+      position: {x: 0.044976283, y: -0.009381128, z: -0.014150948}
+      rotation: {x: 5.54211e-23, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLowerLip
+      parentName: EthanJaw
+      position: {x: 0.057204966, y: 0.0049228696, z: -0.014469165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightLowerLip
+      parentName: EthanJaw
+      position: {x: 0.044976283, y: 0.019223755, z: -0.014150911}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftBlink
+      parentName: EthanHead
+      position: {x: -0.08582658, y: -0.07248985, z: -0.023909489}
+      rotation: {x: -0.43938157, y: 0.5540251, z: 0.55402577, w: -0.4393808}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftBrow
+      parentName: EthanHead
+      position: {x: -0.09988994, y: -0.08062434, z: -0.028973255}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftEye
+      parentName: EthanHead
+      position: {x: -0.0817658, y: -0.058895037, z: -0.027851813}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightBlink
+      parentName: EthanHead
+      position: {x: -0.08582671, y: -0.07248995, z: 0.033750787}
+      rotation: {x: -0.44628233, y: 0.55759704, z: 0.54723495, w: -0.43640757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightBrow
+      parentName: EthanHead
+      position: {x: -0.09989007, y: -0.08062444, z: 0.02868702}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightEye
+      parentName: EthanHead
+      position: {x: -0.0817396, y: -0.05880309, z: 0.027845075}
+      rotation: {x: -0.5, y: 0.5, z: 0.5000007, w: -0.49999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftShoulder
+      parentName: EthanNeck
+      position: {x: 0.00002230769, y: -0.00006137982, z: -0.026027031}
+      rotation: {x: -0.48608947, y: -0.0722202, z: 0.8640734, w: -0.10898846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftArm
+      parentName: EthanLeftShoulder
+      position: {x: 0.08180639, y: 0.009300345, z: -0.09634663}
+      rotation: {x: 0.06292434, y: -0.29547754, z: -0.011793284, w: 0.95320225}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftForeArm
+      parentName: EthanLeftArm
+      position: {x: 0.08794441, y: -0.014121806, z: -0.22941957}
+      rotation: {x: -0.18687433, y: 0.0007973312, z: 0.14583053, w: 0.97149926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHand
+      parentName: EthanLeftForeArm
+      position: {x: 0.070799686, y: 0.035503525, z: -0.14085448}
+      rotation: {x: -0.70413613, y: -0.061654028, z: -0.061605077, w: 0.7046956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandIndex1
+      parentName: EthanLeftHand
+      position: {x: 0.018482484, y: 0.08044448, z: 0.051040206}
+      rotation: {x: 0.0015112518, y: -0.043594275, z: -0.043560736, w: 0.9980981}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandIndex2
+      parentName: EthanLeftHandIndex1
+      position: {x: 0.00022275507, y: 0.025879132, z: 0.010385311}
+      rotation: {x: -0.052662343, y: 0.035397545, z: -0.2640296, w: 0.9624251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandIndex3
+      parentName: EthanLeftHandIndex2
+      position: {x: -0.012793984, y: 0.016905012, z: 0.011081521}
+      rotation: {x: -0.02921515, y: 0.08614237, z: -0.2737419, w: 0.9574922}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandIndex4
+      parentName: EthanLeftHandIndex3
+      position: {x: -0.020055601, y: 0.0045873905, z: 0.007730915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandMiddle1
+      parentName: EthanLeftHand
+      position: {x: 0.013394796, y: 0.084405266, z: 0.03165157}
+      rotation: {x: -0.044011682, y: 2.8034074e-17, z: -5.7106006e-18, w: 0.999031}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandMiddle2
+      parentName: EthanLeftHandMiddle1
+      position: {x: 0.0037795054, y: 0.030145722, z: 0.0116361305}
+      rotation: {x: -0.091909915, y: 0.05467633, z: -0.42002133, w: 0.90119106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandMiddle3
+      parentName: EthanLeftHandMiddle2
+      position: {x: -0.017910194, y: 0.014384004, z: 0.013012275}
+      rotation: {x: -0.040044915, y: 0.008001845, z: -0.18298166, w: 0.9822679}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandMiddle4
+      parentName: EthanLeftHandMiddle3
+      position: {x: -0.020049915, y: 0.0035380095, z: 0.012281134}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandPinky1
+      parentName: EthanLeftHand
+      position: {x: -0.0067506824, y: 0.09838339, z: -0.0051224125}
+      rotation: {x: -0.15040894, y: 0.08822873, z: -0.33158392, w: 0.92717046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandPinky2
+      parentName: EthanLeftHandPinky1
+      position: {x: -0.010750259, y: 0.009622569, z: 0.009467701}
+      rotation: {x: -0.044671368, y: 0.009720898, z: -0.17979467, w: 0.9826413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandPinky3
+      parentName: EthanLeftHandPinky2
+      position: {x: -0.0155973025, y: 0.0034428125, z: 0.0112945065}
+      rotation: {x: -0.045708735, y: -0.0008739185, z: -0.17979562, w: 0.98264116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandPinky4
+      parentName: EthanLeftHandPinky3
+      position: {x: -0.009463298, y: -0.002946482, z: 0.006961719}
+      rotation: {x: 8.326673e-17, y: 1.3877788e-17, z: -6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandRing1
+      parentName: EthanLeftHand
+      position: {x: 0.011634815, y: 0.097086444, z: 0.00849549}
+      rotation: {x: -0.04750495, y: -0.02680468, z: -0.21266928, w: 0.9756006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandRing2
+      parentName: EthanLeftHandRing1
+      position: {x: -0.009746879, y: 0.022168977, z: 0.013826583}
+      rotation: {x: -0.06670461, y: 0.026029166, z: -0.25883004, w: 0.9632653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandRing3
+      parentName: EthanLeftHandRing2
+      position: {x: -0.015402557, y: 0.007800675, z: 0.011749413}
+      rotation: {x: -0.01883299, y: 0.002628695, z: -0.09988077, w: 0.9948177}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandRing4
+      parentName: EthanLeftHandRing3
+      position: {x: -0.01707594, y: 0.0025099975, z: 0.012105394}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandThumb1
+      parentName: EthanLeftHand
+      position: {x: -0.004633863, y: 0.028035661, z: 0.048953336}
+      rotation: {x: 0.66034335, y: -0.2809301, z: -0.23108189, w: 0.6569825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandThumb2
+      parentName: EthanLeftHandThumb1
+      position: {x: -0.0031383773, y: 0.025515735, z: -0.014984593}
+      rotation: {x: 0.042991735, y: -0.025952656, z: -0.17635393, w: 0.98304504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandThumb3
+      parentName: EthanLeftHandThumb2
+      position: {x: -0.010219031, y: 0.014567392, z: -0.012677365}
+      rotation: {x: 0.04783477, y: -0.015307045, z: -0.17635551, w: 0.9830444}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanLeftHandThumb4
+      parentName: EthanLeftHandThumb3
+      position: {x: -0.016609639, y: 0.007850524, z: -0.014726918}
+      rotation: {x: 2.220446e-16, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightShoulder
+      parentName: EthanNeck
+      position: {x: 0.000022271464, y: -0.00006150465, z: 0.026027026}
+      rotation: {x: 0.48609108, y: 0.07221761, z: 0.86407256, w: -0.10898973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightArm
+      parentName: EthanRightShoulder
+      position: {x: 0.081806876, y: 0.009300272, z: 0.096346125}
+      rotation: {x: -0.06292409, y: 0.2954787, z: -0.011792956, w: 0.9532019}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightForeArm
+      parentName: EthanRightArm
+      position: {x: 0.087945335, y: -0.014121898, z: 0.22941919}
+      rotation: {x: 0.1868743, y: -0.00079789746, z: 0.1458294, w: 0.9714995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHand
+      parentName: EthanRightForeArm
+      position: {x: 0.07080024, y: 0.03550319, z: 0.14085418}
+      rotation: {x: 0.70413506, y: 0.061653953, z: -0.061604813, w: 0.7046967}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandIndex1
+      parentName: EthanRightHand
+      position: {x: 0.018482815, y: 0.08044467, z: -0.05103978}
+      rotation: {x: -0.0015103403, y: 0.04359434, z: -0.04356065, w: 0.9980981}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandIndex2
+      parentName: EthanRightHandIndex1
+      position: {x: 0.0002228482, y: 0.025879227, z: -0.0103851855}
+      rotation: {x: 0.05266336, y: -0.035397556, z: -0.2640311, w: 0.9624247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandIndex3
+      parentName: EthanRightHandIndex2
+      position: {x: -0.012793941, y: 0.01690497, z: -0.01108144}
+      rotation: {x: 0.029214451, y: -0.08614219, z: -0.27374247, w: 0.9574922}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandIndex4
+      parentName: EthanRightHandIndex3
+      position: {x: -0.020055542, y: 0.0045875087, z: -0.007730851}
+      rotation: {x: 0.48288566, y: 0, z: -0, w: 0.8756834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandMiddle1
+      parentName: EthanRightHand
+      position: {x: 0.013395289, y: 0.08440544, z: -0.031651095}
+      rotation: {x: 0.044012643, y: 6.003835e-17, z: 1.01539365e-16, w: 0.999031}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandMiddle2
+      parentName: EthanRightHandMiddle1
+      position: {x: 0.0037796986, y: 0.030145705, z: -0.011636003}
+      rotation: {x: 0.094235055, y: -0.05927117, z: -0.41746008, w: 0.9018502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandMiddle3
+      parentName: EthanRightHandMiddle2
+      position: {x: -0.017910058, y: 0.01438411, z: -0.013012125}
+      rotation: {x: 0.040047344, y: -0.008001346, z: -0.18298474, w: 0.9822672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandMiddle4
+      parentName: EthanRightHandMiddle3
+      position: {x: -0.020049982, y: 0.003538114, z: -0.012281116}
+      rotation: {x: 0.37079856, y: 0, z: -0, w: 0.9287133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandPinky1
+      parentName: EthanRightHand
+      position: {x: -0.006750106, y: 0.09838347, z: 0.005122984}
+      rotation: {x: 0.14634132, y: -0.0853054, z: -0.3388892, w: 0.92545193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandPinky2
+      parentName: EthanRightHandPinky1
+      position: {x: -0.010876534, y: 0.00954607, z: -0.009400739}
+      rotation: {x: 0.035175707, y: -0.014915071, z: -0.15348981, w: 0.98741126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandPinky3
+      parentName: EthanRightHandPinky2
+      position: {x: -0.015650306, y: 0.004325165, z: -0.010911368}
+      rotation: {x: 0.04428908, y: -0.00024435105, z: -0.18078858, w: 0.9825242}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandPinky4
+      parentName: EthanRightHandPinky3
+      position: {x: -0.009746457, y: -0.002438951, z: -0.006764462}
+      rotation: {x: 0.1938353, y: 4.4878757e-17, z: 1.2351859e-17, w: 0.9810341}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandRing1
+      parentName: EthanRightHand
+      position: {x: 0.011635365, y: 0.09708646, z: -0.008494926}
+      rotation: {x: 0.06069251, y: 0.019897, z: -0.24453726, w: 0.96753407}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandRing2
+      parentName: EthanRightHandRing1
+      position: {x: -0.011261935, y: 0.021090085, z: -0.014353217}
+      rotation: {x: 0.06872708, y: -0.023836246, z: -0.2580223, w: 0.9633966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandRing3
+      parentName: EthanRightHandRing2
+      position: {x: -0.015814971, y: 0.0064337812, z: -0.012026324}
+      rotation: {x: 0.019224158, y: -0.0019391933, z: -0.09966884, w: 0.99483305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandRing4
+      parentName: EthanRightHandRing3
+      position: {x: -0.017074374, y: 0.0010487483, z: -0.012320689}
+      rotation: {x: 0.4587139, y: 0, z: -0, w: 0.888584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandThumb1
+      parentName: EthanRightHand
+      position: {x: -0.0046337163, y: 0.028035993, z: -0.04895318}
+      rotation: {x: -0.660343, y: 0.28093126, z: -0.23108025, w: 0.656983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandThumb2
+      parentName: EthanRightHandThumb1
+      position: {x: -0.0031383634, y: 0.025515651, z: 0.014984788}
+      rotation: {x: -0.04299499, y: 0.025953224, z: -0.17635447, w: 0.9830448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandThumb3
+      parentName: EthanRightHandThumb2
+      position: {x: -0.010218882, y: 0.014567167, z: 0.012677433}
+      rotation: {x: -0.04783391, y: 0.015310023, z: -0.17635584, w: 0.9830443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EthanRightHandThumb4
+      parentName: EthanRightHandThumb3
+      position: {x: -0.016609553, y: 0.007850429, z: 0.0147271305}
+      rotation: {x: -0.8654032, y: 0, z: 0, w: 0.5010762}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a6514697a78afdc46880fd4f302fbcab,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

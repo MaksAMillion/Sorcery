@@ -1,0 +1,25 @@
+﻿__Page_Desc;;;;;
+__Line_NpcName;_Eng;Josh;
+;;;;;
+__Page_Welcome;;;;;
+__Line_NpcAnswer;_Eng;First day on campus?;
+__Line_Common;_Eng;Yeah.;
+;;;;;
+__Page_Common;;;;;
+__Line_NpcAnswer;_Eng;Trust me, this place is easy to navigate once you find your way. I can help you.;
+__Line_Great;_Eng;That sounds great.;
+;;;;;
+__Page_Great;;;;;
+__Line_NpcAnswer;_Eng;Here's the English building to your right and if you head down campus you'll see the Library.;
+__Line_Lost;_Eng;What if I get lost?
+;;;;;
+__Page_Lost;;;;;
+__Line_NpcAnswer;_Eng;If you ever get lost don't forget to use your mini-map.;
+__Line_SaysWhat;_Eng;Oh that's right.;
+;;;;;
+__Page_SaysWhat;;;;;
+__Line_NpcAnswer;_Eng;Also, if you get hurt, you can go the the First Aid building down past the Library and P.E. buildings.;
+__Line_Exit;_Eng;Alright. Thanks.;
+;;;;;
+__Page_Exit;;;;;
+__Line_Effect;_Exit;;;;

@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: 4ae5c31675ccc8e489a41e7e69c7cfca
+timeCreated: 1521674231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: McMiniBoy_rigged_v1:char_ctrl
+    100002: McMiniBoy_rigged_v1:head
+    100004: McMiniBoy_rigged_v1:head_ctrl
+    100006: McMiniBoy_rigged_v1:head_top
+    100008: McMiniBoy_rigged_v1:l_ankle
+    100010: McMiniBoy_rigged_v1:l_ankle_ik
+    100012: McMiniBoy_rigged_v1:l_ankle_pivot
+    100014: McMiniBoy_rigged_v1:l_ball
+    100016: McMiniBoy_rigged_v1:l_ball_ik
+    100018: McMiniBoy_rigged_v1:l_brow1
+    100020: McMiniBoy_rigged_v1:l_brow2
+    100022: McMiniBoy_rigged_v1:l_brow_ctrl
+    100024: McMiniBoy_rigged_v1:l_elbow
+    100026: McMiniBoy_rigged_v1:l_elbow_ctrl
+    100028: McMiniBoy_rigged_v1:l_foot_ctrl
+    100030: McMiniBoy_rigged_v1:l_heelPeel_pivot
+    100032: McMiniBoy_rigged_v1:l_hip
+    100034: McMiniBoy_rigged_v1:l_index1
+    100036: McMiniBoy_rigged_v1:l_index2
+    100038: McMiniBoy_rigged_v1:l_index_base
+    100040: McMiniBoy_rigged_v1:l_index_tip
+    100042: McMiniBoy_rigged_v1:l_knee
+    100044: McMiniBoy_rigged_v1:l_lid_d_1
+    100046: McMiniBoy_rigged_v1:l_lid_d_2
+    100048: McMiniBoy_rigged_v1:l_lid_u_1
+    100050: McMiniBoy_rigged_v1:l_lid_u_2
+    100052: McMiniBoy_rigged_v1:l_middle1
+    100054: McMiniBoy_rigged_v1:l_middle2
+    100056: McMiniBoy_rigged_v1:l_middle_base
+    100058: McMiniBoy_rigged_v1:l_middle_tip
+    100060: McMiniBoy_rigged_v1:l_pinky1
+    100062: McMiniBoy_rigged_v1:l_pinky2
+    100064: McMiniBoy_rigged_v1:l_pinky_base
+    100066: McMiniBoy_rigged_v1:l_pinky_tip
+    100068: McMiniBoy_rigged_v1:l_ring2
+    100070: McMiniBoy_rigged_v1:l_ring_1
+    100072: McMiniBoy_rigged_v1:l_ring_base
+    100074: McMiniBoy_rigged_v1:l_ring_tip
+    100076: McMiniBoy_rigged_v1:l_shoulder
+    100078: McMiniBoy_rigged_v1:l_shoulder_ctrl
+    100080: McMiniBoy_rigged_v1:l_swivel_pivot
+    100082: McMiniBoy_rigged_v1:l_thumb_1
+    100084: McMiniBoy_rigged_v1:l_thumb_2
+    100086: McMiniBoy_rigged_v1:l_thumb_base
+    100088: McMiniBoy_rigged_v1:l_thumb_tip
+    100090: McMiniBoy_rigged_v1:l_toe
+    100092: McMiniBoy_rigged_v1:l_toe_ik
+    100094: McMiniBoy_rigged_v1:l_toeTap_pivot
+    100096: McMiniBoy_rigged_v1:l_toeTip_pivot
+    100098: McMiniBoy_rigged_v1:l_wrist
+    100100: McMiniBoy_rigged_v1:l_wrist_ctrl
+    100102: McMiniBoy_rigged_v1:neck
+    100104: McMiniBoy_rigged_v1:pelvis
+    100106: McMiniBoy_rigged_v1:pelvis_ctrl
+    100108: McMiniBoy_rigged_v1:r_ankle
+    100110: McMiniBoy_rigged_v1:r_ankle_ik
+    100112: McMiniBoy_rigged_v1:r_ankle_pivot
+    100114: McMiniBoy_rigged_v1:r_ball
+    100116: McMiniBoy_rigged_v1:r_ball_ik
+    100118: McMiniBoy_rigged_v1:r_brow1
+    100120: McMiniBoy_rigged_v1:r_brow2
+    100122: McMiniBoy_rigged_v1:r_brow_ctrl
+    100124: McMiniBoy_rigged_v1:r_elbow
+    100126: McMiniBoy_rigged_v1:r_elbow_ctrl
+    100128: McMiniBoy_rigged_v1:r_foot_ctrl
+    100130: McMiniBoy_rigged_v1:r_heelPeel_pivot
+    100132: McMiniBoy_rigged_v1:r_hip
+    100134: McMiniBoy_rigged_v1:r_index1
+    100136: McMiniBoy_rigged_v1:r_index2
+    100138: McMiniBoy_rigged_v1:r_index_base
+    100140: McMiniBoy_rigged_v1:r_index_tip
+    100142: McMiniBoy_rigged_v1:r_knee
+    100144: McMiniBoy_rigged_v1:r_lid_d_1
+    100146: McMiniBoy_rigged_v1:r_lid_d_2
+    100148: McMiniBoy_rigged_v1:r_lid_u_1
+    100150: McMiniBoy_rigged_v1:r_lid_u_2
+    100152: McMiniBoy_rigged_v1:r_middle1
+    100154: McMiniBoy_rigged_v1:r_middle2
+    100156: McMiniBoy_rigged_v1:r_middle_base
+    100158: McMiniBoy_rigged_v1:r_middle_tip
+    100160: McMiniBoy_rigged_v1:r_pinky1
+    100162: McMiniBoy_rigged_v1:r_pinky2
+    100164: McMiniBoy_rigged_v1:r_pinky_base
+    100166: McMiniBoy_rigged_v1:r_pinky_tip
+    100168: McMiniBoy_rigged_v1:r_ring2
+    100170: McMiniBoy_rigged_v1:r_ring_1
+    100172: McMiniBoy_rigged_v1:r_ring_base
+    100174: McMiniBoy_rigged_v1:r_ring_tip
+    100176: McMiniBoy_rigged_v1:r_shoulder
+    100178: McMiniBoy_rigged_v1:r_shoulder_ctrl
+    100180: McMiniBoy_rigged_v1:r_swivel_pivot
+    100182: McMiniBoy_rigged_v1:r_thumb_1
+    100184: McMiniBoy_rigged_v1:r_thumb_2
+    100186: McMiniBoy_rigged_v1:r_thumb_base
+    100188: McMiniBoy_rigged_v1:r_thumb_tip
+    100190: McMiniBoy_rigged_v1:r_toe
+    100192: McMiniBoy_rigged_v1:r_toe_ik
+    100194: McMiniBoy_rigged_v1:r_toeTap_pivot
+    100196: McMiniBoy_rigged_v1:r_toeTip_pivot
+    100198: McMiniBoy_rigged_v1:r_wrist
+    100200: McMiniBoy_rigged_v1:r_wrist_ctrl
+    100202: McMiniBoy_rigged_v1:spine1
+    100204: McMiniBoy_rigged_v1:spine2
+    100206: McMiniBoy_rigged_v1:spine_ctrl
+    100208: //RootNode
+    100210: polySurface2
+    400000: McMiniBoy_rigged_v1:char_ctrl
+    400002: McMiniBoy_rigged_v1:head
+    400004: McMiniBoy_rigged_v1:head_ctrl
+    400006: McMiniBoy_rigged_v1:head_top
+    400008: McMiniBoy_rigged_v1:l_ankle
+    400010: McMiniBoy_rigged_v1:l_ankle_ik
+    400012: McMiniBoy_rigged_v1:l_ankle_pivot
+    400014: McMiniBoy_rigged_v1:l_ball
+    400016: McMiniBoy_rigged_v1:l_ball_ik
+    400018: McMiniBoy_rigged_v1:l_brow1
+    400020: McMiniBoy_rigged_v1:l_brow2
+    400022: McMiniBoy_rigged_v1:l_brow_ctrl
+    400024: McMiniBoy_rigged_v1:l_elbow
+    400026: McMiniBoy_rigged_v1:l_elbow_ctrl
+    400028: McMiniBoy_rigged_v1:l_foot_ctrl
+    400030: McMiniBoy_rigged_v1:l_heelPeel_pivot
+    400032: McMiniBoy_rigged_v1:l_hip
+    400034: McMiniBoy_rigged_v1:l_index1
+    400036: McMiniBoy_rigged_v1:l_index2
+    400038: McMiniBoy_rigged_v1:l_index_base
+    400040: McMiniBoy_rigged_v1:l_index_tip
+    400042: McMiniBoy_rigged_v1:l_knee
+    400044: McMiniBoy_rigged_v1:l_lid_d_1
+    400046: McMiniBoy_rigged_v1:l_lid_d_2
+    400048: McMiniBoy_rigged_v1:l_lid_u_1
+    400050: McMiniBoy_rigged_v1:l_lid_u_2
+    400052: McMiniBoy_rigged_v1:l_middle1
+    400054: McMiniBoy_rigged_v1:l_middle2
+    400056: McMiniBoy_rigged_v1:l_middle_base
+    400058: McMiniBoy_rigged_v1:l_middle_tip
+    400060: McMiniBoy_rigged_v1:l_pinky1
+    400062: McMiniBoy_rigged_v1:l_pinky2
+    400064: McMiniBoy_rigged_v1:l_pinky_base
+    400066: McMiniBoy_rigged_v1:l_pinky_tip
+    400068: McMiniBoy_rigged_v1:l_ring2
+    400070: McMiniBoy_rigged_v1:l_ring_1
+    400072: McMiniBoy_rigged_v1:l_ring_base
+    400074: McMiniBoy_rigged_v1:l_ring_tip
+    400076: McMiniBoy_rigged_v1:l_shoulder
+    400078: McMiniBoy_rigged_v1:l_shoulder_ctrl
+    400080: McMiniBoy_rigged_v1:l_swivel_pivot
+    400082: McMiniBoy_rigged_v1:l_thumb_1
+    400084: McMiniBoy_rigged_v1:l_thumb_2
+    400086: McMiniBoy_rigged_v1:l_thumb_base
+    400088: McMiniBoy_rigged_v1:l_thumb_tip
+    400090: McMiniBoy_rigged_v1:l_toe
+    400092: McMiniBoy_rigged_v1:l_toe_ik
+    400094: McMiniBoy_rigged_v1:l_toeTap_pivot
+    400096: McMiniBoy_rigged_v1:l_toeTip_pivot
+    400098: McMiniBoy_rigged_v1:l_wrist
+    400100: McMiniBoy_rigged_v1:l_wrist_ctrl
+    400102: McMiniBoy_rigged_v1:neck
+    400104: McMiniBoy_rigged_v1:pelvis
+    400106: McMiniBoy_rigged_v1:pelvis_ctrl
+    400108: McMiniBoy_rigged_v1:r_ankle
+    400110: McMiniBoy_rigged_v1:r_ankle_ik
+    400112: McMiniBoy_rigged_v1:r_ankle_pivot
+    400114: McMiniBoy_rigged_v1:r_ball
+    400116: McMiniBoy_rigged_v1:r_ball_ik
+    400118: McMiniBoy_rigged_v1:r_brow1
+    400120: McMiniBoy_rigged_v1:r_brow2
+    400122: McMiniBoy_rigged_v1:r_brow_ctrl
+    400124: McMiniBoy_rigged_v1:r_elbow
+    400126: McMiniBoy_rigged_v1:r_elbow_ctrl
+    400128: McMiniBoy_rigged_v1:r_foot_ctrl
+    400130: McMiniBoy_rigged_v1:r_heelPeel_pivot
+    400132: McMiniBoy_rigged_v1:r_hip
+    400134: McMiniBoy_rigged_v1:r_index1
+    400136: McMiniBoy_rigged_v1:r_index2
+    400138: McMiniBoy_rigged_v1:r_index_base
+    400140: McMiniBoy_rigged_v1:r_index_tip
+    400142: McMiniBoy_rigged_v1:r_knee
+    400144: McMiniBoy_rigged_v1:r_lid_d_1
+    400146: McMiniBoy_rigged_v1:r_lid_d_2
+    400148: McMiniBoy_rigged_v1:r_lid_u_1
+    400150: McMiniBoy_rigged_v1:r_lid_u_2
+    400152: McMiniBoy_rigged_v1:r_middle1
+    400154: McMiniBoy_rigged_v1:r_middle2
+    400156: McMiniBoy_rigged_v1:r_middle_base
+    400158: McMiniBoy_rigged_v1:r_middle_tip
+    400160: McMiniBoy_rigged_v1:r_pinky1
+    400162: McMiniBoy_rigged_v1:r_pinky2
+    400164: McMiniBoy_rigged_v1:r_pinky_base
+    400166: McMiniBoy_rigged_v1:r_pinky_tip
+    400168: McMiniBoy_rigged_v1:r_ring2
+    400170: McMiniBoy_rigged_v1:r_ring_1
+    400172: McMiniBoy_rigged_v1:r_ring_base
+    400174: McMiniBoy_rigged_v1:r_ring_tip
+    400176: McMiniBoy_rigged_v1:r_shoulder
+    400178: McMiniBoy_rigged_v1:r_shoulder_ctrl
+    400180: McMiniBoy_rigged_v1:r_swivel_pivot
+    400182: McMiniBoy_rigged_v1:r_thumb_1
+    400184: McMiniBoy_rigged_v1:r_thumb_2
+    400186: McMiniBoy_rigged_v1:r_thumb_base
+    400188: McMiniBoy_rigged_v1:r_thumb_tip
+    400190: McMiniBoy_rigged_v1:r_toe
+    400192: McMiniBoy_rigged_v1:r_toe_ik
+    400194: McMiniBoy_rigged_v1:r_toeTap_pivot
+    400196: McMiniBoy_rigged_v1:r_toeTip_pivot
+    400198: McMiniBoy_rigged_v1:r_wrist
+    400200: McMiniBoy_rigged_v1:r_wrist_ctrl
+    400202: McMiniBoy_rigged_v1:spine1
+    400204: McMiniBoy_rigged_v1:spine2
+    400206: McMiniBoy_rigged_v1:spine_ctrl
+    400208: //RootNode
+    400210: polySurface2
+    2100000: eyes
+    2100002: lambert3
+    4300000: polySurface2
+    9500000: //RootNode
+    13700000: polySurface2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: McMiniBoy_rigged_v1:pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_hip
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_hip
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:spine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:head_top
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_lid_d_1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_thumb_base
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_thumb_1
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_thumb_2
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_middle_base
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_middle1
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_ring_base
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_ring_1
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_ring2
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_pinky_base
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_pinky1
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:l_pinky2
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_thumb_base
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_thumb_1
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_thumb_2
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_middle_base
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_middle1
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_ring_base
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_ring_1
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_ring2
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_pinky_base
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_pinky1
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: McMiniBoy_rigged_v1:r_pinky2
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: McMiniGirlRerig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:char_ctrl
+      parentName: McMiniGirlRerig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_foot_ctrl
+      parentName: McMiniBoy_rigged_v1:char_ctrl
+      position: {x: -0.15477142, y: 0, z: -0.122678965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ankle_pivot
+      parentName: McMiniBoy_rigged_v1:l_foot_ctrl
+      position: {x: -0.0035371557, y: 0.10699264, z: 0.060209706}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_toeTip_pivot
+      parentName: McMiniBoy_rigged_v1:l_ankle_pivot
+      position: {x: 0.0028435884, y: -0.10699264, z: 0.18670857}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_swivel_pivot
+      parentName: McMiniBoy_rigged_v1:l_toeTip_pivot
+      position: {x: -0.0028435884, y: 0.043577366, z: -0.13104376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_heelPeel_pivot
+      parentName: McMiniBoy_rigged_v1:l_swivel_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ankle_ik
+      parentName: McMiniBoy_rigged_v1:l_heelPeel_pivot
+      position: {x: -0, y: 0.06341526, z: -0.055664837}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_toeTap_pivot
+      parentName: McMiniBoy_rigged_v1:l_swivel_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ball_ik
+      parentName: McMiniBoy_rigged_v1:l_toeTap_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -1.700029e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_toe_ik
+      parentName: McMiniBoy_rigged_v1:l_toeTap_pivot
+      position: {x: -0, y: -0.0023014196, z: 0.10869379}
+      rotation: {x: 0, y: -0, z: -1.700029e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:pelvis_ctrl
+      parentName: McMiniBoy_rigged_v1:char_ctrl
+      position: {x: -0, y: 0.6638428, z: -0.026150312}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:spine_ctrl
+      parentName: McMiniBoy_rigged_v1:pelvis_ctrl
+      position: {x: -2.9582282e-32, y: 0.19203666, z: -0.0021791926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:head_ctrl
+      parentName: McMiniBoy_rigged_v1:spine_ctrl
+      position: {x: 1.2818989e-31, y: 0.30661398, z: -0.0010895963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_brow_ctrl
+      parentName: McMiniBoy_rigged_v1:head_ctrl
+      position: {x: -0.086113356, y: 0.31414673, z: 0.18795313}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_brow_ctrl
+      parentName: McMiniBoy_rigged_v1:head_ctrl
+      position: {x: 0.08603385, y: 0.29474524, z: 0.18795313}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_shoulder_ctrl
+      parentName: McMiniBoy_rigged_v1:spine_ctrl
+      position: {x: -0.1663121, y: 0.2152924, z: -0.019730892}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_elbow_ctrl
+      parentName: McMiniBoy_rigged_v1:l_shoulder_ctrl
+      position: {x: -0.21202627, y: 0.017397027, z: -0.00894147}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_wrist_ctrl
+      parentName: McMiniBoy_rigged_v1:l_elbow_ctrl
+      position: {x: -0.21855018, y: -0.0032619429, z: 0.004470735}
+      rotation: {x: 0, y: 0, z: 1.0321605e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_shoulder_ctrl
+      parentName: McMiniBoy_rigged_v1:spine_ctrl
+      position: {x: 0.166312, y: 0.2152924, z: -0.019730892}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_elbow_ctrl
+      parentName: McMiniBoy_rigged_v1:r_shoulder_ctrl
+      position: {x: 0.212026, y: 0.017397027, z: -0.00894147}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_wrist_ctrl
+      parentName: McMiniBoy_rigged_v1:r_elbow_ctrl
+      position: {x: 0.218551, y: -0.0032633836, z: 0.0044707716}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_foot_ctrl
+      parentName: McMiniBoy_rigged_v1:char_ctrl
+      position: {x: 0.15378045, y: 0, z: -0.12369199}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ankle_pivot
+      parentName: McMiniBoy_rigged_v1:r_foot_ctrl
+      position: {x: 0.0045285514, y: 0.10699299, z: 0.061222687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_toeTip_pivot
+      parentName: McMiniBoy_rigged_v1:r_ankle_pivot
+      position: {x: -4.4408918e-17, y: -0.10699299, z: 0.18670863}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_swivel_pivot
+      parentName: McMiniBoy_rigged_v1:r_toeTip_pivot
+      position: {x: -0, y: 0.0435774, z: -0.13104376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_heelPeel_pivot
+      parentName: McMiniBoy_rigged_v1:r_swivel_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ankle_ik
+      parentName: McMiniBoy_rigged_v1:r_heelPeel_pivot
+      position: {x: 4.4408918e-17, y: 0.0634156, z: -0.055664867}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_toeTap_pivot
+      parentName: McMiniBoy_rigged_v1:r_swivel_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ball_ik
+      parentName: McMiniBoy_rigged_v1:r_toeTap_pivot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1, y: 1.8906948e-16, z: -7.1007634e-24, w: -0.000000028806353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_toe_ik
+      parentName: McMiniBoy_rigged_v1:r_toeTap_pivot
+      position: {x: -0, y: -0.0023015, z: 0.10869343}
+      rotation: {x: 1, y: 1.8906948e-16, z: -1.2371552e-23, w: -0.000000056683874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:pelvis
+      parentName: McMiniBoy_rigged_v1:char_ctrl
+      position: {x: -0, y: 0.6638428, z: -0.026150312}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:spine1
+      parentName: McMiniBoy_rigged_v1:pelvis
+      position: {x: -0.19203666, y: 4.2640704e-17, z: -0.0021791926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:spine2
+      parentName: McMiniBoy_rigged_v1:spine1
+      position: {x: -0.19869311, y: 4.4118733e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:neck
+      parentName: McMiniBoy_rigged_v1:spine2
+      position: {x: -0.107920855, y: 2.3963244e-17, z: -0.0010895963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:head
+      parentName: McMiniBoy_rigged_v1:neck
+      position: {x: -0.052975416, y: 1.1762905e-17, z: 0.004247831}
+      rotation: {x: -0.70412004, y: 0.06492317, z: 0.06492317, w: 0.70412004}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:head_top
+      parentName: McMiniBoy_rigged_v1:head
+      position: {x: -0.14728905, y: 0.045080032, z: 1.5359111e-17}
+      rotation: {x: 0.4519804, y: -0.54379565, z: 0.4519804, w: 0.54379565}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_brow1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: -0.091706455, y: 0.08192007, z: 0.053973887}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_brow2
+      parentName: McMiniBoy_rigged_v1:l_brow1
+      position: {x: -0.0008603113, y: 0.028058087, z: 0.14227475}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_lid_u_1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: -0.091706455, y: 0.03217867, z: 0.053973887}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_lid_u_2
+      parentName: McMiniBoy_rigged_v1:l_lid_u_1
+      position: {x: -0, y: 0.029041607, z: 0.14375138}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_lid_d_1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: -0.091706455, y: 0.024202812, z: 0.053973887}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_lid_d_2
+      parentName: McMiniBoy_rigged_v1:l_lid_d_1
+      position: {x: 1.4571534e-17, y: -0.02977689, z: 0.14375138}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_brow1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: 0.115715005, y: 0.08191825, z: 0.05397384}
+      rotation: {x: 1, y: 1.5904608e-16, z: -8.069746e-16, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_brow2
+      parentName: McMiniBoy_rigged_v1:r_brow1
+      position: {x: -0.023227595, y: -0.008659925, z: -0.1422749}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_lid_u_1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: 0.091627404, y: 0.032178454, z: 0.05397384}
+      rotation: {x: 1, y: 1.5904608e-16, z: -8.069746e-16, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_lid_u_2
+      parentName: McMiniBoy_rigged_v1:r_lid_u_1
+      position: {x: 4.4408918e-17, y: -0.02904, z: -0.14375189}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_lid_d_1
+      parentName: McMiniBoy_rigged_v1:head_top
+      position: {x: 0.091627404, y: 0.024198458, z: 0.05397384}
+      rotation: {x: 1, y: 1.5904608e-16, z: -8.069746e-16, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_lid_d_2
+      parentName: McMiniBoy_rigged_v1:r_lid_d_1
+      position: {x: 6.661338e-17, y: 0.029769998, z: -0.14375189}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_shoulder
+      parentName: McMiniBoy_rigged_v1:spine2
+      position: {x: -0.016599266, y: -0.1663121, z: -0.019730892}
+      rotation: {x: -0.001567371, y: 0.001444033, z: 0.68062013, w: 0.73263353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_elbow
+      parentName: McMiniBoy_rigged_v1:l_shoulder
+      position: {x: -0.2127388, y: -3.5527135e-16, z: -0.00894147}
+      rotation: {x: 0, y: 0, z: 0.048377186, w: 0.9988291}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_wrist
+      parentName: McMiniBoy_rigged_v1:l_elbow
+      position: {x: -0.2185745, y: 8.8817837e-16, z: 0.004470735}
+      rotation: {x: 0, y: 0, z: -0.0074620633, w: 0.99997216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_index_base
+      parentName: McMiniBoy_rigged_v1:l_wrist
+      position: {x: -0.19297981, y: 0.015621262, z: 0.044182856}
+      rotation: {x: -0.028834403, y: 0.10872237, z: 0.07976695, w: 0.99044704}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_index1
+      parentName: McMiniBoy_rigged_v1:l_index_base
+      position: {x: -0.030980423, y: -0.00033520572, z: 0.00057894253}
+      rotation: {x: 0, y: 0.02006819, z: -0, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_index2
+      parentName: McMiniBoy_rigged_v1:l_index1
+      position: {x: -0.029536895, y: -0.0012309563, z: 0.00022543035}
+      rotation: {x: 0, y: -0.009948771, z: -0, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_index_tip
+      parentName: McMiniBoy_rigged_v1:l_index2
+      position: {x: -0.033134602, y: 0.0011838913, z: -0.0014196285}
+      rotation: {x: 0, y: -0.022014497, z: -0, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_thumb_base
+      parentName: McMiniBoy_rigged_v1:l_wrist
+      position: {x: -0.09681169, y: -0.004378327, z: 0.04626185}
+      rotation: {x: -0.16469455, y: 0.1359099, z: -0.09744692, w: 0.97206396}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_thumb_1
+      parentName: McMiniBoy_rigged_v1:l_thumb_base
+      position: {x: -0.023152912, y: -0.012906137, z: 0.016313957}
+      rotation: {x: -0.0051681385, y: 0.17735265, z: 0.120799094, w: 0.9766919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_thumb_2
+      parentName: McMiniBoy_rigged_v1:l_thumb_1
+      position: {x: -0.04355207, y: -0.00769499, z: 0.007317438}
+      rotation: {x: -0.005581879, y: 0.12540723, z: 0.10293833, w: 0.9867348}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_thumb_tip
+      parentName: McMiniBoy_rigged_v1:l_thumb_2
+      position: {x: -0.051210042, y: 0.003803781, z: -0.007260165}
+      rotation: {x: 0, y: -0.022014497, z: -0, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_middle_base
+      parentName: McMiniBoy_rigged_v1:l_wrist
+      position: {x: -0.20056136, y: 0.017677777, z: 0.009592064}
+      rotation: {x: -0.018734545, y: -0.010867805, z: 0.04185542, w: 0.99888885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_middle1
+      parentName: McMiniBoy_rigged_v1:l_middle_base
+      position: {x: -0.03715605, y: 0.0006004907, z: 0.00077844545}
+      rotation: {x: 0, y: 0.02006819, z: -0, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_middle2
+      parentName: McMiniBoy_rigged_v1:l_middle1
+      position: {x: -0.038148925, y: 0.00015555182, z: -0.0008498961}
+      rotation: {x: 0, y: -0.009948771, z: -0, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_middle_tip
+      parentName: McMiniBoy_rigged_v1:l_middle2
+      position: {x: -0.036496226, y: 0.0016065274, z: -0.00027968967}
+      rotation: {x: 0, y: -0.022014497, z: -0, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ring_base
+      parentName: McMiniBoy_rigged_v1:l_wrist
+      position: {x: -0.19955115, y: 0.018289441, z: -0.0257645}
+      rotation: {x: -0.008259586, y: -0.033592187, z: 0.008108378, w: 0.9993686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ring_1
+      parentName: McMiniBoy_rigged_v1:l_ring_base
+      position: {x: -0.03344261, y: 0, z: -2.2724877e-17}
+      rotation: {x: 0, y: 0.02006819, z: -0, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ring2
+      parentName: McMiniBoy_rigged_v1:l_ring_1
+      position: {x: -0.037283145, y: 0, z: -0.0005684999}
+      rotation: {x: 0, y: -0.009948771, z: -0, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ring_tip
+      parentName: McMiniBoy_rigged_v1:l_ring2
+      position: {x: -0.026979437, y: 0, z: -8.066464e-17}
+      rotation: {x: 0, y: -0.022014497, z: -0, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_pinky_base
+      parentName: McMiniBoy_rigged_v1:l_wrist
+      position: {x: -0.18175973, y: 0.0037122979, z: -0.05553093}
+      rotation: {x: 0.014204792, y: -0.042420685, z: 0.0040631937, w: 0.99899065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_pinky1
+      parentName: McMiniBoy_rigged_v1:l_pinky_base
+      position: {x: -0.028208878, y: 0.0013738421, z: -0.00027708677}
+      rotation: {x: 0, y: 0.02006819, z: -0, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_pinky2
+      parentName: McMiniBoy_rigged_v1:l_pinky1
+      position: {x: -0.024779292, y: 0.00044020242, z: -0.000113141075}
+      rotation: {x: 0, y: -0.009948771, z: -0, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_pinky_tip
+      parentName: McMiniBoy_rigged_v1:l_pinky2
+      position: {x: -0.027448788, y: 0.00066879817, z: -0.0012725441}
+      rotation: {x: 0, y: -0.022014497, z: -0, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_shoulder
+      parentName: McMiniBoy_rigged_v1:spine2
+      position: {x: -0.016602911, y: 0.166312, z: -0.019730892}
+      rotation: {x: 0.6806099, y: 0.73264307, z: 0.00156273, w: -0.001439758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_elbow
+      parentName: McMiniBoy_rigged_v1:r_shoulder
+      position: {x: 0.21273793, y: 0.000006981666, z: 0.0089414995}
+      rotation: {x: -3.7396596e-20, y: 9.130737e-19, z: 0.048377186, w: 0.9988291}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_wrist
+      parentName: McMiniBoy_rigged_v1:r_elbow
+      position: {x: 0.2185753, y: -0.0000019550062, z: -0.0044707996}
+      rotation: {x: 0.000000012904425, y: -9.629632e-11, z: -0.0074620633, w: 0.99997216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_index_base
+      parentName: McMiniBoy_rigged_v1:r_wrist
+      position: {x: 0.192979, y: -0.015620001, z: -0.04418282}
+      rotation: {x: -0.028834388, y: 0.10872237, z: 0.07976696, w: 0.99044704}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_index1
+      parentName: McMiniBoy_rigged_v1:r_index_base
+      position: {x: 0.030980997, y: 0.00033688569, z: -0.00057874486}
+      rotation: {x: 0.000000027871906, y: 0.020068193, z: -0.000000011422903, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_index2
+      parentName: McMiniBoy_rigged_v1:r_index1
+      position: {x: 0.029536527, y: 0.0012258032, z: -0.00022574255}
+      rotation: {x: 0.000000055241454, y: -0.009948771, z: 5.496118e-10, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_index_tip
+      parentName: McMiniBoy_rigged_v1:r_index2
+      position: {x: 0.033134554, y: -0.0011839481, z: 0.0014195866}
+      rotation: {x: 0.000000110352836, y: -0.022014497, z: 0.0000000024299511, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_thumb_base
+      parentName: McMiniBoy_rigged_v1:r_wrist
+      position: {x: 0.096811, y: 0.004379999, z: -0.046261817}
+      rotation: {x: -0.1647015, y: 0.13591188, z: -0.09745605, w: 0.97206163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_thumb_1
+      parentName: McMiniBoy_rigged_v1:r_thumb_base
+      position: {x: 0.023153162, y: 0.012906833, z: -0.016313791}
+      rotation: {x: -0.0051196045, y: 0.17735471, z: 0.12088111, w: 0.9766816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_thumb_2
+      parentName: McMiniBoy_rigged_v1:r_thumb_1
+      position: {x: 0.043551445, y: 0.007686355, z: -0.0073182127}
+      rotation: {x: -0.005581679, y: 0.12540658, z: 0.10277975, w: 0.98675144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_thumb_tip
+      parentName: McMiniBoy_rigged_v1:r_thumb_2
+      position: {x: 0.051210556, y: -0.0037950594, z: 0.007260888}
+      rotation: {x: 0.00000009232744, y: -0.022014497, z: 0.0000000020330346, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_middle_base
+      parentName: McMiniBoy_rigged_v1:r_wrist
+      position: {x: 0.20056099, y: -0.01768, z: -0.009591999}
+      rotation: {x: -0.018733473, y: -0.010873543, z: 0.041880455, w: 0.99888784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_middle1
+      parentName: McMiniBoy_rigged_v1:r_middle_base
+      position: {x: 0.03715563, y: -0.0006028047, z: -0.0007785627}
+      rotation: {x: 0.000000029726275, y: 0.020068193, z: -5.966728e-10, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_middle2
+      parentName: McMiniBoy_rigged_v1:r_middle1
+      position: {x: 0.0381487, y: -0.00015486995, z: 0.00084990065}
+      rotation: {x: 0.00000005821121, y: -0.009948771, z: 5.7915867e-10, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_middle_tip
+      parentName: McMiniBoy_rigged_v1:r_middle2
+      position: {x: 0.036495946, y: -0.0016075659, z: 0.00027969872}
+      rotation: {x: 0.00000011653021, y: -0.022014497, z: 0.0000000025659759, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ring_base
+      parentName: McMiniBoy_rigged_v1:r_wrist
+      position: {x: 0.19955099, y: -0.01829, z: 0.0257645}
+      rotation: {x: -0.008255221, y: -0.03359944, z: 0.008135292, w: 0.9993682}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ring_1
+      parentName: McMiniBoy_rigged_v1:r_ring_base
+      position: {x: 0.033442263, y: -0.0000026434377, z: 0.000000015020348}
+      rotation: {x: 0.000000029834357, y: 0.020068193, z: -5.988423e-10, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ring2
+      parentName: McMiniBoy_rigged_v1:r_ring_1
+      position: {x: 0.0372827, y: -0.00000052704974, z: 0.00056858454}
+      rotation: {x: 0.00000005910383, y: -0.009948771, z: 5.8803956e-10, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ring_tip
+      parentName: McMiniBoy_rigged_v1:r_ring2
+      position: {x: 0.02697976, y: 0.0000006683123, z: -0.000000046781405}
+      rotation: {x: 0.00000011735855, y: -0.022014497, z: 0.0000000025842157, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_pinky_base
+      parentName: McMiniBoy_rigged_v1:r_wrist
+      position: {x: 0.181759, y: -0.0037099984, z: 0.0555309}
+      rotation: {x: 0.014227483, y: -0.042435, z: 0.004146581, w: 0.9989894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_pinky1
+      parentName: McMiniBoy_rigged_v1:r_pinky_base
+      position: {x: 0.028208552, y: -0.0013803695, z: 0.00027711596}
+      rotation: {x: 0.00000003086296, y: 0.020068193, z: -6.194886e-10, w: 0.9997986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_pinky2
+      parentName: McMiniBoy_rigged_v1:r_pinky1
+      position: {x: 0.024779007, y: -0.0004388424, z: 0.00011314559}
+      rotation: {x: 0.00000006089689, y: -0.009948771, z: 6.0587924e-10, w: 0.9999505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_pinky_tip
+      parentName: McMiniBoy_rigged_v1:r_pinky2
+      position: {x: 0.027448999, y: -0.00066937646, z: 0.0012721531}
+      rotation: {x: 0.00000012010788, y: -0.022014497, z: 0.000000016509501, w: 0.99975765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_hip
+      parentName: McMiniBoy_rigged_v1:pelvis
+      position: {x: 0.016912378, y: -0.12819767, z: -0.002311732}
+      rotation: {x: 0.011517928, y: -0.00030070863, z: 0.99940115, w: 0.03262873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_knee
+      parentName: McMiniBoy_rigged_v1:l_hip
+      position: {x: -0.25148124, y: -4.9960035e-17, z: 0.04269307}
+      rotation: {x: 0.00002490685, y: 0.021612633, z: 0.0071812514, w: 0.99974066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ankle
+      parentName: McMiniBoy_rigged_v1:l_knee
+      position: {x: -0.28690842, y: -0.0010360895, z: -0.076700285}
+      rotation: {x: 0.006887475, y: -0.0073778788, z: -0.68884623, w: 0.72483724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_ball
+      parentName: McMiniBoy_rigged_v1:l_ankle
+      position: {x: 1.4611274e-17, y: -0.06341526, z: 0.055664837}
+      rotation: {x: 1.060588e-25, y: -0.0000000012737235, z: 0.00000006015671, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:l_toe
+      parentName: McMiniBoy_rigged_v1:l_ball
+      position: {x: 1.9163169e-19, y: -0.0023014196, z: 0.10869379}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_hip
+      parentName: McMiniBoy_rigged_v1:pelvis
+      position: {x: 0.016912298, y: 0.128198, z: -0.0023116858}
+      rotation: {x: 0.99940115, y: 0.032628793, z: -0.011517948, w: 0.00030071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_knee
+      parentName: McMiniBoy_rigged_v1:r_hip
+      position: {x: 0.25148097, y: 0.0000002667122, z: -0.042693}
+      rotation: {x: 0.000024920997, y: 0.021612657, z: 0.007181367, w: 0.99974066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ankle
+      parentName: McMiniBoy_rigged_v1:r_knee
+      position: {x: 0.28690842, y: 0.0010357169, z: 0.0767003}
+      rotation: {x: 0.0068874913, y: -0.0073779123, z: -0.6888463, w: 0.7248372}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_ball
+      parentName: McMiniBoy_rigged_v1:r_ankle
+      position: {x: -6.661338e-17, y: 0.0634156, z: -0.05566487}
+      rotation: {x: 6.162976e-33, y: -0.0000000012737725, z: 0.00000006015705, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: McMiniBoy_rigged_v1:r_toe
+      parentName: McMiniBoy_rigged_v1:r_ball
+      position: {x: -0, y: 0.0023014876, z: -0.10869343}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: McMiniGirlRerig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

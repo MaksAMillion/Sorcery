@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: 79fa5e2a10cb7c743a720540424f61cd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: butter_box_thing
+    100002: CHAIR
+    100004: chair1
+    100006: chair2
+    100008: cloth:loftedSurface1
+    100010: cloth:loftedSurface2
+    100012: Conde_hw07_kitchen_scene13:buttons
+    100014: Conde_hw07_kitchen_scene13:CABINET
+    100016: Conde_hw07_kitchen_scene13:CABINET 1
+    100018: Conde_hw07_kitchen_scene13:CABINET1
+    100020: Conde_hw07_kitchen_scene13:cabinet2:CABINET
+    100022: Conde_hw07_kitchen_scene13:cabinet2:DOOR
+    100024: Conde_hw07_kitchen_scene13:cabinet2:DOOR1
+    100026: Conde_hw07_kitchen_scene13:cabinet2:KNOB
+    100028: Conde_hw07_kitchen_scene13:cabinet2:KNOB1
+    100030: Conde_hw07_kitchen_scene13:cabinet2:pCylinder1
+    100032: Conde_hw07_kitchen_scene13:cabinet2:pCylinder2
+    100034: Conde_hw07_kitchen_scene13:cabinet2:pCylinder3
+    100036: Conde_hw07_kitchen_scene13:cabinet2:pCylinder4
+    100038: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:body
+    100040: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:door
+    100042: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:spotLight1
+    100044: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:buttons
+    100046: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_1
+    100048: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_2
+    100050: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_3
+    100052: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_4
+    100054: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_5
+    100056: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:microwave_window
+    100058: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_1
+    100060: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_2
+    100062: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_3
+    100064: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_4
+    100066: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_5
+    100068: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:place3dTexture1
+    100070: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_1
+    100072: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_2
+    100074: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_3
+    100076: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_4
+    100078: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_5
+    100080: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:timer_screen
+    100082: Conde_hw07_kitchen_scene13:DOOR
+    100084: Conde_hw07_kitchen_scene13:DOOR 1
+    100086: Conde_hw07_kitchen_scene13:DOOR1
+    100088: Conde_hw07_kitchen_scene13:DOOR1 1
+    100090: Conde_hw07_kitchen_scene13:DOOR2
+    100092: Conde_hw07_kitchen_scene13:DOOR2 1
+    100094: Conde_hw07_kitchen_scene13:DOOR2 2
+    100096: Conde_hw07_kitchen_scene13:DOOR3
+    100098: Conde_hw07_kitchen_scene13:DOOR3 1
+    100100: Conde_hw07_kitchen_scene13:DOOR3 2
+    100102: Conde_hw07_kitchen_scene13:FLOOR_CABINET
+    100104: Conde_hw07_kitchen_scene13:FLOOR_CABINET1
+    100106: Conde_hw07_kitchen_scene13:FLOOR_CABINET5
+    100108: Conde_hw07_kitchen_scene13:FLOOR_CABINET6
+    100110: Conde_hw07_kitchen_scene13:handle
+    100112: Conde_hw07_kitchen_scene13:handle1
+    100114: Conde_hw07_kitchen_scene13:handle2
+    100116: Conde_hw07_kitchen_scene13:inner_things
+    100118: Conde_hw07_kitchen_scene13:KNOB
+    100120: Conde_hw07_kitchen_scene13:KNOB 1
+    100122: Conde_hw07_kitchen_scene13:KNOB 2
+    100124: Conde_hw07_kitchen_scene13:KNOB 3
+    100126: Conde_hw07_kitchen_scene13:KNOB1
+    100128: Conde_hw07_kitchen_scene13:KNOB1 1
+    100130: Conde_hw07_kitchen_scene13:KNOB2
+    100132: Conde_hw07_kitchen_scene13:KNOB3
+    100134: Conde_hw07_kitchen_scene13:KNOB3 1
+    100136: Conde_hw07_kitchen_scene13:KNOB3 2
+    100138: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:KNOB
+    100140: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder1
+    100142: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder2
+    100144: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder3
+    100146: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder4
+    100148: Conde_hw07_kitchen_scene13:longcabinet3:cabinet3:DOOR
+    100150: Conde_hw07_kitchen_scene13:longcabinet3:DOOR
+    100152: Conde_hw07_kitchen_scene13:longcabinet3:DOOR1
+    100154: Conde_hw07_kitchen_scene13:longcabinet3:DOOR2
+    100156: Conde_hw07_kitchen_scene13:longcabinet3:FLOOR_CABINET
+    100158: Conde_hw07_kitchen_scene13:longcabinet3:KNOB
+    100160: Conde_hw07_kitchen_scene13:longcabinet3:KNOB1
+    100162: Conde_hw07_kitchen_scene13:longcabinet3:KNOB2
+    100164: Conde_hw07_kitchen_scene13:longcabinet3:pCube1
+    100166: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder3
+    100168: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder4
+    100170: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder5
+    100172: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder6
+    100174: Conde_hw07_kitchen_scene13:OIL_BOTTLE:pCylinder1
+    100176: Conde_hw07_kitchen_scene13:pCube1
+    100178: Conde_hw07_kitchen_scene13:pCube1 1
+    100180: Conde_hw07_kitchen_scene13:pCube1 2
+    100182: Conde_hw07_kitchen_scene13:pCube1 3
+    100184: Conde_hw07_kitchen_scene13:pCube6
+    100186: Conde_hw07_kitchen_scene13:pCylinder1
+    100188: Conde_hw07_kitchen_scene13:pCylinder1 1
+    100190: Conde_hw07_kitchen_scene13:pCylinder1 2
+    100192: Conde_hw07_kitchen_scene13:pCylinder10
+    100194: Conde_hw07_kitchen_scene13:pCylinder10 1
+    100196: Conde_hw07_kitchen_scene13:pCylinder11
+    100198: Conde_hw07_kitchen_scene13:pCylinder11 1
+    100200: Conde_hw07_kitchen_scene13:pCylinder12
+    100202: Conde_hw07_kitchen_scene13:pCylinder12 1
+    100204: Conde_hw07_kitchen_scene13:pCylinder13
+    100206: Conde_hw07_kitchen_scene13:pCylinder14
+    100208: Conde_hw07_kitchen_scene13:pCylinder2
+    100210: Conde_hw07_kitchen_scene13:pCylinder2 1
+    100212: Conde_hw07_kitchen_scene13:pCylinder2 2
+    100214: Conde_hw07_kitchen_scene13:pCylinder2 3
+    100216: Conde_hw07_kitchen_scene13:pCylinder3
+    100218: Conde_hw07_kitchen_scene13:pCylinder3 1
+    100220: Conde_hw07_kitchen_scene13:pCylinder3 2
+    100222: Conde_hw07_kitchen_scene13:pCylinder3 3
+    100224: Conde_hw07_kitchen_scene13:pCylinder4
+    100226: Conde_hw07_kitchen_scene13:pCylinder4 1
+    100228: Conde_hw07_kitchen_scene13:pCylinder4 2
+    100230: Conde_hw07_kitchen_scene13:pCylinder4 3
+    100232: Conde_hw07_kitchen_scene13:pCylinder5
+    100234: Conde_hw07_kitchen_scene13:pCylinder5 1
+    100236: Conde_hw07_kitchen_scene13:pCylinder5 2
+    100238: Conde_hw07_kitchen_scene13:pCylinder6
+    100240: Conde_hw07_kitchen_scene13:pCylinder6 1
+    100242: Conde_hw07_kitchen_scene13:pCylinder6 2
+    100244: Conde_hw07_kitchen_scene13:pCylinder7
+    100246: Conde_hw07_kitchen_scene13:pCylinder7 1
+    100248: Conde_hw07_kitchen_scene13:pCylinder7 2
+    100250: Conde_hw07_kitchen_scene13:pCylinder8
+    100252: Conde_hw07_kitchen_scene13:pCylinder8 1
+    100254: Conde_hw07_kitchen_scene13:pCylinder8 2
+    100256: Conde_hw07_kitchen_scene13:pCylinder9
+    100258: Conde_hw07_kitchen_scene13:pCylinder9 1
+    100260: Conde_hw07_kitchen_scene13:place3dTexture1
+    100262: Conde_hw07_kitchen_scene13:place3dTexture2
+    100264: Conde_hw07_kitchen_scene13:sink5:pCube1
+    100266: Conde_hw07_kitchen_scene13:sink5:pCylinder1
+    100268: Conde_hw07_kitchen_scene13:sink5:pCylinder2
+    100270: Conde_hw07_kitchen_scene13:sink5:pCylinder3
+    100272: Conde_hw07_kitchen_scene13:sink5:pCylinder4
+    100274: Conde_hw07_kitchen_scene13:sink5:pPlane1
+    100276: Conde_hw07_kitchen_scene13:stool3:back_seat
+    100278: Conde_hw07_kitchen_scene13:stool3:back_seat 1
+    100280: Conde_hw07_kitchen_scene13:stool3:CABINET
+    100282: Conde_hw07_kitchen_scene13:stool3:CABINET 1
+    100284: Conde_hw07_kitchen_scene13:stool3:CABINET 2
+    100286: Conde_hw07_kitchen_scene13:stool3:CABINET 3
+    100288: Conde_hw07_kitchen_scene13:stool3:DOOR
+    100290: Conde_hw07_kitchen_scene13:stool3:DOOR 1
+    100292: Conde_hw07_kitchen_scene13:stool3:DOOR 2
+    100294: Conde_hw07_kitchen_scene13:stool3:DOOR 3
+    100296: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    100298: Conde_hw07_kitchen_scene13:stool3:DOOR1 1
+    100300: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    100302: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8 1
+    100304: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    100306: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9 1
+    100308: Conde_hw07_kitchen_scene13:stool3:group2
+    100310: Conde_hw07_kitchen_scene13:stool3:group2 1
+    100312: Conde_hw07_kitchen_scene13:stool3:group3
+    100314: Conde_hw07_kitchen_scene13:stool3:group3 1
+    100316: Conde_hw07_kitchen_scene13:stool3:KNOB
+    100318: Conde_hw07_kitchen_scene13:stool3:KNOB 1
+    100320: Conde_hw07_kitchen_scene13:stool3:KNOB 2
+    100322: Conde_hw07_kitchen_scene13:stool3:KNOB 3
+    100324: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    100326: Conde_hw07_kitchen_scene13:stool3:KNOB1 1
+    100328: Conde_hw07_kitchen_scene13:stool3:leg
+    100330: Conde_hw07_kitchen_scene13:stool3:leg 1
+    100332: Conde_hw07_kitchen_scene13:stool3:leg1
+    100334: Conde_hw07_kitchen_scene13:stool3:leg1 1
+    100336: Conde_hw07_kitchen_scene13:stool3:leg2
+    100338: Conde_hw07_kitchen_scene13:stool3:leg2 1
+    100340: Conde_hw07_kitchen_scene13:stool3:leg3
+    100342: Conde_hw07_kitchen_scene13:stool3:leg3 1
+    100344: Conde_hw07_kitchen_scene13:stool3:leg4
+    100346: Conde_hw07_kitchen_scene13:stool3:leg4 1
+    100348: Conde_hw07_kitchen_scene13:stool3:long_cabinet
+    100350: Conde_hw07_kitchen_scene13:stool3:long_cabinet1
+    100352: Conde_hw07_kitchen_scene13:stool3:long_cabinet2
+    100354: Conde_hw07_kitchen_scene13:stool3:long_cabinet3
+    100356: Conde_hw07_kitchen_scene13:stool3:pCube2
+    100358: Conde_hw07_kitchen_scene13:stool3:pCube3
+    100360: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    100362: Conde_hw07_kitchen_scene13:stool3:pCylinder1 1
+    100364: Conde_hw07_kitchen_scene13:stool3:pCylinder1 2
+    100366: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    100368: Conde_hw07_kitchen_scene13:stool3:pCylinder15 1
+    100370: Conde_hw07_kitchen_scene13:stool3:pCylinder15 2
+    100372: Conde_hw07_kitchen_scene13:stool3:pCylinder15 3
+    100374: Conde_hw07_kitchen_scene13:stool3:pCylinder15 4
+    100376: Conde_hw07_kitchen_scene13:stool3:pCylinder15 5
+    100378: Conde_hw07_kitchen_scene13:stool3:pCylinder15 6
+    100380: Conde_hw07_kitchen_scene13:stool3:pCylinder15 7
+    100382: Conde_hw07_kitchen_scene13:stool3:pCylinder15 8
+    100384: Conde_hw07_kitchen_scene13:stool3:pCylinder15 9
+    100386: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    100388: Conde_hw07_kitchen_scene13:stool3:pCylinder16 1
+    100390: Conde_hw07_kitchen_scene13:stool3:pCylinder16 2
+    100392: Conde_hw07_kitchen_scene13:stool3:pCylinder16 3
+    100394: Conde_hw07_kitchen_scene13:stool3:pCylinder16 4
+    100396: Conde_hw07_kitchen_scene13:stool3:pCylinder16 5
+    100398: Conde_hw07_kitchen_scene13:stool3:pCylinder16 6
+    100400: Conde_hw07_kitchen_scene13:stool3:pCylinder16 7
+    100402: Conde_hw07_kitchen_scene13:stool3:pCylinder16 8
+    100404: Conde_hw07_kitchen_scene13:stool3:pCylinder16 9
+    100406: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    100408: Conde_hw07_kitchen_scene13:stool3:pCylinder2 1
+    100410: Conde_hw07_kitchen_scene13:stool3:pCylinder2 2
+    100412: Conde_hw07_kitchen_scene13:stool3:pCylinder2 3
+    100414: Conde_hw07_kitchen_scene13:stool3:pCylinder2 4
+    100416: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    100418: Conde_hw07_kitchen_scene13:stool3:pCylinder3 1
+    100420: Conde_hw07_kitchen_scene13:stool3:pCylinder3 2
+    100422: Conde_hw07_kitchen_scene13:stool3:pCylinder3 3
+    100424: Conde_hw07_kitchen_scene13:stool3:pCylinder3 4
+    100426: Conde_hw07_kitchen_scene13:stool3:pCylinder3 5
+    100428: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    100430: Conde_hw07_kitchen_scene13:stool3:pCylinder4 1
+    100432: Conde_hw07_kitchen_scene13:stool3:pCylinder4 2
+    100434: Conde_hw07_kitchen_scene13:stool3:pCylinder4 3
+    100436: Conde_hw07_kitchen_scene13:stool3:polySurface2
+    100438: Conde_hw07_kitchen_scene13:stool3:polySurface2 1
+    100440: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    100442: Conde_hw07_kitchen_scene13:stool3:polySurface3 1
+    100444: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    100446: Conde_hw07_kitchen_scene13:stool3:pPipe1 1
+    100448: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    100450: Conde_hw07_kitchen_scene13:stool3:pPipe2 1
+    100452: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    100454: Conde_hw07_kitchen_scene13:stool3:pPipe3 1
+    100456: Conde_hw07_kitchen_scene13:stool3:seat
+    100458: Conde_hw07_kitchen_scene13:stool3:seat 1
+    100460: Conde_hw07_kitchen_scene13:stool3:transform1
+    100462: Conde_hw07_kitchen_scene13:stool3:transform1 1
+    100464: Conde_hw07_kitchen_scene13:stove1
+    100466: Conde_hw07_kitchen_scene13:stove:pCylinder1
+    100468: Conde_hw07_kitchen_scene13:stove:pCylinder2
+    100470: Conde_hw07_kitchen_scene13:stove:pCylinder3
+    100472: Conde_hw07_kitchen_scene13:stove:pCylinder4
+    100474: Conde_hw07_kitchen_scene13:table_top1
+    100476: COUNTER_TOP
+    100478: CURLY_LAMP
+    100480: extrudedSurface1
+    100482: extrudedSurface1 1
+    100484: extrudedSurface1 2
+    100486: extrudedSurface1 3
+    100488: FLOOR_CABINET
+    100490: FRIDGE
+    100492: group1
+    100494: group2
+    100496: group3
+    100498: group4
+    100500: JAR
+    100502: JAR1
+    100504: jar:pCylinder1
+    100506: jar:pCylinder2
+    100508: jar:pCylinder3
+    100510: //RootNode
+    100512: KNIFE_HOLDER
+    100514: LAMP
+    100516: MICROWAVE
+    100518: MINI_SHELF
+    100520: MINI_SHELF_2
+    100522: OIL_BOTTLE
+    100524: OIL_BOTTLE_2
+    100526: pCube1
+    100528: pCube10
+    100530: pCube11
+    100532: pCube12
+    100534: pCube13
+    100536: pCube14
+    100538: pCube2
+    100540: pCube3
+    100542: pCube4
+    100544: pCube6
+    100546: pCube7
+    100548: pCube8
+    100550: pCube9
+    100552: pCylinder1
+    100554: pCylinder1 1
+    100556: pCylinder1 2
+    100558: pCylinder1 3
+    100560: pCylinder1 4
+    100562: pCylinder2
+    100564: pCylinder2 1
+    100566: pCylinder3
+    100568: pCylinder3 1
+    100570: pCylinder4
+    100572: polySurface4
+    100574: polySurface4 1
+    100576: polySurface4 2
+    100578: polySurface4 3
+    100580: polySurface5
+    100582: polySurface5 1
+    100584: polySurface5 2
+    100586: polySurface5 3
+    100588: POWER_PLUG
+    100590: power_plug
+    100592: POWER_PLUG 1
+    100594: POWER_PLUG 2
+    100596: POWER_PLUG 3
+    100598: power_plug1
+    100600: power_plug2
+    100602: power_plug3
+    100604: ROOM
+    100606: SCALE
+    100608: SINK
+    100610: SPOON
+    100612: STOVE
+    100614: TUB_THING
+    100616: WALL_CABINETS
+    400000: butter_box_thing
+    400002: CHAIR
+    400004: chair1
+    400006: chair2
+    400008: cloth:loftedSurface1
+    400010: cloth:loftedSurface2
+    400012: Conde_hw07_kitchen_scene13:buttons
+    400014: Conde_hw07_kitchen_scene13:CABINET
+    400016: Conde_hw07_kitchen_scene13:CABINET 1
+    400018: Conde_hw07_kitchen_scene13:CABINET1
+    400020: Conde_hw07_kitchen_scene13:cabinet2:CABINET
+    400022: Conde_hw07_kitchen_scene13:cabinet2:DOOR
+    400024: Conde_hw07_kitchen_scene13:cabinet2:DOOR1
+    400026: Conde_hw07_kitchen_scene13:cabinet2:KNOB
+    400028: Conde_hw07_kitchen_scene13:cabinet2:KNOB1
+    400030: Conde_hw07_kitchen_scene13:cabinet2:pCylinder1
+    400032: Conde_hw07_kitchen_scene13:cabinet2:pCylinder2
+    400034: Conde_hw07_kitchen_scene13:cabinet2:pCylinder3
+    400036: Conde_hw07_kitchen_scene13:cabinet2:pCylinder4
+    400038: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:body
+    400040: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:door
+    400042: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:spotLight1
+    400044: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:buttons
+    400046: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_1
+    400048: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_2
+    400050: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_3
+    400052: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_4
+    400054: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_5
+    400056: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:microwave_window
+    400058: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_1
+    400060: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_2
+    400062: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_3
+    400064: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_4
+    400066: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_5
+    400068: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:place3dTexture1
+    400070: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_1
+    400072: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_2
+    400074: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_3
+    400076: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_4
+    400078: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_5
+    400080: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:timer_screen
+    400082: Conde_hw07_kitchen_scene13:DOOR
+    400084: Conde_hw07_kitchen_scene13:DOOR 1
+    400086: Conde_hw07_kitchen_scene13:DOOR1
+    400088: Conde_hw07_kitchen_scene13:DOOR1 1
+    400090: Conde_hw07_kitchen_scene13:DOOR2
+    400092: Conde_hw07_kitchen_scene13:DOOR2 1
+    400094: Conde_hw07_kitchen_scene13:DOOR2 2
+    400096: Conde_hw07_kitchen_scene13:DOOR3
+    400098: Conde_hw07_kitchen_scene13:DOOR3 1
+    400100: Conde_hw07_kitchen_scene13:DOOR3 2
+    400102: Conde_hw07_kitchen_scene13:FLOOR_CABINET
+    400104: Conde_hw07_kitchen_scene13:FLOOR_CABINET1
+    400106: Conde_hw07_kitchen_scene13:FLOOR_CABINET5
+    400108: Conde_hw07_kitchen_scene13:FLOOR_CABINET6
+    400110: Conde_hw07_kitchen_scene13:handle
+    400112: Conde_hw07_kitchen_scene13:handle1
+    400114: Conde_hw07_kitchen_scene13:handle2
+    400116: Conde_hw07_kitchen_scene13:inner_things
+    400118: Conde_hw07_kitchen_scene13:KNOB
+    400120: Conde_hw07_kitchen_scene13:KNOB 1
+    400122: Conde_hw07_kitchen_scene13:KNOB 2
+    400124: Conde_hw07_kitchen_scene13:KNOB 3
+    400126: Conde_hw07_kitchen_scene13:KNOB1
+    400128: Conde_hw07_kitchen_scene13:KNOB1 1
+    400130: Conde_hw07_kitchen_scene13:KNOB2
+    400132: Conde_hw07_kitchen_scene13:KNOB3
+    400134: Conde_hw07_kitchen_scene13:KNOB3 1
+    400136: Conde_hw07_kitchen_scene13:KNOB3 2
+    400138: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:KNOB
+    400140: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder1
+    400142: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder2
+    400144: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder3
+    400146: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder4
+    400148: Conde_hw07_kitchen_scene13:longcabinet3:cabinet3:DOOR
+    400150: Conde_hw07_kitchen_scene13:longcabinet3:DOOR
+    400152: Conde_hw07_kitchen_scene13:longcabinet3:DOOR1
+    400154: Conde_hw07_kitchen_scene13:longcabinet3:DOOR2
+    400156: Conde_hw07_kitchen_scene13:longcabinet3:FLOOR_CABINET
+    400158: Conde_hw07_kitchen_scene13:longcabinet3:KNOB
+    400160: Conde_hw07_kitchen_scene13:longcabinet3:KNOB1
+    400162: Conde_hw07_kitchen_scene13:longcabinet3:KNOB2
+    400164: Conde_hw07_kitchen_scene13:longcabinet3:pCube1
+    400166: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder3
+    400168: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder4
+    400170: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder5
+    400172: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder6
+    400174: Conde_hw07_kitchen_scene13:OIL_BOTTLE:pCylinder1
+    400176: Conde_hw07_kitchen_scene13:pCube1
+    400178: Conde_hw07_kitchen_scene13:pCube1 1
+    400180: Conde_hw07_kitchen_scene13:pCube1 2
+    400182: Conde_hw07_kitchen_scene13:pCube1 3
+    400184: Conde_hw07_kitchen_scene13:pCube6
+    400186: Conde_hw07_kitchen_scene13:pCylinder1
+    400188: Conde_hw07_kitchen_scene13:pCylinder1 1
+    400190: Conde_hw07_kitchen_scene13:pCylinder1 2
+    400192: Conde_hw07_kitchen_scene13:pCylinder10
+    400194: Conde_hw07_kitchen_scene13:pCylinder10 1
+    400196: Conde_hw07_kitchen_scene13:pCylinder11
+    400198: Conde_hw07_kitchen_scene13:pCylinder11 1
+    400200: Conde_hw07_kitchen_scene13:pCylinder12
+    400202: Conde_hw07_kitchen_scene13:pCylinder12 1
+    400204: Conde_hw07_kitchen_scene13:pCylinder13
+    400206: Conde_hw07_kitchen_scene13:pCylinder14
+    400208: Conde_hw07_kitchen_scene13:pCylinder2
+    400210: Conde_hw07_kitchen_scene13:pCylinder2 1
+    400212: Conde_hw07_kitchen_scene13:pCylinder2 2
+    400214: Conde_hw07_kitchen_scene13:pCylinder2 3
+    400216: Conde_hw07_kitchen_scene13:pCylinder3
+    400218: Conde_hw07_kitchen_scene13:pCylinder3 1
+    400220: Conde_hw07_kitchen_scene13:pCylinder3 2
+    400222: Conde_hw07_kitchen_scene13:pCylinder3 3
+    400224: Conde_hw07_kitchen_scene13:pCylinder4
+    400226: Conde_hw07_kitchen_scene13:pCylinder4 1
+    400228: Conde_hw07_kitchen_scene13:pCylinder4 2
+    400230: Conde_hw07_kitchen_scene13:pCylinder4 3
+    400232: Conde_hw07_kitchen_scene13:pCylinder5
+    400234: Conde_hw07_kitchen_scene13:pCylinder5 1
+    400236: Conde_hw07_kitchen_scene13:pCylinder5 2
+    400238: Conde_hw07_kitchen_scene13:pCylinder6
+    400240: Conde_hw07_kitchen_scene13:pCylinder6 1
+    400242: Conde_hw07_kitchen_scene13:pCylinder6 2
+    400244: Conde_hw07_kitchen_scene13:pCylinder7
+    400246: Conde_hw07_kitchen_scene13:pCylinder7 1
+    400248: Conde_hw07_kitchen_scene13:pCylinder7 2
+    400250: Conde_hw07_kitchen_scene13:pCylinder8
+    400252: Conde_hw07_kitchen_scene13:pCylinder8 1
+    400254: Conde_hw07_kitchen_scene13:pCylinder8 2
+    400256: Conde_hw07_kitchen_scene13:pCylinder9
+    400258: Conde_hw07_kitchen_scene13:pCylinder9 1
+    400260: Conde_hw07_kitchen_scene13:place3dTexture1
+    400262: Conde_hw07_kitchen_scene13:place3dTexture2
+    400264: Conde_hw07_kitchen_scene13:sink5:pCube1
+    400266: Conde_hw07_kitchen_scene13:sink5:pCylinder1
+    400268: Conde_hw07_kitchen_scene13:sink5:pCylinder2
+    400270: Conde_hw07_kitchen_scene13:sink5:pCylinder3
+    400272: Conde_hw07_kitchen_scene13:sink5:pCylinder4
+    400274: Conde_hw07_kitchen_scene13:sink5:pPlane1
+    400276: Conde_hw07_kitchen_scene13:stool3:back_seat
+    400278: Conde_hw07_kitchen_scene13:stool3:back_seat 1
+    400280: Conde_hw07_kitchen_scene13:stool3:CABINET
+    400282: Conde_hw07_kitchen_scene13:stool3:CABINET 1
+    400284: Conde_hw07_kitchen_scene13:stool3:CABINET 2
+    400286: Conde_hw07_kitchen_scene13:stool3:CABINET 3
+    400288: Conde_hw07_kitchen_scene13:stool3:DOOR
+    400290: Conde_hw07_kitchen_scene13:stool3:DOOR 1
+    400292: Conde_hw07_kitchen_scene13:stool3:DOOR 2
+    400294: Conde_hw07_kitchen_scene13:stool3:DOOR 3
+    400296: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    400298: Conde_hw07_kitchen_scene13:stool3:DOOR1 1
+    400300: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    400302: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8 1
+    400304: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    400306: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9 1
+    400308: Conde_hw07_kitchen_scene13:stool3:group2
+    400310: Conde_hw07_kitchen_scene13:stool3:group2 1
+    400312: Conde_hw07_kitchen_scene13:stool3:group3
+    400314: Conde_hw07_kitchen_scene13:stool3:group3 1
+    400316: Conde_hw07_kitchen_scene13:stool3:KNOB
+    400318: Conde_hw07_kitchen_scene13:stool3:KNOB 1
+    400320: Conde_hw07_kitchen_scene13:stool3:KNOB 2
+    400322: Conde_hw07_kitchen_scene13:stool3:KNOB 3
+    400324: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    400326: Conde_hw07_kitchen_scene13:stool3:KNOB1 1
+    400328: Conde_hw07_kitchen_scene13:stool3:leg
+    400330: Conde_hw07_kitchen_scene13:stool3:leg 1
+    400332: Conde_hw07_kitchen_scene13:stool3:leg1
+    400334: Conde_hw07_kitchen_scene13:stool3:leg1 1
+    400336: Conde_hw07_kitchen_scene13:stool3:leg2
+    400338: Conde_hw07_kitchen_scene13:stool3:leg2 1
+    400340: Conde_hw07_kitchen_scene13:stool3:leg3
+    400342: Conde_hw07_kitchen_scene13:stool3:leg3 1
+    400344: Conde_hw07_kitchen_scene13:stool3:leg4
+    400346: Conde_hw07_kitchen_scene13:stool3:leg4 1
+    400348: Conde_hw07_kitchen_scene13:stool3:long_cabinet
+    400350: Conde_hw07_kitchen_scene13:stool3:long_cabinet1
+    400352: Conde_hw07_kitchen_scene13:stool3:long_cabinet2
+    400354: Conde_hw07_kitchen_scene13:stool3:long_cabinet3
+    400356: Conde_hw07_kitchen_scene13:stool3:pCube2
+    400358: Conde_hw07_kitchen_scene13:stool3:pCube3
+    400360: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    400362: Conde_hw07_kitchen_scene13:stool3:pCylinder1 1
+    400364: Conde_hw07_kitchen_scene13:stool3:pCylinder1 2
+    400366: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    400368: Conde_hw07_kitchen_scene13:stool3:pCylinder15 1
+    400370: Conde_hw07_kitchen_scene13:stool3:pCylinder15 2
+    400372: Conde_hw07_kitchen_scene13:stool3:pCylinder15 3
+    400374: Conde_hw07_kitchen_scene13:stool3:pCylinder15 4
+    400376: Conde_hw07_kitchen_scene13:stool3:pCylinder15 5
+    400378: Conde_hw07_kitchen_scene13:stool3:pCylinder15 6
+    400380: Conde_hw07_kitchen_scene13:stool3:pCylinder15 7
+    400382: Conde_hw07_kitchen_scene13:stool3:pCylinder15 8
+    400384: Conde_hw07_kitchen_scene13:stool3:pCylinder15 9
+    400386: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    400388: Conde_hw07_kitchen_scene13:stool3:pCylinder16 1
+    400390: Conde_hw07_kitchen_scene13:stool3:pCylinder16 2
+    400392: Conde_hw07_kitchen_scene13:stool3:pCylinder16 3
+    400394: Conde_hw07_kitchen_scene13:stool3:pCylinder16 4
+    400396: Conde_hw07_kitchen_scene13:stool3:pCylinder16 5
+    400398: Conde_hw07_kitchen_scene13:stool3:pCylinder16 6
+    400400: Conde_hw07_kitchen_scene13:stool3:pCylinder16 7
+    400402: Conde_hw07_kitchen_scene13:stool3:pCylinder16 8
+    400404: Conde_hw07_kitchen_scene13:stool3:pCylinder16 9
+    400406: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    400408: Conde_hw07_kitchen_scene13:stool3:pCylinder2 1
+    400410: Conde_hw07_kitchen_scene13:stool3:pCylinder2 2
+    400412: Conde_hw07_kitchen_scene13:stool3:pCylinder2 3
+    400414: Conde_hw07_kitchen_scene13:stool3:pCylinder2 4
+    400416: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    400418: Conde_hw07_kitchen_scene13:stool3:pCylinder3 1
+    400420: Conde_hw07_kitchen_scene13:stool3:pCylinder3 2
+    400422: Conde_hw07_kitchen_scene13:stool3:pCylinder3 3
+    400424: Conde_hw07_kitchen_scene13:stool3:pCylinder3 4
+    400426: Conde_hw07_kitchen_scene13:stool3:pCylinder3 5
+    400428: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    400430: Conde_hw07_kitchen_scene13:stool3:pCylinder4 1
+    400432: Conde_hw07_kitchen_scene13:stool3:pCylinder4 2
+    400434: Conde_hw07_kitchen_scene13:stool3:pCylinder4 3
+    400436: Conde_hw07_kitchen_scene13:stool3:polySurface2
+    400438: Conde_hw07_kitchen_scene13:stool3:polySurface2 1
+    400440: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    400442: Conde_hw07_kitchen_scene13:stool3:polySurface3 1
+    400444: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    400446: Conde_hw07_kitchen_scene13:stool3:pPipe1 1
+    400448: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    400450: Conde_hw07_kitchen_scene13:stool3:pPipe2 1
+    400452: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    400454: Conde_hw07_kitchen_scene13:stool3:pPipe3 1
+    400456: Conde_hw07_kitchen_scene13:stool3:seat
+    400458: Conde_hw07_kitchen_scene13:stool3:seat 1
+    400460: Conde_hw07_kitchen_scene13:stool3:transform1
+    400462: Conde_hw07_kitchen_scene13:stool3:transform1 1
+    400464: Conde_hw07_kitchen_scene13:stove1
+    400466: Conde_hw07_kitchen_scene13:stove:pCylinder1
+    400468: Conde_hw07_kitchen_scene13:stove:pCylinder2
+    400470: Conde_hw07_kitchen_scene13:stove:pCylinder3
+    400472: Conde_hw07_kitchen_scene13:stove:pCylinder4
+    400474: Conde_hw07_kitchen_scene13:table_top1
+    400476: COUNTER_TOP
+    400478: CURLY_LAMP
+    400480: extrudedSurface1
+    400482: extrudedSurface1 1
+    400484: extrudedSurface1 2
+    400486: extrudedSurface1 3
+    400488: FLOOR_CABINET
+    400490: FRIDGE
+    400492: group1
+    400494: group2
+    400496: group3
+    400498: group4
+    400500: JAR
+    400502: JAR1
+    400504: jar:pCylinder1
+    400506: jar:pCylinder2
+    400508: jar:pCylinder3
+    400510: //RootNode
+    400512: KNIFE_HOLDER
+    400514: LAMP
+    400516: MICROWAVE
+    400518: MINI_SHELF
+    400520: MINI_SHELF_2
+    400522: OIL_BOTTLE
+    400524: OIL_BOTTLE_2
+    400526: pCube1
+    400528: pCube10
+    400530: pCube11
+    400532: pCube12
+    400534: pCube13
+    400536: pCube14
+    400538: pCube2
+    400540: pCube3
+    400542: pCube4
+    400544: pCube6
+    400546: pCube7
+    400548: pCube8
+    400550: pCube9
+    400552: pCylinder1
+    400554: pCylinder1 1
+    400556: pCylinder1 2
+    400558: pCylinder1 3
+    400560: pCylinder1 4
+    400562: pCylinder2
+    400564: pCylinder2 1
+    400566: pCylinder3
+    400568: pCylinder3 1
+    400570: pCylinder4
+    400572: polySurface4
+    400574: polySurface4 1
+    400576: polySurface4 2
+    400578: polySurface4 3
+    400580: polySurface5
+    400582: polySurface5 1
+    400584: polySurface5 2
+    400586: polySurface5 3
+    400588: POWER_PLUG
+    400590: power_plug
+    400592: POWER_PLUG 1
+    400594: POWER_PLUG 2
+    400596: POWER_PLUG 3
+    400598: power_plug1
+    400600: power_plug2
+    400602: power_plug3
+    400604: ROOM
+    400606: SCALE
+    400608: SINK
+    400610: SPOON
+    400612: STOVE
+    400614: TUB_THING
+    400616: WALL_CABINETS
+    2300000: cloth:loftedSurface1
+    2300002: cloth:loftedSurface2
+    2300004: Conde_hw07_kitchen_scene13:CABINET 1
+    2300006: Conde_hw07_kitchen_scene13:cabinet2:CABINET
+    2300008: Conde_hw07_kitchen_scene13:cabinet2:DOOR
+    2300010: Conde_hw07_kitchen_scene13:cabinet2:DOOR1
+    2300012: Conde_hw07_kitchen_scene13:cabinet2:KNOB
+    2300014: Conde_hw07_kitchen_scene13:cabinet2:KNOB1
+    2300016: Conde_hw07_kitchen_scene13:cabinet2:pCylinder1
+    2300018: Conde_hw07_kitchen_scene13:cabinet2:pCylinder2
+    2300020: Conde_hw07_kitchen_scene13:cabinet2:pCylinder3
+    2300022: Conde_hw07_kitchen_scene13:cabinet2:pCylinder4
+    2300024: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:body
+    2300026: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:door
+    2300028: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_1
+    2300030: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_2
+    2300032: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_3
+    2300034: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_4
+    2300036: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_5
+    2300038: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:microwave_window
+    2300040: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_1
+    2300042: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_2
+    2300044: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_3
+    2300046: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_4
+    2300048: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_5
+    2300050: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_1
+    2300052: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_2
+    2300054: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_3
+    2300056: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_4
+    2300058: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_5
+    2300060: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:timer_screen
+    2300062: Conde_hw07_kitchen_scene13:DOOR
+    2300064: Conde_hw07_kitchen_scene13:DOOR 1
+    2300066: Conde_hw07_kitchen_scene13:DOOR1
+    2300068: Conde_hw07_kitchen_scene13:DOOR1 1
+    2300070: Conde_hw07_kitchen_scene13:DOOR2
+    2300072: Conde_hw07_kitchen_scene13:DOOR2 1
+    2300074: Conde_hw07_kitchen_scene13:DOOR2 2
+    2300076: Conde_hw07_kitchen_scene13:DOOR3
+    2300078: Conde_hw07_kitchen_scene13:DOOR3 1
+    2300080: Conde_hw07_kitchen_scene13:DOOR3 2
+    2300082: Conde_hw07_kitchen_scene13:handle
+    2300084: Conde_hw07_kitchen_scene13:handle1
+    2300086: Conde_hw07_kitchen_scene13:handle2
+    2300088: Conde_hw07_kitchen_scene13:KNOB
+    2300090: Conde_hw07_kitchen_scene13:KNOB 1
+    2300092: Conde_hw07_kitchen_scene13:KNOB 2
+    2300094: Conde_hw07_kitchen_scene13:KNOB 3
+    2300096: Conde_hw07_kitchen_scene13:KNOB1
+    2300098: Conde_hw07_kitchen_scene13:KNOB1 1
+    2300100: Conde_hw07_kitchen_scene13:KNOB2
+    2300102: Conde_hw07_kitchen_scene13:KNOB3
+    2300104: Conde_hw07_kitchen_scene13:KNOB3 1
+    2300106: Conde_hw07_kitchen_scene13:KNOB3 2
+    2300108: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:KNOB
+    2300110: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder1
+    2300112: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder2
+    2300114: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder3
+    2300116: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder4
+    2300118: Conde_hw07_kitchen_scene13:longcabinet3:cabinet3:DOOR
+    2300120: Conde_hw07_kitchen_scene13:longcabinet3:DOOR
+    2300122: Conde_hw07_kitchen_scene13:longcabinet3:DOOR1
+    2300124: Conde_hw07_kitchen_scene13:longcabinet3:DOOR2
+    2300126: Conde_hw07_kitchen_scene13:longcabinet3:KNOB
+    2300128: Conde_hw07_kitchen_scene13:longcabinet3:KNOB1
+    2300130: Conde_hw07_kitchen_scene13:longcabinet3:KNOB2
+    2300132: Conde_hw07_kitchen_scene13:longcabinet3:pCube1
+    2300134: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder3
+    2300136: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder4
+    2300138: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder5
+    2300140: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder6
+    2300142: Conde_hw07_kitchen_scene13:OIL_BOTTLE:pCylinder1
+    2300144: Conde_hw07_kitchen_scene13:pCube1
+    2300146: Conde_hw07_kitchen_scene13:pCube1 1
+    2300148: Conde_hw07_kitchen_scene13:pCube1 2
+    2300150: Conde_hw07_kitchen_scene13:pCube1 3
+    2300152: Conde_hw07_kitchen_scene13:pCube6
+    2300154: Conde_hw07_kitchen_scene13:pCylinder1
+    2300156: Conde_hw07_kitchen_scene13:pCylinder1 1
+    2300158: Conde_hw07_kitchen_scene13:pCylinder1 2
+    2300160: Conde_hw07_kitchen_scene13:pCylinder10
+    2300162: Conde_hw07_kitchen_scene13:pCylinder10 1
+    2300164: Conde_hw07_kitchen_scene13:pCylinder11
+    2300166: Conde_hw07_kitchen_scene13:pCylinder11 1
+    2300168: Conde_hw07_kitchen_scene13:pCylinder12
+    2300170: Conde_hw07_kitchen_scene13:pCylinder12 1
+    2300172: Conde_hw07_kitchen_scene13:pCylinder13
+    2300174: Conde_hw07_kitchen_scene13:pCylinder14
+    2300176: Conde_hw07_kitchen_scene13:pCylinder2
+    2300178: Conde_hw07_kitchen_scene13:pCylinder2 1
+    2300180: Conde_hw07_kitchen_scene13:pCylinder2 2
+    2300182: Conde_hw07_kitchen_scene13:pCylinder2 3
+    2300184: Conde_hw07_kitchen_scene13:pCylinder3
+    2300186: Conde_hw07_kitchen_scene13:pCylinder3 1
+    2300188: Conde_hw07_kitchen_scene13:pCylinder3 2
+    2300190: Conde_hw07_kitchen_scene13:pCylinder3 3
+    2300192: Conde_hw07_kitchen_scene13:pCylinder4
+    2300194: Conde_hw07_kitchen_scene13:pCylinder4 1
+    2300196: Conde_hw07_kitchen_scene13:pCylinder4 2
+    2300198: Conde_hw07_kitchen_scene13:pCylinder4 3
+    2300200: Conde_hw07_kitchen_scene13:pCylinder5
+    2300202: Conde_hw07_kitchen_scene13:pCylinder5 1
+    2300204: Conde_hw07_kitchen_scene13:pCylinder5 2
+    2300206: Conde_hw07_kitchen_scene13:pCylinder6
+    2300208: Conde_hw07_kitchen_scene13:pCylinder6 1
+    2300210: Conde_hw07_kitchen_scene13:pCylinder6 2
+    2300212: Conde_hw07_kitchen_scene13:pCylinder7
+    2300214: Conde_hw07_kitchen_scene13:pCylinder7 1
+    2300216: Conde_hw07_kitchen_scene13:pCylinder7 2
+    2300218: Conde_hw07_kitchen_scene13:pCylinder8
+    2300220: Conde_hw07_kitchen_scene13:pCylinder8 1
+    2300222: Conde_hw07_kitchen_scene13:pCylinder8 2
+    2300224: Conde_hw07_kitchen_scene13:pCylinder9
+    2300226: Conde_hw07_kitchen_scene13:pCylinder9 1
+    2300228: Conde_hw07_kitchen_scene13:sink5:pCube1
+    2300230: Conde_hw07_kitchen_scene13:sink5:pCylinder1
+    2300232: Conde_hw07_kitchen_scene13:sink5:pCylinder2
+    2300234: Conde_hw07_kitchen_scene13:sink5:pCylinder3
+    2300236: Conde_hw07_kitchen_scene13:sink5:pCylinder4
+    2300238: Conde_hw07_kitchen_scene13:sink5:pPlane1
+    2300240: Conde_hw07_kitchen_scene13:stool3:back_seat
+    2300242: Conde_hw07_kitchen_scene13:stool3:back_seat 1
+    2300244: Conde_hw07_kitchen_scene13:stool3:CABINET
+    2300246: Conde_hw07_kitchen_scene13:stool3:CABINET 1
+    2300248: Conde_hw07_kitchen_scene13:stool3:CABINET 2
+    2300250: Conde_hw07_kitchen_scene13:stool3:CABINET 3
+    2300252: Conde_hw07_kitchen_scene13:stool3:DOOR
+    2300254: Conde_hw07_kitchen_scene13:stool3:DOOR 1
+    2300256: Conde_hw07_kitchen_scene13:stool3:DOOR 2
+    2300258: Conde_hw07_kitchen_scene13:stool3:DOOR 3
+    2300260: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    2300262: Conde_hw07_kitchen_scene13:stool3:DOOR1 1
+    2300264: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    2300266: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8 1
+    2300268: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    2300270: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9 1
+    2300272: Conde_hw07_kitchen_scene13:stool3:KNOB
+    2300274: Conde_hw07_kitchen_scene13:stool3:KNOB 1
+    2300276: Conde_hw07_kitchen_scene13:stool3:KNOB 2
+    2300278: Conde_hw07_kitchen_scene13:stool3:KNOB 3
+    2300280: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    2300282: Conde_hw07_kitchen_scene13:stool3:KNOB1 1
+    2300284: Conde_hw07_kitchen_scene13:stool3:pCube2
+    2300286: Conde_hw07_kitchen_scene13:stool3:pCube3
+    2300288: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    2300290: Conde_hw07_kitchen_scene13:stool3:pCylinder1 1
+    2300292: Conde_hw07_kitchen_scene13:stool3:pCylinder1 2
+    2300294: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    2300296: Conde_hw07_kitchen_scene13:stool3:pCylinder15 1
+    2300298: Conde_hw07_kitchen_scene13:stool3:pCylinder15 2
+    2300300: Conde_hw07_kitchen_scene13:stool3:pCylinder15 3
+    2300302: Conde_hw07_kitchen_scene13:stool3:pCylinder15 4
+    2300304: Conde_hw07_kitchen_scene13:stool3:pCylinder15 5
+    2300306: Conde_hw07_kitchen_scene13:stool3:pCylinder15 6
+    2300308: Conde_hw07_kitchen_scene13:stool3:pCylinder15 7
+    2300310: Conde_hw07_kitchen_scene13:stool3:pCylinder15 8
+    2300312: Conde_hw07_kitchen_scene13:stool3:pCylinder15 9
+    2300314: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    2300316: Conde_hw07_kitchen_scene13:stool3:pCylinder16 1
+    2300318: Conde_hw07_kitchen_scene13:stool3:pCylinder16 2
+    2300320: Conde_hw07_kitchen_scene13:stool3:pCylinder16 3
+    2300322: Conde_hw07_kitchen_scene13:stool3:pCylinder16 4
+    2300324: Conde_hw07_kitchen_scene13:stool3:pCylinder16 5
+    2300326: Conde_hw07_kitchen_scene13:stool3:pCylinder16 6
+    2300328: Conde_hw07_kitchen_scene13:stool3:pCylinder16 7
+    2300330: Conde_hw07_kitchen_scene13:stool3:pCylinder16 8
+    2300332: Conde_hw07_kitchen_scene13:stool3:pCylinder16 9
+    2300334: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    2300336: Conde_hw07_kitchen_scene13:stool3:pCylinder2 1
+    2300338: Conde_hw07_kitchen_scene13:stool3:pCylinder2 2
+    2300340: Conde_hw07_kitchen_scene13:stool3:pCylinder2 3
+    2300342: Conde_hw07_kitchen_scene13:stool3:pCylinder2 4
+    2300344: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    2300346: Conde_hw07_kitchen_scene13:stool3:pCylinder3 1
+    2300348: Conde_hw07_kitchen_scene13:stool3:pCylinder3 2
+    2300350: Conde_hw07_kitchen_scene13:stool3:pCylinder3 3
+    2300352: Conde_hw07_kitchen_scene13:stool3:pCylinder3 4
+    2300354: Conde_hw07_kitchen_scene13:stool3:pCylinder3 5
+    2300356: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    2300358: Conde_hw07_kitchen_scene13:stool3:pCylinder4 1
+    2300360: Conde_hw07_kitchen_scene13:stool3:pCylinder4 2
+    2300362: Conde_hw07_kitchen_scene13:stool3:pCylinder4 3
+    2300364: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    2300366: Conde_hw07_kitchen_scene13:stool3:polySurface3 1
+    2300368: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    2300370: Conde_hw07_kitchen_scene13:stool3:pPipe1 1
+    2300372: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    2300374: Conde_hw07_kitchen_scene13:stool3:pPipe2 1
+    2300376: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    2300378: Conde_hw07_kitchen_scene13:stool3:pPipe3 1
+    2300380: Conde_hw07_kitchen_scene13:stool3:seat
+    2300382: Conde_hw07_kitchen_scene13:stool3:seat 1
+    2300384: Conde_hw07_kitchen_scene13:stove1
+    2300386: Conde_hw07_kitchen_scene13:stove:pCylinder1
+    2300388: Conde_hw07_kitchen_scene13:stove:pCylinder2
+    2300390: Conde_hw07_kitchen_scene13:stove:pCylinder3
+    2300392: Conde_hw07_kitchen_scene13:stove:pCylinder4
+    2300394: Conde_hw07_kitchen_scene13:table_top1
+    2300396: extrudedSurface1
+    2300398: extrudedSurface1 1
+    2300400: extrudedSurface1 2
+    2300402: extrudedSurface1 3
+    2300404: jar:pCylinder1
+    2300406: jar:pCylinder2
+    2300408: jar:pCylinder3
+    2300410: KNIFE_HOLDER
+    2300412: MICROWAVE
+    2300414: MINI_SHELF
+    2300416: pCube1
+    2300418: pCube10
+    2300420: pCube11
+    2300422: pCube12
+    2300424: pCube13
+    2300426: pCube14
+    2300428: pCube2
+    2300430: pCube3
+    2300432: pCube4
+    2300434: pCube6
+    2300436: pCube7
+    2300438: pCube8
+    2300440: pCube9
+    2300442: pCylinder1
+    2300444: pCylinder1 1
+    2300446: pCylinder1 2
+    2300448: pCylinder1 3
+    2300450: pCylinder1 4
+    2300452: pCylinder2
+    2300454: pCylinder2 1
+    2300456: pCylinder3
+    2300458: pCylinder3 1
+    2300460: pCylinder4
+    2300462: polySurface4
+    2300464: polySurface4 1
+    2300466: polySurface4 2
+    2300468: polySurface4 3
+    2300470: polySurface5
+    2300472: polySurface5 1
+    2300474: polySurface5 2
+    2300476: polySurface5 3
+    2300478: POWER_PLUG
+    2300480: POWER_PLUG 1
+    2300482: POWER_PLUG 2
+    2300484: POWER_PLUG 3
+    2300486: ROOM
+    2300488: SCALE
+    2300490: SPOON
+    3300000: cloth:loftedSurface1
+    3300002: cloth:loftedSurface2
+    3300004: Conde_hw07_kitchen_scene13:CABINET 1
+    3300006: Conde_hw07_kitchen_scene13:cabinet2:CABINET
+    3300008: Conde_hw07_kitchen_scene13:cabinet2:DOOR
+    3300010: Conde_hw07_kitchen_scene13:cabinet2:DOOR1
+    3300012: Conde_hw07_kitchen_scene13:cabinet2:KNOB
+    3300014: Conde_hw07_kitchen_scene13:cabinet2:KNOB1
+    3300016: Conde_hw07_kitchen_scene13:cabinet2:pCylinder1
+    3300018: Conde_hw07_kitchen_scene13:cabinet2:pCylinder2
+    3300020: Conde_hw07_kitchen_scene13:cabinet2:pCylinder3
+    3300022: Conde_hw07_kitchen_scene13:cabinet2:pCylinder4
+    3300024: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:body
+    3300026: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:door
+    3300028: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_1
+    3300030: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_2
+    3300032: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_3
+    3300034: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_4
+    3300036: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_5
+    3300038: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:microwave_window
+    3300040: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_1
+    3300042: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_2
+    3300044: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_3
+    3300046: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_4
+    3300048: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_5
+    3300050: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_1
+    3300052: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_2
+    3300054: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_3
+    3300056: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_4
+    3300058: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_5
+    3300060: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:timer_screen
+    3300062: Conde_hw07_kitchen_scene13:DOOR
+    3300064: Conde_hw07_kitchen_scene13:DOOR 1
+    3300066: Conde_hw07_kitchen_scene13:DOOR1
+    3300068: Conde_hw07_kitchen_scene13:DOOR1 1
+    3300070: Conde_hw07_kitchen_scene13:DOOR2
+    3300072: Conde_hw07_kitchen_scene13:DOOR2 1
+    3300074: Conde_hw07_kitchen_scene13:DOOR2 2
+    3300076: Conde_hw07_kitchen_scene13:DOOR3
+    3300078: Conde_hw07_kitchen_scene13:DOOR3 1
+    3300080: Conde_hw07_kitchen_scene13:DOOR3 2
+    3300082: Conde_hw07_kitchen_scene13:handle
+    3300084: Conde_hw07_kitchen_scene13:handle1
+    3300086: Conde_hw07_kitchen_scene13:handle2
+    3300088: Conde_hw07_kitchen_scene13:KNOB
+    3300090: Conde_hw07_kitchen_scene13:KNOB 1
+    3300092: Conde_hw07_kitchen_scene13:KNOB 2
+    3300094: Conde_hw07_kitchen_scene13:KNOB 3
+    3300096: Conde_hw07_kitchen_scene13:KNOB1
+    3300098: Conde_hw07_kitchen_scene13:KNOB1 1
+    3300100: Conde_hw07_kitchen_scene13:KNOB2
+    3300102: Conde_hw07_kitchen_scene13:KNOB3
+    3300104: Conde_hw07_kitchen_scene13:KNOB3 1
+    3300106: Conde_hw07_kitchen_scene13:KNOB3 2
+    3300108: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:KNOB
+    3300110: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder1
+    3300112: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder2
+    3300114: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder3
+    3300116: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder4
+    3300118: Conde_hw07_kitchen_scene13:longcabinet3:cabinet3:DOOR
+    3300120: Conde_hw07_kitchen_scene13:longcabinet3:DOOR
+    3300122: Conde_hw07_kitchen_scene13:longcabinet3:DOOR1
+    3300124: Conde_hw07_kitchen_scene13:longcabinet3:DOOR2
+    3300126: Conde_hw07_kitchen_scene13:longcabinet3:KNOB
+    3300128: Conde_hw07_kitchen_scene13:longcabinet3:KNOB1
+    3300130: Conde_hw07_kitchen_scene13:longcabinet3:KNOB2
+    3300132: Conde_hw07_kitchen_scene13:longcabinet3:pCube1
+    3300134: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder3
+    3300136: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder4
+    3300138: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder5
+    3300140: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder6
+    3300142: Conde_hw07_kitchen_scene13:OIL_BOTTLE:pCylinder1
+    3300144: Conde_hw07_kitchen_scene13:pCube1
+    3300146: Conde_hw07_kitchen_scene13:pCube1 1
+    3300148: Conde_hw07_kitchen_scene13:pCube1 2
+    3300150: Conde_hw07_kitchen_scene13:pCube1 3
+    3300152: Conde_hw07_kitchen_scene13:pCube6
+    3300154: Conde_hw07_kitchen_scene13:pCylinder1
+    3300156: Conde_hw07_kitchen_scene13:pCylinder1 1
+    3300158: Conde_hw07_kitchen_scene13:pCylinder1 2
+    3300160: Conde_hw07_kitchen_scene13:pCylinder10
+    3300162: Conde_hw07_kitchen_scene13:pCylinder10 1
+    3300164: Conde_hw07_kitchen_scene13:pCylinder11
+    3300166: Conde_hw07_kitchen_scene13:pCylinder11 1
+    3300168: Conde_hw07_kitchen_scene13:pCylinder12
+    3300170: Conde_hw07_kitchen_scene13:pCylinder12 1
+    3300172: Conde_hw07_kitchen_scene13:pCylinder13
+    3300174: Conde_hw07_kitchen_scene13:pCylinder14
+    3300176: Conde_hw07_kitchen_scene13:pCylinder2
+    3300178: Conde_hw07_kitchen_scene13:pCylinder2 1
+    3300180: Conde_hw07_kitchen_scene13:pCylinder2 2
+    3300182: Conde_hw07_kitchen_scene13:pCylinder2 3
+    3300184: Conde_hw07_kitchen_scene13:pCylinder3
+    3300186: Conde_hw07_kitchen_scene13:pCylinder3 1
+    3300188: Conde_hw07_kitchen_scene13:pCylinder3 2
+    3300190: Conde_hw07_kitchen_scene13:pCylinder3 3
+    3300192: Conde_hw07_kitchen_scene13:pCylinder4
+    3300194: Conde_hw07_kitchen_scene13:pCylinder4 1
+    3300196: Conde_hw07_kitchen_scene13:pCylinder4 2
+    3300198: Conde_hw07_kitchen_scene13:pCylinder4 3
+    3300200: Conde_hw07_kitchen_scene13:pCylinder5
+    3300202: Conde_hw07_kitchen_scene13:pCylinder5 1
+    3300204: Conde_hw07_kitchen_scene13:pCylinder5 2
+    3300206: Conde_hw07_kitchen_scene13:pCylinder6
+    3300208: Conde_hw07_kitchen_scene13:pCylinder6 1
+    3300210: Conde_hw07_kitchen_scene13:pCylinder6 2
+    3300212: Conde_hw07_kitchen_scene13:pCylinder7
+    3300214: Conde_hw07_kitchen_scene13:pCylinder7 1
+    3300216: Conde_hw07_kitchen_scene13:pCylinder7 2
+    3300218: Conde_hw07_kitchen_scene13:pCylinder8
+    3300220: Conde_hw07_kitchen_scene13:pCylinder8 1
+    3300222: Conde_hw07_kitchen_scene13:pCylinder8 2
+    3300224: Conde_hw07_kitchen_scene13:pCylinder9
+    3300226: Conde_hw07_kitchen_scene13:pCylinder9 1
+    3300228: Conde_hw07_kitchen_scene13:sink5:pCube1
+    3300230: Conde_hw07_kitchen_scene13:sink5:pCylinder1
+    3300232: Conde_hw07_kitchen_scene13:sink5:pCylinder2
+    3300234: Conde_hw07_kitchen_scene13:sink5:pCylinder3
+    3300236: Conde_hw07_kitchen_scene13:sink5:pCylinder4
+    3300238: Conde_hw07_kitchen_scene13:sink5:pPlane1
+    3300240: Conde_hw07_kitchen_scene13:stool3:back_seat
+    3300242: Conde_hw07_kitchen_scene13:stool3:back_seat 1
+    3300244: Conde_hw07_kitchen_scene13:stool3:CABINET
+    3300246: Conde_hw07_kitchen_scene13:stool3:CABINET 1
+    3300248: Conde_hw07_kitchen_scene13:stool3:CABINET 2
+    3300250: Conde_hw07_kitchen_scene13:stool3:CABINET 3
+    3300252: Conde_hw07_kitchen_scene13:stool3:DOOR
+    3300254: Conde_hw07_kitchen_scene13:stool3:DOOR 1
+    3300256: Conde_hw07_kitchen_scene13:stool3:DOOR 2
+    3300258: Conde_hw07_kitchen_scene13:stool3:DOOR 3
+    3300260: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    3300262: Conde_hw07_kitchen_scene13:stool3:DOOR1 1
+    3300264: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    3300266: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8 1
+    3300268: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    3300270: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9 1
+    3300272: Conde_hw07_kitchen_scene13:stool3:KNOB
+    3300274: Conde_hw07_kitchen_scene13:stool3:KNOB 1
+    3300276: Conde_hw07_kitchen_scene13:stool3:KNOB 2
+    3300278: Conde_hw07_kitchen_scene13:stool3:KNOB 3
+    3300280: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    3300282: Conde_hw07_kitchen_scene13:stool3:KNOB1 1
+    3300284: Conde_hw07_kitchen_scene13:stool3:pCube2
+    3300286: Conde_hw07_kitchen_scene13:stool3:pCube3
+    3300288: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    3300290: Conde_hw07_kitchen_scene13:stool3:pCylinder1 1
+    3300292: Conde_hw07_kitchen_scene13:stool3:pCylinder1 2
+    3300294: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    3300296: Conde_hw07_kitchen_scene13:stool3:pCylinder15 1
+    3300298: Conde_hw07_kitchen_scene13:stool3:pCylinder15 2
+    3300300: Conde_hw07_kitchen_scene13:stool3:pCylinder15 3
+    3300302: Conde_hw07_kitchen_scene13:stool3:pCylinder15 4
+    3300304: Conde_hw07_kitchen_scene13:stool3:pCylinder15 5
+    3300306: Conde_hw07_kitchen_scene13:stool3:pCylinder15 6
+    3300308: Conde_hw07_kitchen_scene13:stool3:pCylinder15 7
+    3300310: Conde_hw07_kitchen_scene13:stool3:pCylinder15 8
+    3300312: Conde_hw07_kitchen_scene13:stool3:pCylinder15 9
+    3300314: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    3300316: Conde_hw07_kitchen_scene13:stool3:pCylinder16 1
+    3300318: Conde_hw07_kitchen_scene13:stool3:pCylinder16 2
+    3300320: Conde_hw07_kitchen_scene13:stool3:pCylinder16 3
+    3300322: Conde_hw07_kitchen_scene13:stool3:pCylinder16 4
+    3300324: Conde_hw07_kitchen_scene13:stool3:pCylinder16 5
+    3300326: Conde_hw07_kitchen_scene13:stool3:pCylinder16 6
+    3300328: Conde_hw07_kitchen_scene13:stool3:pCylinder16 7
+    3300330: Conde_hw07_kitchen_scene13:stool3:pCylinder16 8
+    3300332: Conde_hw07_kitchen_scene13:stool3:pCylinder16 9
+    3300334: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    3300336: Conde_hw07_kitchen_scene13:stool3:pCylinder2 1
+    3300338: Conde_hw07_kitchen_scene13:stool3:pCylinder2 2
+    3300340: Conde_hw07_kitchen_scene13:stool3:pCylinder2 3
+    3300342: Conde_hw07_kitchen_scene13:stool3:pCylinder2 4
+    3300344: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    3300346: Conde_hw07_kitchen_scene13:stool3:pCylinder3 1
+    3300348: Conde_hw07_kitchen_scene13:stool3:pCylinder3 2
+    3300350: Conde_hw07_kitchen_scene13:stool3:pCylinder3 3
+    3300352: Conde_hw07_kitchen_scene13:stool3:pCylinder3 4
+    3300354: Conde_hw07_kitchen_scene13:stool3:pCylinder3 5
+    3300356: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    3300358: Conde_hw07_kitchen_scene13:stool3:pCylinder4 1
+    3300360: Conde_hw07_kitchen_scene13:stool3:pCylinder4 2
+    3300362: Conde_hw07_kitchen_scene13:stool3:pCylinder4 3
+    3300364: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    3300366: Conde_hw07_kitchen_scene13:stool3:polySurface3 1
+    3300368: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    3300370: Conde_hw07_kitchen_scene13:stool3:pPipe1 1
+    3300372: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    3300374: Conde_hw07_kitchen_scene13:stool3:pPipe2 1
+    3300376: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    3300378: Conde_hw07_kitchen_scene13:stool3:pPipe3 1
+    3300380: Conde_hw07_kitchen_scene13:stool3:seat
+    3300382: Conde_hw07_kitchen_scene13:stool3:seat 1
+    3300384: Conde_hw07_kitchen_scene13:stove1
+    3300386: Conde_hw07_kitchen_scene13:stove:pCylinder1
+    3300388: Conde_hw07_kitchen_scene13:stove:pCylinder2
+    3300390: Conde_hw07_kitchen_scene13:stove:pCylinder3
+    3300392: Conde_hw07_kitchen_scene13:stove:pCylinder4
+    3300394: Conde_hw07_kitchen_scene13:table_top1
+    3300396: extrudedSurface1
+    3300398: extrudedSurface1 1
+    3300400: extrudedSurface1 2
+    3300402: extrudedSurface1 3
+    3300404: jar:pCylinder1
+    3300406: jar:pCylinder2
+    3300408: jar:pCylinder3
+    3300410: KNIFE_HOLDER
+    3300412: MICROWAVE
+    3300414: MINI_SHELF
+    3300416: pCube1
+    3300418: pCube10
+    3300420: pCube11
+    3300422: pCube12
+    3300424: pCube13
+    3300426: pCube14
+    3300428: pCube2
+    3300430: pCube3
+    3300432: pCube4
+    3300434: pCube6
+    3300436: pCube7
+    3300438: pCube8
+    3300440: pCube9
+    3300442: pCylinder1
+    3300444: pCylinder1 1
+    3300446: pCylinder1 2
+    3300448: pCylinder1 3
+    3300450: pCylinder1 4
+    3300452: pCylinder2
+    3300454: pCylinder2 1
+    3300456: pCylinder3
+    3300458: pCylinder3 1
+    3300460: pCylinder4
+    3300462: polySurface4
+    3300464: polySurface4 1
+    3300466: polySurface4 2
+    3300468: polySurface4 3
+    3300470: polySurface5
+    3300472: polySurface5 1
+    3300474: polySurface5 2
+    3300476: polySurface5 3
+    3300478: POWER_PLUG
+    3300480: POWER_PLUG 1
+    3300482: POWER_PLUG 2
+    3300484: POWER_PLUG 3
+    3300486: ROOM
+    3300488: SCALE
+    3300490: SPOON
+    4300000: SCALE
+    4300002: ROOM
+    4300004: MINI_SHELF
+    4300006: MICROWAVE
+    4300008: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_1
+    4300010: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_2
+    4300012: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_3
+    4300014: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_4
+    4300016: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:left_5
+    4300018: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_1
+    4300020: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_2
+    4300022: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_3
+    4300024: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_4
+    4300026: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:middle_5
+    4300028: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_1
+    4300030: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_2
+    4300032: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_3
+    4300034: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_4
+    4300036: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:right_5
+    4300038: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:timer_screen
+    4300040: Conde_hw07_kitchen_scene13:Conde_hw07_microwave4:microwave_window
+    4300042: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:door
+    4300044: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:body
+    4300046: Conde_hw07_kitchen_scene13:handle2
+    4300048: Conde_hw07_kitchen_scene13:handle1
+    4300050: Conde_hw07_kitchen_scene13:sink5:pCylinder1
+    4300052: Conde_hw07_kitchen_scene13:sink5:pPlane1
+    4300054: Conde_hw07_kitchen_scene13:sink5:pCylinder2
+    4300056: Conde_hw07_kitchen_scene13:sink5:pCylinder3
+    4300058: Conde_hw07_kitchen_scene13:sink5:pCylinder4
+    4300060: Conde_hw07_kitchen_scene13:sink5:pCube1
+    4300062: Conde_hw07_kitchen_scene13:table_top1
+    4300064: Conde_hw07_kitchen_scene13:pCylinder13
+    4300066: Conde_hw07_kitchen_scene13:pCylinder2
+    4300068: Conde_hw07_kitchen_scene13:pCylinder3
+    4300070: Conde_hw07_kitchen_scene13:pCylinder4
+    4300072: Conde_hw07_kitchen_scene13:pCylinder5
+    4300074: Conde_hw07_kitchen_scene13:pCylinder6
+    4300076: Conde_hw07_kitchen_scene13:pCylinder7
+    4300078: Conde_hw07_kitchen_scene13:pCylinder8
+    4300080: Conde_hw07_kitchen_scene13:pCylinder9
+    4300082: Conde_hw07_kitchen_scene13:pCylinder10
+    4300084: Conde_hw07_kitchen_scene13:pCylinder11
+    4300086: Conde_hw07_kitchen_scene13:pCylinder12
+    4300088: Conde_hw07_kitchen_scene13:pCylinder14
+    4300090: Conde_hw07_kitchen_scene13:pCylinder2
+    4300092: Conde_hw07_kitchen_scene13:pCylinder3
+    4300094: Conde_hw07_kitchen_scene13:pCylinder4
+    4300096: Conde_hw07_kitchen_scene13:pCylinder5
+    4300098: Conde_hw07_kitchen_scene13:pCylinder6
+    4300100: Conde_hw07_kitchen_scene13:pCylinder7
+    4300102: Conde_hw07_kitchen_scene13:pCylinder8
+    4300104: Conde_hw07_kitchen_scene13:pCylinder9
+    4300106: Conde_hw07_kitchen_scene13:pCylinder10
+    4300108: Conde_hw07_kitchen_scene13:pCylinder11
+    4300110: Conde_hw07_kitchen_scene13:pCylinder12
+    4300112: Conde_hw07_kitchen_scene13:stove:pCylinder3
+    4300114: Conde_hw07_kitchen_scene13:stove:pCylinder4
+    4300116: Conde_hw07_kitchen_scene13:stove:pCylinder2
+    4300118: Conde_hw07_kitchen_scene13:stove:pCylinder1
+    4300120: Conde_hw07_kitchen_scene13:pCube6
+    4300122: Conde_hw07_kitchen_scene13:stove1
+    4300124: Conde_hw07_kitchen_scene13:handle
+    4300126: Conde_hw07_kitchen_scene13:OIL_BOTTLE:pCylinder1
+    4300128: Conde_hw07_kitchen_scene13:pCylinder1
+    4300130: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    4300132: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    4300134: Conde_hw07_kitchen_scene13:cabinet2:KNOB1
+    4300136: Conde_hw07_kitchen_scene13:cabinet2:DOOR1
+    4300138: Conde_hw07_kitchen_scene13:cabinet2:KNOB
+    4300140: Conde_hw07_kitchen_scene13:cabinet2:DOOR
+    4300142: Conde_hw07_kitchen_scene13:cabinet2:CABINET
+    4300144: Conde_hw07_kitchen_scene13:cabinet2:pCylinder1
+    4300146: Conde_hw07_kitchen_scene13:cabinet2:pCylinder2
+    4300148: Conde_hw07_kitchen_scene13:cabinet2:pCylinder3
+    4300150: Conde_hw07_kitchen_scene13:cabinet2:pCylinder4
+    4300152: Conde_hw07_kitchen_scene13:KNOB1
+    4300154: Conde_hw07_kitchen_scene13:DOOR1
+    4300156: Conde_hw07_kitchen_scene13:KNOB
+    4300158: Conde_hw07_kitchen_scene13:DOOR
+    4300160: Conde_hw07_kitchen_scene13:CABINET
+    4300162: Conde_hw07_kitchen_scene13:pCylinder1
+    4300164: Conde_hw07_kitchen_scene13:pCylinder2
+    4300166: Conde_hw07_kitchen_scene13:pCylinder3
+    4300168: Conde_hw07_kitchen_scene13:pCylinder4
+    4300170: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    4300172: Conde_hw07_kitchen_scene13:stool3:DOOR
+    4300174: Conde_hw07_kitchen_scene13:stool3:CABINET
+    4300176: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    4300178: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    4300180: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300182: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    4300184: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    4300186: Conde_hw07_kitchen_scene13:stool3:KNOB
+    4300188: Conde_hw07_kitchen_scene13:stool3:DOOR
+    4300190: Conde_hw07_kitchen_scene13:stool3:CABINET
+    4300192: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300194: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    4300196: Conde_hw07_kitchen_scene13:stool3:KNOB
+    4300198: Conde_hw07_kitchen_scene13:stool3:DOOR1
+    4300200: Conde_hw07_kitchen_scene13:stool3:DOOR
+    4300202: Conde_hw07_kitchen_scene13:stool3:CABINET
+    4300204: Conde_hw07_kitchen_scene13:stool3:pCylinder1
+    4300206: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    4300208: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300210: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    4300212: Conde_hw07_kitchen_scene13:stool3:KNOB1
+    4300214: Conde_hw07_kitchen_scene13:stool3:KNOB
+    4300216: Conde_hw07_kitchen_scene13:stool3:DOOR
+    4300218: Conde_hw07_kitchen_scene13:stool3:CABINET
+    4300220: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300222: Conde_hw07_kitchen_scene13:stool3:pCylinder4
+    4300224: Conde_hw07_kitchen_scene13:stool3:KNOB
+    4300226: Conde_hw07_kitchen_scene13:pCylinder1
+    4300228: Conde_hw07_kitchen_scene13:pCylinder2
+    4300230: Conde_hw07_kitchen_scene13:pCylinder3
+    4300232: Conde_hw07_kitchen_scene13:pCylinder4
+    4300234: Conde_hw07_kitchen_scene13:pCylinder5
+    4300236: Conde_hw07_kitchen_scene13:pCylinder6
+    4300238: Conde_hw07_kitchen_scene13:pCylinder7
+    4300240: Conde_hw07_kitchen_scene13:pCylinder8
+    4300242: Conde_hw07_kitchen_scene13:KNOB2
+    4300244: Conde_hw07_kitchen_scene13:KNOB1
+    4300246: Conde_hw07_kitchen_scene13:KNOB
+    4300248: Conde_hw07_kitchen_scene13:DOOR2
+    4300250: Conde_hw07_kitchen_scene13:DOOR1
+    4300252: Conde_hw07_kitchen_scene13:DOOR
+    4300254: Conde_hw07_kitchen_scene13:DOOR3
+    4300256: Conde_hw07_kitchen_scene13:KNOB3
+    4300258: Conde_hw07_kitchen_scene13:pCube1
+    4300260: Conde_hw07_kitchen_scene13:KNOB
+    4300262: Conde_hw07_kitchen_scene13:DOOR2
+    4300264: Conde_hw07_kitchen_scene13:DOOR3
+    4300266: Conde_hw07_kitchen_scene13:KNOB3
+    4300268: Conde_hw07_kitchen_scene13:pCube1
+    4300270: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder1
+    4300272: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder2
+    4300274: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder3
+    4300276: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:pCylinder4
+    4300278: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder3
+    4300280: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder4
+    4300282: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder5
+    4300284: Conde_hw07_kitchen_scene13:longcabinet3:pCylinder6
+    4300286: Conde_hw07_kitchen_scene13:longcabinet3:KNOB2
+    4300288: Conde_hw07_kitchen_scene13:longcabinet3:KNOB1
+    4300290: Conde_hw07_kitchen_scene13:longcabinet3:KNOB
+    4300292: Conde_hw07_kitchen_scene13:longcabinet3:DOOR2
+    4300294: Conde_hw07_kitchen_scene13:longcabinet3:DOOR1
+    4300296: Conde_hw07_kitchen_scene13:longcabinet3:DOOR
+    4300298: Conde_hw07_kitchen_scene13:longcabinet3:cabinet3:DOOR
+    4300300: Conde_hw07_kitchen_scene13:longcabinet3:cabinet2:KNOB
+    4300302: Conde_hw07_kitchen_scene13:longcabinet3:pCube1
+    4300304: Conde_hw07_kitchen_scene13:pCube1
+    4300306: Conde_hw07_kitchen_scene13:KNOB
+    4300308: Conde_hw07_kitchen_scene13:DOOR2
+    4300310: Conde_hw07_kitchen_scene13:DOOR3
+    4300312: Conde_hw07_kitchen_scene13:KNOB3
+    4300314: Conde_hw07_kitchen_scene13:pCube1
+    4300316: Conde_hw07_kitchen_scene13:stool3:pCube3
+    4300318: Conde_hw07_kitchen_scene13:stool3:pCube2
+    4300320: pCylinder3
+    4300322: pCylinder4
+    4300324: pCylinder2
+    4300326: pCylinder1
+    4300328: extrudedSurface1
+    4300330: pCylinder1
+    4300332: extrudedSurface1
+    4300334: pCylinder1
+    4300336: extrudedSurface1
+    4300338: pCylinder1
+    4300340: extrudedSurface1
+    4300342: Conde_hw07_kitchen_scene13:stool3:seat
+    4300344: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    4300346: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    4300348: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    4300350: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    4300352: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300354: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    4300356: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    4300358: Conde_hw07_kitchen_scene13:stool3:back_seat
+    4300360: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    4300362: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300364: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300366: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300368: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300370: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300372: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300374: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300376: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300378: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300380: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300382: Conde_hw07_kitchen_scene13:stool3:seat
+    4300384: Conde_hw07_kitchen_scene13:stool3:pPipe1
+    4300386: Conde_hw07_kitchen_scene13:stool3:pCylinder2
+    4300388: Conde_hw07_kitchen_scene13:stool3:pPipe2
+    4300390: Conde_hw07_kitchen_scene13:stool3:pPipe3
+    4300392: Conde_hw07_kitchen_scene13:stool3:pCylinder3
+    4300394: Conde_hw07_kitchen_scene13:stool3:extrudedSurface8
+    4300396: Conde_hw07_kitchen_scene13:stool3:extrudedSurface9
+    4300398: Conde_hw07_kitchen_scene13:stool3:back_seat
+    4300400: Conde_hw07_kitchen_scene13:stool3:polySurface3
+    4300402: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300404: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300406: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300408: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300410: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300412: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300414: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300416: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300418: Conde_hw07_kitchen_scene13:stool3:pCylinder15
+    4300420: Conde_hw07_kitchen_scene13:stool3:pCylinder16
+    4300422: pCube7
+    4300424: pCube2
+    4300426: pCube4
+    4300428: pCube3
+    4300430: pCube1
+    4300432: pCube6
+    4300434: pCube9
+    4300436: pCube8
+    4300438: pCube10
+    4300440: pCube11
+    4300442: pCube12
+    4300444: pCube13
+    4300446: pCube14
+    4300448: SPOON
+    4300450: jar:pCylinder3
+    4300452: jar:pCylinder2
+    4300454: jar:pCylinder1
+    4300456: pCylinder3
+    4300458: pCylinder2
+    4300460: pCylinder1
+    4300462: cloth:loftedSurface1
+    4300464: cloth:loftedSurface2
+    4300466: KNIFE_HOLDER
+    4300468: POWER_PLUG
+    4300470: polySurface4
+    4300472: polySurface5
+    4300474: POWER_PLUG
+    4300476: polySurface4
+    4300478: polySurface5
+    4300480: POWER_PLUG
+    4300482: polySurface4
+    4300484: polySurface5
+    4300486: POWER_PLUG
+    4300488: polySurface4
+    4300490: polySurface5
+    9500000: //RootNode
+    10800000: Conde_hw07_kitchen_scene13:Conde_hw07_fridge4:spotLight1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_fridge4_blinn1
+    second: {fileID: 2100000, guid: 12817269db4eba14a89e06921685ab77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_fridge4_blinn2
+    second: {fileID: 2100000, guid: 80e741b9f1713254690f7a9e883e9350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_microwave4_blinn3
+    second: {fileID: 2100000, guid: a6a6fbfb383d12d49b3dde48ba36a386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_microwave4_blinn4
+    second: {fileID: 2100000, guid: 7f255804e59ccd840ad2326250ccb9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_microwave4_dark_plastic
+    second: {fileID: 2100000, guid: bce36f71f5c39754fb2d07c3cf13e1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_Conde_hw07_microwave4_light_plastic
+    second: {fileID: 2100000, guid: b40aa494922b9bc498fb0be6162d410f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_blinn1
+    second: {fileID: 2100000, guid: 21d10cb6cf922d24f8f4bacdcfc86da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_phong1
+    second: {fileID: 2100000, guid: d1dfcf2abde6872478a1dea33d378440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_phong2
+    second: {fileID: 2100000, guid: a087c0c5270e5954cad8124d6205bd4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conde_hw07_kitchen_scene13_sink5_blinn1
+    second: {fileID: 2100000, guid: 14aa3f7e7443e244482c6500c2b8ba07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jar_blinn1
+    second: {fileID: 2100000, guid: 77e885cbeee152a4ba3a8b35df8a9780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jar_lambert2
+    second: {fileID: 2100000, guid: ffa59c2a0932dd14e97a55c8337edb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jar_phong1
+    second: {fileID: 2100000, guid: 4e919f3ccbb74664bb6ae481fd5d678a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: bb612d7c1eea86747ac5164a2de1371e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

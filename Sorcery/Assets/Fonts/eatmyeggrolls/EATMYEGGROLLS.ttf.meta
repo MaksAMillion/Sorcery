@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 62997e34204287a448b950a1b05026fe
+timeCreated: 1520485935
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EATMYEGGROLLS
+  fontNames:
+  - EATMYEGGROLLS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

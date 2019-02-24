@@ -1,0 +1,13 @@
+__Page_Desc;;;;;
+__Line_NpcName;_Eng;North;
+;;;;;
+__Page_Welcome;;;;;
+__Line_NpcAnswer;_Eng;Hey, I'm North. If you get hungry the campus cafeteria is over here on your left.;
+__Line_Common;_Eng;What kind of food do you have there?;
+;;;;;
+__Page_Common;;;;;
+__Line_NpcAnswer;_Eng;There's Johnnyyyys, Panda Expresso, El Loco C, and some other stuff. Go check it out.;
+__Line_Exit;_Eng;I'll take a look, thanks!;
+;;;;;
+__Page_Exit;;;;;
+__Line_Effect;_Exit;;;;

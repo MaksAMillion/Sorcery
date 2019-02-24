@@ -1,0 +1,13 @@
+﻿__Page_Desc;;;;;
+__Line_NpcName;_Eng;Valeria;
+;;;;;
+__Page_Welcome;;;;;
+__Line_NpcAnswer;_Eng;Ah, here for financial aid? Admissions? Career center? Health?;
+__Line_Common;_Eng;Yeah, I'm looking for the First Aid building actually.;
+;;;;;
+__Page_Common;;;;;
+__Line_NpcAnswer;_Eng;Your're close! It's the pinkish building right down there. There's a red cross on it and big syringe near the entrance.;
+__Line_Exit;_Eng;Awesome! Thank You!;
+;;;;;
+__Page_Exit;;;;;
+__Line_Effect;_Exit;;;;

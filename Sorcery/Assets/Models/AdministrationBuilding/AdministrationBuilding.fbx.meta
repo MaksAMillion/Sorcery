@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: abb0b5f80dcac7142ade230120506635
+timeCreated: 1517269790
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: imagePlane1
+    100004: Music_Bldg:directionalLight1
+    100006: Music_Bldg:pCube2
+    100008: Music_Bldg:pCube3
+    100010: pCube1
+    100012: pCube2
+    100014: pCube3
+    100016: pCube4
+    400000: //RootNode
+    400002: imagePlane1
+    400004: Music_Bldg:directionalLight1
+    400006: Music_Bldg:pCube2
+    400008: Music_Bldg:pCube3
+    400010: pCube1
+    400012: pCube2
+    400014: pCube3
+    400016: pCube4
+    2300000: Music_Bldg:pCube2
+    2300002: Music_Bldg:pCube3
+    2300004: pCube1
+    2300006: pCube2
+    2300008: pCube3
+    2300010: pCube4
+    3300000: Music_Bldg:pCube2
+    3300002: Music_Bldg:pCube3
+    3300004: pCube1
+    3300006: pCube2
+    3300008: pCube3
+    3300010: pCube4
+    4300000: pCube1
+    4300002: Music_Bldg:pCube2
+    4300004: Music_Bldg:pCube3
+    4300006: pCube2
+    4300008: pCube3
+    4300010: pCube4
+    6400000: Music_Bldg:pCube2
+    6400002: Music_Bldg:pCube3
+    6400004: pCube1
+    6400006: pCube2
+    6400008: pCube3
+    6400010: pCube4
+    9500000: //RootNode
+    10800000: Music_Bldg:directionalLight1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_Bldg_blinn1
+    second: {fileID: 2100000, guid: 1316659cb7d11ee4ea4c48f65ba92ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_Bldg_blinn2
+    second: {fileID: 2100000, guid: cdedbe229de7ec4429a043ac065fd5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_Bldg_blinn4
+    second: {fileID: 2100000, guid: 7fbc47b87728b164386b3a8a9fb7dafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_Bldg_blinn5
+    second: {fileID: 2100000, guid: 34631d12986349a4fba860cdb7720664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Music_Bldg_blinn7
+    second: {fileID: 2100000, guid: 642d86e9b6aca7f4498be9d2998be0fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn10
+    second: {fileID: 2100000, guid: 02ba02078ea471c499ce150a74362daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn11
+    second: {fileID: 2100000, guid: 43b3668ea6691a745b1d142be5981f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn13
+    second: {fileID: 2100000, guid: 51d9820b0332a294997038c9b46f7723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn14
+    second: {fileID: 2100000, guid: bf9cb817485018c4c92d7f7c66b4b59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: e7df88cff6eed0d47bd06fa0b7bce5cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 678e7a7f5ba90e2409febb5578b8576a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: b14b9e8821a9c8040989d0d7341f85cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: a236602d2c526ed42b7ef67003022001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 4515e0302cf27c44cb3ded9c6a21c677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 224f81496bd484c499584e979b9bf4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: dd90f3c47ae9e64459f4ac5596c50fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: a958ac9ab925f304492eba244be6aaa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 1d991f42538363f49bc4484d083c4849, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,8 +8,9 @@ using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine.SceneManagement;
 
 
-public class GameTimer : MonoBehaviour {
-
+public class GameTimer : MonoBehaviour
+{
+    
 	private float gameTime;
 	private  Text timeText;
 	private bool timerIsActive = false;
@@ -51,7 +52,7 @@ public class GameTimer : MonoBehaviour {
 
             if (gameTime <= 0) {
                 // SceneManager.LoadScene("Score");
-                Debug.Log("Score scene is not in this build");
+                // Debug.Log("Score scene is not in this build");
 			}
 
 		}

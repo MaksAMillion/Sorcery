@@ -47,8 +47,11 @@ public class GameTimer : MonoBehaviour {
 
 			timeText.text = timeString;
 
-			if (gameTime <= 0) {
-				SceneManager.LoadScene ("Score");
+
+
+            if (gameTime <= 0) {
+                // SceneManager.LoadScene("Score");
+                Debug.Log("Score scene is not in this build");
 			}
 
 		}

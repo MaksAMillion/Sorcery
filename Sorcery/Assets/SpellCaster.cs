@@ -1,8 +1,9 @@
-﻿using System.Collections;
+﻿using HoloToolkit.Unity.InputModule;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpellCaster : MonoBehaviour
+public class SpellCaster : MonoBehaviour, ISpeechHandler
 {
     [SerializeField]
     ParticleSystem particleSystem;
@@ -24,7 +25,16 @@ public class SpellCaster : MonoBehaviour
     public void castSpell()
     {
         Debug.Log("Expecto Patronum");
-        particleObject = Instantiate(particleSystem, _SpawnPoint);
-        particleObject.transform.up = transform.right;
+        particleSystem.Play();
+    }
+
+    public void OnSpeechKeywordRecognized(SpeechEventData eventData)
+    {
+        switch (eventData.RecognizedText)
+        {
+            case "Expecto Patronum":
+                castSpell();
+                break;
+        }
     }
 }

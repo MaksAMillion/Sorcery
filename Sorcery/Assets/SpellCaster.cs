@@ -9,6 +9,9 @@ public class SpellCaster : MonoBehaviour, ISpeechHandler
     ParticleSystem particleSystem;
     [SerializeField]
     Transform _SpawnPoint;
+    [SerializeField]
+    GameObject _CorporealPatronusPrefab;
+    GameObject corporealPatronus;
 
     private ParticleSystem particleObject;
 
@@ -25,6 +28,10 @@ public class SpellCaster : MonoBehaviour, ISpeechHandler
     public void castSpell()
     {
         Debug.Log("Expecto Patronum");
+        corporealPatronus = Instantiate(_CorporealPatronusPrefab, _SpawnPoint);
+        corporealPatronus.transform.localScale = new Vector3(10.0f, 10.0f, 10.0f);
+        corporealPatronus.transform.Rotate(new Vector3(-90, 0, 180));
+        corporealPatronus.transform.parent = null;
         particleSystem.Play();
     }
 
